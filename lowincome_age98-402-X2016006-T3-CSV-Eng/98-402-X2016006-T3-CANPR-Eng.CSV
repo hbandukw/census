@@ -1,0 +1,112 @@
+"Geographic code","Geographic name","Global non-response rate","Data quality flag","Low-income concepts","Age groups","Population in private households for income status, 2006","Population in private households for income status, 2016","Number of persons in low income, 2005","Number of persons in low income, 2015","Prevalence of low income (%), 2005","Prevalence of low income (%), 2015","Prevalence of low income (%), Difference"
+"01","Canada",4.0,"20000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",30638315,33968295,4301420,4809940,14.0,14.2,0.2
+"01","Canada",4.0,"20000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",6718460,6836375,1151960,1163830,17.1,17.0,-0.1
+"01","Canada",4.0,"20000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",1975185,2228770,371710,396090,18.8,17.8,-1.0
+"01","Canada",4.0,"20000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",19935175,21695090,2670805,2855290,13.4,13.2,-0.2
+"01","Canada",4.0,"20000","Low-income measure, after-tax (LIM-AT)","65 years and over",3984680,5436830,478650,790820,12.0,14.5,2.5
+"01","Canada",4.0,"20000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",30628935,33968295,3484620,3128995,11.4,9.2,-2.2
+"01","Canada",4.0,"20000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",6709080,6836375,879960,696025,13.1,10.2,-2.9
+"01","Canada",4.0,"20000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",1972050,2228770,286725,236430,14.5,10.6,-3.9
+"01","Canada",4.0,"20000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",19935175,21695090,2337785,2157750,11.7,9.9,-1.8
+"01","Canada",4.0,"20000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",3984680,5436830,266885,275225,6.7,5.1,-1.6
+"10","Newfoundland and Labrador",4.0,"00000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",497490,509340,99580,78590,20.0,15.4,-4.6
+"10","Newfoundland and Labrador",4.0,"00000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",98725,89425,25210,15920,25.5,17.8,-7.7
+"10","Newfoundland and Labrador",4.0,"00000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",27550,26950,7625,5200,27.7,19.3,-8.4
+"10","Newfoundland and Labrador",4.0,"00000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",333340,324715,60020,40420,18.0,12.4,-5.6
+"10","Newfoundland and Labrador",4.0,"00000","Low-income measure, after-tax (LIM-AT)","65 years and over",65425,95200,14350,22250,21.9,23.4,1.5
+"10","Newfoundland and Labrador",4.0,"00000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",497395,509340,50135,29200,10.1,5.7,-4.4
+"10","Newfoundland and Labrador",4.0,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",98635,89425,13030,6065,13.2,6.8,-6.4
+"10","Newfoundland and Labrador",4.0,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",27530,26955,4075,2035,14.8,7.5,-7.3
+"10","Newfoundland and Labrador",4.0,"00000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",333340,324715,35450,21880,10.6,6.7,-3.9
+"10","Newfoundland and Labrador",4.0,"00000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",65420,95200,1650,1260,2.5,1.3,-1.2
+"11","Prince Edward Island",4.1,"00000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",132885,139090,20590,23455,15.5,16.9,1.4
+"11","Prince Edward Island",4.1,"00000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",29750,27505,5915,5980,19.9,21.7,1.8
+"11","Prince Edward Island",4.1,"00000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",8010,8435,1780,2030,22.2,24.1,1.9
+"11","Prince Edward Island",4.1,"00000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",84750,85800,11545,12375,13.6,14.4,0.8
+"11","Prince Edward Island",4.1,"00000","Low-income measure, after-tax (LIM-AT)","65 years and over",18385,25785,3120,5100,17.0,19.8,2.8
+"11","Prince Edward Island",4.1,"00000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",132875,139085,9345,8730,7.0,6.3,-0.7
+"11","Prince Edward Island",4.1,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",29740,27505,2355,2040,7.9,7.4,-0.5
+"11","Prince Edward Island",4.1,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",8015,8435,765,675,9.5,8.0,-1.5
+"11","Prince Edward Island",4.1,"00000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",84745,85800,6390,6215,7.5,7.2,-0.3
+"11","Prince Edward Island",4.1,"00000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",18385,25785,610,480,3.3,1.9,-1.4
+"12","Nova Scotia",3.9,"00000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",891300,898345,153610,154955,17.2,17.2,0.0
+"12","Nova Scotia",3.9,"00000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",180835,159820,40795,35525,22.6,22.2,-0.4
+"12","Nova Scotia",3.9,"00000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",50030,49595,12665,12745,25.3,25.7,0.4
+"12","Nova Scotia",3.9,"00000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",581070,565395,93340,88355,16.1,15.6,-0.5
+"12","Nova Scotia",3.9,"00000","Low-income measure, after-tax (LIM-AT)","65 years and over",129400,173125,19475,31075,15.1,17.9,2.8
+"12","Nova Scotia",3.9,"00000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",891010,898345,85510,70745,9.6,7.9,-1.7
+"12","Nova Scotia",3.9,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",180540,159820,20755,15285,11.5,9.6,-1.9
+"12","Nova Scotia",3.9,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",49910,49595,6725,5645,13.5,11.4,-2.1
+"12","Nova Scotia",3.9,"00000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",581070,565395,60790,52215,10.5,9.2,-1.3
+"12","Nova Scotia",3.9,"00000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",129405,173130,3960,3240,3.1,1.9,-1.2
+"13","New Brunswick",3.9,"00000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",709285,722550,122135,123820,17.2,17.1,-0.1
+"13","New Brunswick",3.9,"00000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",145320,131930,32000,29250,22.0,22.2,0.2
+"13","New Brunswick",3.9,"00000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",40725,40900,10220,10290,25.1,25.2,0.1
+"13","New Brunswick",3.9,"00000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",464050,452800,73165,66740,15.8,14.7,-1.1
+"13","New Brunswick",3.9,"00000","Low-income measure, after-tax (LIM-AT)","65 years and over",99920,137820,16970,27830,17.0,20.2,3.2
+"13","New Brunswick",3.9,"00000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",709060,722550,66115,49825,9.3,6.9,-2.4
+"13","New Brunswick",3.9,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",145085,131935,16870,11520,11.6,8.7,-2.9
+"13","New Brunswick",3.9,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",40690,40905,5550,4200,13.6,10.3,-3.3
+"13","New Brunswick",3.9,"00000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",464050,452800,46370,35680,10.0,7.9,-2.1
+"13","New Brunswick",3.9,"00000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",99920,137820,2865,2630,2.9,1.9,-1.0
+"24","Quebec",3.7,"20000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",7350555,7921505,1127190,1160195,15.3,14.6,-0.7
+"24","Quebec",3.7,"20000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",1529610,1564410,247900,222955,16.2,14.3,-1.9
+"24","Quebec",3.7,"20000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",444280,532415,81795,75270,18.4,14.1,-4.3
+"24","Quebec",3.7,"20000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",4845430,5021870,721185,688135,14.9,13.7,-1.2
+"24","Quebec",3.7,"20000","Low-income measure, after-tax (LIM-AT)","65 years and over",975515,1335215,158100,249105,16.2,18.7,2.5
+"24","Quebec",3.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",7349680,7921500,920405,731345,12.5,9.2,-3.3
+"24","Quebec",3.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",1528730,1564415,191590,129325,12.5,8.3,-4.2
+"24","Quebec",3.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",444010,532415,63495,44375,14.3,8.3,-6.0
+"24","Quebec",3.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",4845430,5021870,632520,514540,13.1,10.2,-2.9
+"24","Quebec",3.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",975515,1335220,96300,87475,9.9,6.6,-3.3
+"35","Ontario",3.7,"20000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",11930865,13184055,1535360,1898975,12.9,14.4,1.5
+"35","Ontario",3.7,"20000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",2697805,2656535,449635,489910,16.7,18.4,1.7
+"35","Ontario",3.7,"20000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",799445,835000,142145,165145,17.8,19.8,2.0
+"35","Ontario",3.7,"20000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",7699635,8418965,946450,1155315,12.3,13.7,1.4
+"35","Ontario",3.7,"20000","Low-income measure, after-tax (LIM-AT)","65 years and over",1533420,2108560,139275,253755,9.1,12.0,2.9
+"35","Ontario",3.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",11926140,13184055,1324485,1298585,11.1,9.8,-1.3
+"35","Ontario",3.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",2693085,2656535,369595,304390,13.7,11.5,-2.2
+"35","Ontario",3.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",797595,834995,118255,102750,14.8,12.3,-2.5
+"35","Ontario",3.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",7699630,8418965,864525,887640,11.2,10.5,-0.7
+"35","Ontario",3.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",1533420,2108560,90360,106555,5.9,5.1,-0.8
+"46","Manitoba",4.3,"00000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",1062060,1175720,166920,180880,15.7,15.4,-0.3
+"46","Manitoba",4.3,"00000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",247590,260905,53655,57180,21.7,21.9,0.2
+"46","Manitoba",4.3,"00000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",72280,85935,19285,21330,26.7,24.8,-1.9
+"46","Manitoba",4.3,"00000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",666600,737035,93875,98915,14.1,13.4,-0.7
+"46","Manitoba",4.3,"00000","Low-income measure, after-tax (LIM-AT)","65 years and over",147875,177780,19390,24780,13.1,13.9,0.8
+"46","Manitoba",4.3,"00000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",1061865,1175720,129875,115965,12.2,9.9,-2.3
+"46","Manitoba",4.3,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",247390,260905,39230,33260,15.9,12.7,-3.2
+"46","Manitoba",4.3,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",72220,85935,14410,12310,20.0,14.3,-5.7
+"46","Manitoba",4.3,"00000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",666600,737035,80250,73655,12.0,10.0,-2.0
+"46","Manitoba",4.3,"00000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",147875,177775,10395,9050,7.0,5.1,-1.9
+"47","Saskatchewan",4.8,"00000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",897770,1014605,150855,130220,16.8,12.8,-4.0
+"47","Saskatchewan",4.8,"00000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",210535,230205,46075,41010,21.9,17.8,-4.1
+"47","Saskatchewan",4.8,"00000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",60930,79345,16415,15420,26.9,19.4,-7.5
+"47","Saskatchewan",4.8,"00000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",551630,631280,83355,67080,15.1,10.6,-4.5
+"47","Saskatchewan",4.8,"00000","Low-income measure, after-tax (LIM-AT)","65 years and over",135610,153125,21425,22130,15.8,14.5,-1.3
+"47","Saskatchewan",4.8,"00000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",897575,1014605,88790,59435,9.9,5.9,-4.0
+"47","Saskatchewan",4.8,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",210335,230205,26345,17870,12.5,7.8,-4.7
+"47","Saskatchewan",4.8,"00000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",60890,79345,9935,7000,16.3,8.8,-7.5
+"47","Saskatchewan",4.8,"00000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",551625,631280,57795,38780,10.5,6.1,-4.4
+"47","Saskatchewan",4.8,"00000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",135610,153125,4650,2795,3.4,1.8,-1.6
+"48","Alberta",4.7,"20000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",3186180,3925220,312575,363885,9.8,9.3,-0.5
+"48","Alberta",4.7,"20000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",751915,893255,96755,114215,12.9,12.8,-0.1
+"48","Alberta",4.7,"20000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",234725,310080,34670,41750,14.8,13.5,-1.3
+"48","Alberta",4.7,"20000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",2110635,2580730,195860,210865,9.3,8.2,-1.1
+"48","Alberta",4.7,"20000","Low-income measure, after-tax (LIM-AT)","65 years and over",323630,451235,19955,38800,6.2,8.6,2.4
+"48","Alberta",4.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",3185130,3925220,288540,273515,9.1,7.0,-2.1
+"48","Alberta",4.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",750865,893255,77595,76930,10.3,8.6,-1.7
+"48","Alberta",4.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",234420,310080,27850,28190,11.9,9.1,-2.8
+"48","Alberta",4.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",2110635,2580730,195495,181805,9.3,7.0,-2.3
+"48","Alberta",4.7,"20000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",323635,451230,15455,14780,4.8,3.3,-1.5
+"59","British Columbia",4.9,"20000","Low-income measure, after-tax (LIM-AT)","Total - Age groups",3979920,4477875,612605,694960,15.4,15.5,0.1
+"59","British Columbia",4.9,"20000","Low-income measure, after-tax (LIM-AT)","0 to 17 years",826385,822390,154020,151875,18.6,18.5,-0.1
+"59","British Columbia",4.9,"20000","Low-income measure, after-tax (LIM-AT)","0 to 5 years",237210,260110,45115,46920,19.0,18.0,-1.0
+"59","British Columbia",4.9,"20000","Low-income measure, after-tax (LIM-AT)","18 to 64 years",2598040,2876495,391995,427090,15.1,14.8,-0.3
+"59","British Columbia",4.9,"20000","Low-income measure, after-tax (LIM-AT)","65 years and over",555495,778990,66590,115990,12.0,14.9,2.9
+"59","British Columbia",4.9,"20000","Low-income cut-offs, after-tax (LICO-AT)","Total - Age groups",3978215,4477875,521425,491645,13.1,11.0,-2.1
+"59","British Columbia",4.9,"20000","Low-income cut-offs, after-tax (LICO-AT)","0 to 17 years",824680,822390,122595,99335,14.9,12.1,-2.8
+"59","British Columbia",4.9,"20000","Low-income cut-offs, after-tax (LICO-AT)","0 to 5 years",236785,260115,35670,29250,15.1,11.2,-3.9
+"59","British Columbia",4.9,"20000","Low-income cut-offs, after-tax (LICO-AT)","18 to 64 years",2598040,2876500,358190,345345,13.8,12.0,-1.8
+"59","British Columbia",4.9,"20000","Low-income cut-offs, after-tax (LICO-AT)","65 years and over",555495,778990,40635,46965,7.3,6.0,-1.3
+

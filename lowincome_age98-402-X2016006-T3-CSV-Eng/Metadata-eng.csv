@@ -1,0 +1,56 @@
+Table notes:
+
+Median household total income and after-tax income by household type
+- Household type  - "Other census-family households" include one-census-family households in which additional persons are present and multiple-census-family households.  "Non-census-family households" include one-person households.  For more information, refer to the Census Dictionary: Household type; Census family structure.
+
+Low-income statistics by age groups
+- Low-income concepts  - Low-income measure, after tax (LIM-AT) - The Low-income measure, after tax, refers to a fixed percentage (50%) of median adjusted after-tax income of private households. The household after-tax income is adjusted by an equivalence scale to take economies of scale into account. This adjustment for different household sizes reflects the fact that a household's needs increase, but at a decreasing rate, as the number of members increases. Using data from the 2016 Census of Population, the line applicable to a household is defined as half the Canadian median of the adjusted household after-tax income, multiplied by the square root of household size. The median is determined based on all persons in private households where low-income concepts are applicable. Thresholds for specific household sizes are presented in Table 4.2 Low-income measures thresholds (LIM-AT and LIM-BT) for private households of Canada, 2015, Dictionary, Census of Population, 2016. When the unadjusted after-tax income of household pertaining to a person falls below the threshold applicable to the person based on household size, the person is considered to be in low income according to LIM-AT. Since the LIM-AT threshold and household income are unique within each household, low-income status based on LIM-AT can also be reported for households. Low-income cut-offs, after tax (LICO-AT) - The Low-income cut-offs, after tax refers to an income threshold, defined using 1992 expenditure data, below which economic families or persons not in economic families would likely have devoted a larger share of their after-tax income than average to the necessities of food, shelter and clothing. More specifically, the thresholds represented income levels at which these families or persons were expected to spend 20 percentage points or more of their after-tax income than average on food, shelter and clothing. These thresholds have been adjusted to current dollars using the all-items Consumer Price Index (CPI). The LICO-AT has 35 cut-offs varying by seven family sizes and five different sizes of area of residence to account for economies of scale and potential differences in cost of living in communities of different sizes. These thresholds are presented in Table 4.3 Low-income cut-offs, after tax (LICO-AT - 1992 base) for economic families and persons not in economic families, 2015, Dictionary, Census of Population, 2016. When the after-tax income of an economic family member or a person not in an economic family falls below the threshold applicable to the person, the person is considered to be in low income according to LICO-AT. Since the LICO-AT threshold and family income are unique within each economic family, low-income status based on LICO-AT can also be reported for economic families.
+- Geographic name - Low-income concepts do not apply to certain geographic areas, i.e., geographic areas within territories and/or census subdivision types associated with 'on reserve' population.
+- Population in private households for income status- Low-income status - The income situation of the statistical unit in relation to a specific low-income line in a reference year. Statistical units with income that is below the low-income line are considered to be in low income.
+
+Note:
+
+Null (empty) cells represent data that are not applicable or not available for a specific reference period.
+
+Data quality notes:
+
+Digit Description
+First (0XXXX): Incomplete enumeration flag
+Second (X0XXX): Short-form data quality flag
+Third (XX0XX): Short-form income data quality flag
+Fourth (XXX0X): Not applicable
+Fifth (XXXX0): Not applicable 
+
+Flag description
+Incomplete enumeration flag
+0 = Default. Not applicable.
+1 = Incompletely enumerated Indian reserve or Indian settlement (suppressed).
+2 = Excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements.
+
+Short-form data quality flag
+0 = Default. Data quality index showing a short-form global non-response rate lower than 10%.
+"1 = Data quality index showing a short-form global non-response rate higher than or equal to 10%, but lower than 20%."
+"2 = Data quality index showing a short-form global non-response rate higher than or equal to 20%, but lower than 30%."
+"3 = Data quality index showing a short-form global non-response rate higher than or equal to 30%, but lower than 40%."
+"4 = Data quality index showing a short-form global non-response rate higher than or equal to 40%, but lower than 50%."
+5 = Data quality index showing a short-form global non-response rate higher than or equal to 50% (suppressed).
+9 = Short-form data suppressed to meet the confidentiality requirements of the Statistics Act.
+
+Short-form income data quality flag
+0 = Default. Data quality index showing a short-form income non-response rate lower than 10%.
+"1 = Data quality index showing a short-form income non-response rate higher than or equal to 10%, but lower than 20%."
+"2 = Data quality index showing a short-form income non-response rate higher than or equal to 20%, but lower than 30%."
+3 = Data quality index showing a short-form income non-response rate higher than or equal to 30%.
+9 = Short-form income data suppressed to meet the confidentiality requirements of the Statistics Act.
+
+Not applicable
+0 = Default.
+
+Not applicable
+0 = Default.
+
+"Source: Statistics Canada, 2016 Census of Population."
+
+How to cite: Statistics Canada. 2017. Income Highlight Tables. 2016 Census.
+"Statistics Canada Catalogue no. 98-402-X2016006 Ottawa. Released September 13, 2017."
+http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/inc-rev/index-eng.cfm
