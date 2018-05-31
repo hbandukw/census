@@ -1,0 +1,128 @@
+"Geographic code","Geographic name","Global non-response rate","Data quality flag","Household type","Number of households, 2006","Number of households, 2016","Median household total income (2015 constant dollars), 2005","Median household total income (2015 constant dollars), 2015","Median household total income (2015 constant dollars), % change","Median household after-tax income (2015 constant dollars), 2005","Median household after-tax income (2015 constant dollars), 2015","Median household after-tax income (2015 constant dollars), % change"
+"01","Canada",4.0,"20000","Total – Household type including census family structure",12437470,14072080,63457,70336,10.8,55118,61348,11.3
+"01","Canada",4.0,"20000","  Census-family households",8651335,9519940,79757,90127,13.0,68687,77855,13.3
+"01","Canada",4.0,"20000","    Households consisting of only one census family without additional persons",7914690,8605750,78218,87989,12.5,67187,75811,12.8
+"01","Canada",4.0,"20000","      One couple, with or without children in their census family",6802790,7355560,84429,95148,12.7,71966,81306,13.0
+"01","Canada",4.0,"20000","        One couple, without children in their census family",3122715,3627185,70508,79343,12.5,60503,68575,13.3
+"01","Canada",4.0,"20000","        One couple, with children in their census family",3680075,3728375,97114,112545,15.9,82410,95309,15.7
+"01","Canada",4.0,"20000","      One lone-parent census family",1111900,1250190,45671,52265,14.4,42574,48003,12.8
+"01","Canada",4.0,"20000","    Other census-family households",736645,914190,96522,110599,14.6,85967,98547,14.6
+"01","Canada",4.0,"20000","  Non-census-family households",3786135,4552135,34215,37955,10.9,30338,33795,11.4
+"10","Newfoundland and Labrador",4.0,"00000","Total – Household type including census family structure",197185,218675,52204,67272,28.9,46147,59060,28.0
+"10","Newfoundland and Labrador",4.0,"00000","  Census-family households",152035,157515,62150,84991,36.8,54132,73255,35.3
+"10","Newfoundland and Labrador",4.0,"00000","    Households consisting of only one census family without additional persons",139920,146290,60875,83087,36.5,52956,71576,35.2
+"10","Newfoundland and Labrador",4.0,"00000","      One couple, with or without children in their census family",121125,127060,65628,90416,37.8,56313,77072,36.9
+"10","Newfoundland and Labrador",4.0,"00000","        One couple, without children in their census family",56850,70645,52479,69671,32.8,45946,61257,33.3
+"10","Newfoundland and Labrador",4.0,"00000","        One couple, with children in their census family",64280,56415,77998,120386,54.3,66626,99781,49.8
+"10","Newfoundland and Labrador",4.0,"00000","      One lone-parent census family",18790,19230,33319,43730,31.2,31828,41428,30.2
+"10","Newfoundland and Labrador",4.0,"00000","    Other census-family households",12115,11225,74119,106860,44.2,67174,94123,40.1
+"10","Newfoundland and Labrador",4.0,"00000","  Non-census-family households",45150,61160,22869,31033,35.7,21694,28494,31.3
+"11","Prince Edward Island",4.1,"00000","Total – Household type including census family structure",53135,59470,55061,61163,11.1,48240,53434,10.8
+"11","Prince Edward Island",4.1,"00000","  Census-family households",38580,40955,67191,77677,15.6,57968,66899,15.4
+"11","Prince Edward Island",4.1,"00000","    Households consisting of only one census family without additional persons",36130,38525,66208,76578,15.7,57086,65884,15.4
+"11","Prince Edward Island",4.1,"00000","      One couple, with or without children in their census family",30890,33245,71332,82273,15.3,61180,70289,14.9
+"11","Prince Edward Island",4.1,"00000","        One couple, without children in their census family",14415,17895,60250,70250,16.6,52234,60821,16.4
+"11","Prince Edward Island",4.1,"00000","        One couple, with children in their census family",16480,15345,80600,98859,22.7,69268,83923,21.2
+"11","Prince Edward Island",4.1,"00000","      One lone-parent census family",5240,5280,40032,44983,12.4,37120,41460,11.7
+"11","Prince Edward Island",4.1,"00000","    Other census-family households",2450,2430,85000,95846,12.8,76837,84821,10.4
+"11","Prince Edward Island",4.1,"00000","  Non-census-family households",14555,18515,27778,32303,16.3,25107,28746,14.5
+"12","Nova Scotia",3.9,"00000","Total – Household type including census family structure",376845,401990,55117,60764,10.2,48030,53129,10.6
+"12","Nova Scotia",3.9,"00000","  Census-family households",262455,265565,68559,78858,15.0,59170,67783,14.6
+"12","Nova Scotia",3.9,"00000","    Households consisting of only one census family without additional persons",243145,246120,67564,77607,14.9,58148,66561,14.5
+"12","Nova Scotia",3.9,"00000","      One couple, with or without children in their census family",207470,209075,73742,84347,14.4,62527,71569,14.5
+"12","Nova Scotia",3.9,"00000","        One couple, without children in their census family",104535,119740,62111,71628,15.3,53592,61981,15.7
+"12","Nova Scotia",3.9,"00000","        One couple, with children in their census family",102935,89330,86152,104348,21.1,72536,87267,20.3
+"12","Nova Scotia",3.9,"00000","      One lone-parent census family",35675,37045,37198,44639,20.0,35288,41543,17.7
+"12","Nova Scotia",3.9,"00000","    Other census-family households",19310,19450,81465,95172,16.8,72891,84131,15.4
+"12","Nova Scotia",3.9,"00000","  Non-census-family households",114390,136420,29193,33180,13.7,26329,29715,12.9
+"13","New Brunswick",3.9,"00000","Total – Household type including census family structure",295960,319775,53483,59347,11.0,47306,52553,11.1
+"13","New Brunswick",3.9,"00000","  Census-family households",213400,218515,65503,75618,15.4,57010,66141,16.0
+"13","New Brunswick",3.9,"00000","    Households consisting of only one census family without additional persons",198055,203290,64493,74307,15.2,56006,64900,15.9
+"13","New Brunswick",3.9,"00000","      One couple, with or without children in their census family",170095,174505,69995,80284,14.7,60041,69490,15.7
+"13","New Brunswick",3.9,"00000","        One couple, without children in their census family",84795,98760,59184,68151,15.2,51553,59938,16.3
+"13","New Brunswick",3.9,"00000","        One couple, with children in their census family",85300,75745,82134,99711,21.4,70200,84897,20.9
+"13","New Brunswick",3.9,"00000","      One lone-parent census family",27960,28785,34986,42035,20.1,33639,39810,18.3
+"13","New Brunswick",3.9,"00000","    Other census-family households",15345,15225,78299,92267,17.8,70847,82976,17.1
+"13","New Brunswick",3.9,"00000","  Non-census-family households",82560,101255,27647,31376,13.5,25137,28459,13.2
+"24","Quebec",3.7,"20000","Total – Household type including census family structure",3189345,3531665,54921,59822,8.9,47854,52207,9.1
+"24","Quebec",3.7,"20000","  Census-family households",2094900,2226940,71616,80523,12.4,61914,69066,11.6
+"24","Quebec",3.7,"20000","    Households consisting of only one census family without additional persons",1979560,2103210,70986,79642,12.2,61191,68153,11.4
+"24","Quebec",3.7,"20000","      One couple, with or without children in their census family",1678415,1778265,76700,85862,11.9,65608,72896,11.1
+"24","Quebec",3.7,"20000","        One couple, without children in their census family",809800,921035,62903,70280,11.7,54032,60367,11.7
+"24","Quebec",3.7,"20000","        One couple, with children in their census family",868615,857230,90135,104889,16.4,76926,88291,14.8
+"24","Quebec",3.7,"20000","      One lone-parent census family",301145,324945,45626,52376,14.8,42828,47469,10.8
+"24","Quebec",3.7,"20000","    Other census-family households",115340,123725,82079,94853,15.6,74014,84900,14.7
+"24","Quebec",3.7,"20000","  Non-census-family households",1094445,1304725,30166,33546,11.2,27034,30066,11.2
+"35","Ontario",3.7,"20000","Total – Household type including census family structure",4555030,5169175,71534,74287,3.8,61659,65285,5.9
+"35","Ontario",3.7,"20000","  Census-family households",3301130,3627505,87415,93006,6.4,74801,81084,8.4
+"35","Ontario",3.7,"20000","    Households consisting of only one census family without additional persons",2973765,3223455,85343,90576,6.1,72856,78770,8.1
+"35","Ontario",3.7,"20000","      One couple, with or without children in their census family",2558835,2737075,92052,98295,6.8,77904,84684,8.7
+"35","Ontario",3.7,"20000","        One couple, without children in their census family",1084255,1253840,76541,82047,7.2,65445,71672,9.5
+"35","Ontario",3.7,"20000","        One couple, with children in their census family",1474580,1483235,104287,114368,9.7,87866,97748,11.2
+"35","Ontario",3.7,"20000","      One lone-parent census family",414925,486380,48419,53024,9.5,44510,49100,10.3
+"35","Ontario",3.7,"20000","    Other census-family households",327365,404050,106062,111624,5.2,93614,100059,6.9
+"35","Ontario",3.7,"20000","  Non-census-family households",1253895,1541665,37734,39525,4.7,33424,35501,6.2
+"46","Manitoba",4.3,"00000","Total – Household type including census family structure",448780,489050,56644,68147,20.3,49511,59093,19.4
+"46","Manitoba",4.3,"00000","  Census-family households",304820,334235,72944,86041,18.0,62760,73824,17.6
+"46","Manitoba",4.3,"00000","    Households consisting of only one census family without additional persons",281660,301520,72409,85200,17.7,62079,72808,17.3
+"46","Manitoba",4.3,"00000","      One couple, with or without children in their census family",241065,258365,78403,91582,16.8,66547,77637,16.7
+"46","Manitoba",4.3,"00000","        One couple, without children in their census family",111940,125460,66459,79479,19.6,56984,67877,19.1
+"46","Manitoba",4.3,"00000","        One couple, with children in their census family",129125,132900,90084,105098,16.7,76162,88886,16.7
+"46","Manitoba",4.3,"00000","      One lone-parent census family",40595,43160,40609,49630,22.2,38189,45686,19.6
+"46","Manitoba",4.3,"00000","    Other census-family households",23165,32715,79441,94155,18.5,71509,84356,18.0
+"46","Manitoba",4.3,"00000","  Non-census-family households",143960,154810,31158,38131,22.4,27895,33396,19.7
+"47","Saskatchewan",4.8,"00000","Total – Household type including census family structure",387145,432625,55251,75412,36.5,48610,65784,35.3
+"47","Saskatchewan",4.8,"00000","  Census-family households",261795,293650,72103,95898,33.0,62464,82709,32.4
+"47","Saskatchewan",4.8,"00000","    Households consisting of only one census family without additional persons",244535,268235,72176,95441,32.2,62320,82026,31.6
+"47","Saskatchewan",4.8,"00000","      One couple, with or without children in their census family",211310,232665,78330,102945,31.4,66813,87715,31.3
+"47","Saskatchewan",4.8,"00000","        One couple, without children in their census family",105830,120380,66716,88221,32.2,57445,76039,32.4
+"47","Saskatchewan",4.8,"00000","        One couple, with children in their census family",105485,112285,90936,120688,32.7,77409,102015,31.8
+"47","Saskatchewan",4.8,"00000","      One lone-parent census family",33220,35570,39331,50527,28.5,37284,47406,27.1
+"47","Saskatchewan",4.8,"00000","    Other census-family households",17260,25415,70849,100861,42.4,64827,91201,40.7
+"47","Saskatchewan",4.8,"00000","  Non-census-family households",125345,138970,29583,41556,40.5,26739,36856,37.8
+"48","Alberta",4.7,"20000","Total – Household type including census family structure",1256200,1527675,75684,93835,24.0,65317,80300,22.9
+"48","Alberta",4.7,"20000","  Census-family households",881145,1076105,92522,113281,22.4,79187,96263,21.6
+"48","Alberta",4.7,"20000","    Households consisting of only one census family without additional persons",800035,956185,91099,110760,21.6,77694,93801,20.7
+"48","Alberta",4.7,"20000","      One couple, with or without children in their census family",704045,840035,97185,118289,21.7,82364,99449,20.7
+"48","Alberta",4.7,"20000","        One couple, without children in their census family",319185,391640,82840,102372,23.6,70942,86872,22.5
+"48","Alberta",4.7,"20000","        One couple, with children in their census family",384855,448395,108846,132872,22.1,91748,111051,21.0
+"48","Alberta",4.7,"20000","      One lone-parent census family",95995,116150,51834,62587,20.7,48029,56681,18.0
+"48","Alberta",4.7,"20000","    Other census-family households",81105,119915,105988,132760,25.3,93638,116300,24.2
+"48","Alberta",4.7,"20000","  Non-census-family households",375055,451570,42422,54418,28.3,37155,46737,25.8
+"59","British Columbia",4.9,"20000","Total – Household type including census family structure",1643150,1881970,62372,69995,12.2,54983,61280,11.5
+"59","British Columbia",4.9,"20000","  Census-family households",1116360,1251350,79266,90760,14.5,69301,78936,13.9
+"59","British Columbia",4.9,"20000","    Households consisting of only one census family without additional persons",996820,1095845,77119,87270,13.2,67306,75806,12.6
+"59","British Columbia",4.9,"20000","      One couple, with or without children in their census family",862380,946470,83051,93871,13.0,71892,81058,12.7
+"59","British Columbia",4.9,"20000","        One couple, without children in their census family",424900,500270,72948,81268,11.4,63483,70840,11.6
+"59","British Columbia",4.9,"20000","        One couple, with children in their census family",437485,446195,93836,109553,16.7,80967,93857,15.9
+"59","British Columbia",4.9,"20000","      One lone-parent census family",134435,149375,44637,50036,12.1,41800,45752,9.5
+"59","British Columbia",4.9,"20000","    Other census-family households",119545,155510,97207,117069,20.4,87668,103773,18.4
+"59","British Columbia",4.9,"20000","  Non-census-family households",526785,630615,35447,38556,8.8,31656,34431,8.8
+"60","Yukon",6.7,"00100","Total – Household type including census family structure",12615,15215,71093,84521,18.9,62516,73935,18.3
+"60","Yukon",6.7,"00100","  Census-family households",8175,9595,93566,112539,20.3,80595,97544,21.0
+"60","Yukon",6.7,"00100","    Households consisting of only one census family without additional persons",7435,8635,92668,109395,18.1,79302,95121,19.9
+"60","Yukon",6.7,"00100","      One couple, with or without children in their census family",6065,7165,102515,120710,17.7,87401,104274,19.3
+"60","Yukon",6.7,"00100","        One couple, without children in their census family",2840,3725,88564,105045,18.6,77329,91414,18.2
+"60","Yukon",6.7,"00100","        One couple, with children in their census family",3215,3440,110429,137574,24.6,95103,118067,24.1
+"60","Yukon",6.7,"00100","      One lone-parent census family",1375,1470,51347,61696,20.2,46891,57454,22.5
+"60","Yukon",6.7,"00100","    Other census-family households",735,960,103021,137045,33.0,90739,120747,33.1
+"60","Yukon",6.7,"00100","  Non-census-family households",4440,5620,42005,46651,11.1,37377,42416,13.5
+"61","Northwest Territories",7.5,"00100","Total – Household type including census family structure",14240,14980,94521,117688,24.5,79744,99664,25.0
+"61","Northwest Territories",7.5,"00100","  Census-family households",10415,10500,111180,143122,28.7,94100,120804,28.4
+"61","Northwest Territories",7.5,"00100","    Households consisting of only one census family without additional persons",8950,8915,110463,140063,26.8,93205,117984,26.6
+"61","Northwest Territories",7.5,"00100","      One couple, with or without children in their census family",7355,7325,124710,156516,25.5,104445,130633,25.1
+"61","Northwest Territories",7.5,"00100","        One couple, without children in their census family",2635,2820,120295,142916,18.8,100160,119083,18.9
+"61","Northwest Territories",7.5,"00100","        One couple, with children in their census family",4720,4500,128477,165912,29.1,106777,138530,29.7
+"61","Northwest Territories",7.5,"00100","      One lone-parent census family",1595,1595,48485,65408,34.9,43547,59776,37.3
+"61","Northwest Territories",7.5,"00100","    Other census-family households",1465,1585,114718,161728,41.0,99296,138684,39.7
+"61","Northwest Territories",7.5,"00100","  Non-census-family households",3825,4480,59142,73877,24.9,50147,63531,26.7
+"62","Nunavut",7.9,"00100","Total – Household type including census family structure",7855,9820,71285,97441,36.7,62918,85605,36.1
+"62","Nunavut",7.9,"00100","  Census-family households",6125,7500,75179,102187,35.9,66864,91192,36.4
+"62","Nunavut",7.9,"00100","    Households consisting of only one census family without additional persons",4675,5520,73950,98048,32.6,64452,86638,34.4
+"62","Nunavut",7.9,"00100","      One couple, with or without children in their census family",3745,4315,86443,118336,36.9,74812,102688,37.3
+"62","Nunavut",7.9,"00100","        One couple, without children in their census family",740,955,137856,167765,21.7,112256,139922,24.6
+"62","Nunavut",7.9,"00100","        One couple, with children in their census family",3005,3355,76379,106035,38.8,67488,93221,38.1
+"62","Nunavut",7.9,"00100","      One lone-parent census family",935,1205,36334,49280,35.6,34944,47067,34.7
+"62","Nunavut",7.9,"00100","    Other census-family households",1450,1980,79104,109239,38.1,72052,100403,39.3
+"62","Nunavut",7.9,"00100","  Non-census-family households",1730,2320,55616,82240,47.9,47246,70258,48.7
+
