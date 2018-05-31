@@ -1,0 +1,802 @@
+"Geographic code","Geographic name","Geographic type","Geographic name, province or territory","Geographic code, province or territory","Additional province code","Global non-response rate","Data quality flag","Value type","Total","Single-detached house","Apartment in a building that has five or more storeys","Apartment in a building that has fewer than five storeys","Row house","Semi-detached house","Apartment or flat in a duplex","Other single-attached house","Movable dwelling",
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","2016 counts",4500,4130,0,65,80,85,120,10,10
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","percentage distribution (2016)",100,91.8,0,1.4,1.8,1.9,2.7,0.2,0.2
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","percentage change (2011 to 2016)",6.6,5.2,,-23.5,166.7,54.5,9.1,100,100
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","2011 counts",4220,3925,0,85,30,55,110,5,5
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","percentage distribution (2011)",100,93,0,2,0.7,1.3,2.6,0.1,0.1
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","2016 counts",13620,10030,5,1045,425,470,1490,55,100
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","percentage distribution (2016)",100,73.6,0,7.7,3.1,3.5,10.9,0.4,0.7
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","percentage change (2011 to 2016)",6.5,6.1,,13.6,7.6,-6,6.4,120,5.3
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","2011 counts",12785,9455,0,920,395,500,1400,25,95
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","percentage distribution (2011)",100,74,0,7.2,3.1,3.9,11,0.2,0.7
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","2016 counts",5545,3765,15,600,295,355,455,0,55
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","percentage distribution (2016)",100,67.9,0.3,10.8,5.3,6.4,8.2,0,1
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","percentage change (2011 to 2016)",6.8,3.9,,-3.2,34.1,9.2,18.2,-100,1000
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","2011 counts",5190,3625,0,620,220,325,385,5,5
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","percentage distribution (2011)",100,69.8,0,11.9,4.2,6.3,7.4,0.1,0.1
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","2016 counts",6090,3875,0,490,525,390,780,20,5
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","percentage distribution (2016)",100,63.6,0,8,8.6,6.4,12.8,0.3,0.1
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","percentage change (2011 to 2016)",6.4,5.3,-100,15.3,9.4,0,8.3,33.3,0
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","2011 counts",5725,3680,5,425,480,390,720,15,5
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","percentage distribution (2011)",100,64.3,0.1,7.4,8.4,6.8,12.6,0.3,0.1
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","2016 counts",85015,46450,545,6705,6160,3990,20870,160,135
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","percentage distribution (2016)",100,54.6,0.6,7.9,7.2,4.7,24.5,0.2,0.2
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","percentage change (2011 to 2016)",7.7,3.6,5.8,4.8,-1.1,-1.1,25.2,-8.6,17.4
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","2011 counts",78960,44830,515,6400,6230,4035,16665,175,115
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","percentage distribution (2011)",100,56.8,0.7,8.1,7.9,5.1,21.1,0.2,0.1
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","2016 counts",28950,17270,40,6935,880,2165,660,55,940
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","percentage distribution (2016)",100,59.7,0.1,24,3,7.5,2.3,0.2,3.2
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","percentage change (2011 to 2016)",8.9,3.4,-27.3,20.7,19.7,12.5,13.8,10,19.7
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","2011 counts",26595,16710,55,5745,735,1925,580,50,785
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","percentage distribution (2011)",100,62.8,0.2,21.6,2.8,7.2,2.2,0.2,3
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","2016 counts",7220,3870,0,1210,650,695,265,15,515
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","percentage distribution (2016)",100,53.6,0,16.8,9,9.6,3.7,0.2,7.1
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","percentage change (2011 to 2016)",4,-2.8,,12,36.8,0,26.2,0,5.1
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","2011 counts",6940,3980,0,1080,475,695,210,15,490
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","percentage distribution (2011)",100,57.3,0,15.6,6.8,10,3,0.2,7.1
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","2016 counts",43085,31650,215,4370,735,2875,1920,75,1240
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","percentage distribution (2016)",100,73.5,0.5,10.1,1.7,6.7,4.5,0.2,2.9
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","percentage change (2011 to 2016)",1.8,0.5,4.9,2,10.5,7.3,11.6,0,2.9
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","2011 counts",42325,31485,205,4285,665,2680,1720,75,1205
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","percentage distribution (2011)",100,74.4,0.5,10.1,1.6,6.3,4.1,0.2,2.8
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","2016 counts",173460,86615,21000,36895,6655,11790,6270,235,3995
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","percentage distribution (2016)",100,49.9,12.1,21.3,3.8,6.8,3.6,0.1,2.3
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","percentage change (2011 to 2016)",5,2.8,19.3,4.2,7.9,4.4,1,-9.6,2
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","2011 counts",165150,84290,17610,35420,6165,11290,6205,260,3915
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","percentage distribution (2011)",100,51,10.7,21.4,3.7,6.8,3.8,0.2,2.4
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","2016 counts",11370,7875,15,1630,90,800,540,30,395
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","percentage distribution (2016)",100,69.3,0.1,14.3,0.8,7,4.7,0.3,3.5
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","percentage change (2011 to 2016)",2.2,1.3,50,3.8,28.6,10.3,0,20,-4.8
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","2011 counts",11120,7775,10,1570,70,725,540,25,415
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","percentage distribution (2011)",100,69.9,0.1,14.1,0.6,6.5,4.9,0.2,3.7
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","2016 counts",15130,11190,5,1705,380,675,345,20,815
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","percentage distribution (2016)",100,74,0,11.3,2.5,4.5,2.3,0.1,5.4
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","percentage change (2011 to 2016)",-0.9,-2,0,-2,16.9,0.7,-11.5,33.3,17.3
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","2011 counts",15260,11415,5,1740,325,670,390,15,695
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","percentage distribution (2011)",100,74.8,0,11.4,2.1,4.4,2.6,0.1,4.6
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","2016 counts",20095,13570,5,3395,250,595,965,75,1245
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","percentage distribution (2016)",100,67.5,0,16.9,1.2,3,4.8,0.4,6.2
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","percentage change (2011 to 2016)",3.1,0.3,0,9.9,2,14.4,15.6,50,2
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","2011 counts",19495,13525,5,3090,245,520,835,50,1220
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","percentage distribution (2011)",100,69.4,0,15.9,1.3,2.7,4.3,0.3,6.3
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","2016 counts",13970,10125,5,1325,740,525,830,85,330
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","percentage distribution (2016)",100,72.5,0,9.5,5.3,3.8,5.9,0.6,2.4
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","percentage change (2011 to 2016)",1,-1.5,-88.9,3.9,39.6,7.1,1.8,30.8,-1.5
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","2011 counts",13830,10280,45,1275,530,490,815,65,335
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","percentage distribution (2011)",100,74.3,0.3,9.2,3.8,3.5,5.9,0.5,2.4
+"330","Campbellton","CA","New Brunswick/Quebec","13","24",6.3,"00000","2016 counts",7090,4890,5,1085,285,200,355,95,175
+"330","Campbellton","CA","New Brunswick/Quebec","13","24",6.3,"00000","percentage distribution (2016)",100,69,0.1,15.3,4,2.8,5,1.3,2.5
+"330","Campbellton","CA","New Brunswick/Quebec","13","24",6.3,"00000","percentage change (2011 to 2016)",-4.7,-3.9,-92.9,-6.9,11.8,25,-14.5,11.8,-10.3
+"330","Campbellton","CA","New Brunswick/Quebec","13","24",6.3,"00000","2011 counts",7440,5090,70,1165,255,160,415,85,195
+"330","Campbellton","CA","New Brunswick/Quebec","13","24",6.3,"00000","percentage distribution (2011)",100,68.4,0.9,15.7,3.4,2.2,5.6,1.1,2.6
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","2016 counts",5860,3930,0,960,245,140,315,95,170
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","percentage distribution (2016)",100,67.1,0,16.4,4.2,2.4,5.4,1.6,2.9
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","percentage change (2011 to 2016)",-3.7,-1.9,-100,-5.4,8.9,-9.7,-7.4,18.8,-10.5
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","2011 counts",6085,4005,75,1015,225,155,340,80,190
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","percentage distribution (2011)",100,65.8,1.2,16.7,3.7,2.5,5.6,1.3,3.1
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","2016 counts",10535,7265,75,1570,225,370,620,60,350
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","percentage distribution (2016)",100,69,0.7,14.9,2.1,3.5,5.9,0.6,3.3
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","percentage change (2011 to 2016)",0.4,2,-55.9,3.6,9.8,7.2,-7.5,9.1,-13.6
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","2011 counts",10490,7125,170,1515,205,345,670,55,405
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","percentage distribution (2011)",100,67.9,1.6,14.4,2,3.3,6.4,0.5,3.9
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","2016 counts",42770,25795,460,8410,1140,850,2680,195,3240
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","percentage distribution (2016)",100,60.3,1.1,19.7,2.7,2,6.3,0.5,7.6
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","percentage change (2011 to 2016)",5.2,3.5,31.4,8.4,35.7,3.7,0.9,85.7,0.2
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","2011 counts",40675,24915,350,7760,840,820,2655,105,3235
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","percentage distribution (2011)",100,61.3,0.9,19.1,2.1,2,6.5,0.3,8
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","2016 counts",11940,9185,0,1260,50,375,190,25,855
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","percentage distribution (2016)",100,76.9,0,10.6,0.4,3.1,1.6,0.2,7.2
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","percentage change (2011 to 2016)",1.5,0.1,,12.5,42.9,0,-2.6,25,1.2
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","2011 counts",11765,9175,0,1120,35,375,195,20,845
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","percentage distribution (2011)",100,78,0,9.5,0.3,3.2,1.7,0.2,7.2
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","2016 counts",61770,34290,1370,12055,2030,6150,3160,145,2575
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","percentage distribution (2016)",100,55.5,2.2,19.5,3.3,10,5.1,0.2,4.2
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","percentage change (2011 to 2016)",5.5,2.7,5.8,11,14,27.3,-5.1,-14.7,-11.7
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","2011 counts",58575,33385,1295,10860,1780,4830,3330,170,2915
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","percentage distribution (2011)",100,57,2.2,18.5,3,8.2,5.7,0.3,5
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","2016 counts",52875,31900,1805,9955,2265,1255,3820,135,1735
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","percentage distribution (2016)",100,60.3,3.4,18.8,4.3,2.4,7.2,0.3,3.3
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","percentage change (2011 to 2016)",0.2,0.9,-2.2,-1.2,1.3,8.2,-5,-12.9,3.9
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","2011 counts",52765,31605,1845,10075,2235,1160,4020,155,1670
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","percentage distribution (2011)",100,59.9,3.5,19.1,4.2,2.2,7.6,0.3,3.2
+"410","Alma","CA","Quebec","24","",3.7,"00000","2016 counts",14470,7510,50,3335,245,1065,2040,155,70
+"410","Alma","CA","Quebec","24","",3.7,"00000","percentage distribution (2016)",100,51.9,0.3,23,1.7,7.4,14.1,1.1,0.5
+"410","Alma","CA","Quebec","24","",3.7,"00000","percentage change (2011 to 2016)",2.4,2.7,25,-0.4,19.5,20.3,-3.3,6.9,-17.6
+"410","Alma","CA","Quebec","24","",3.7,"00000","2011 counts",14125,7310,40,3350,205,885,2110,145,85
+"410","Alma","CA","Quebec","24","",3.7,"00000","percentage distribution (2011)",100,51.8,0.3,23.7,1.5,6.3,14.9,1,0.6
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","2016 counts",12365,7160,110,2310,300,755,375,70,1280
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","percentage distribution (2016)",100,57.9,0.9,18.7,2.4,6.1,3,0.6,10.4
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","percentage change (2011 to 2016)",0,2.3,-4.3,0,-9.1,2,-5.1,250,-12
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","2011 counts",12365,7000,115,2310,330,740,395,20,1455
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","percentage distribution (2011)",100,56.6,0.9,18.7,2.7,6,3.2,0.2,11.8
+"24330","Campbellton (Quebec part)","CA","Quebec","24","13",13.9,"01000","2016 counts",1230,960,0,125,40,60,35,5,5
+"24330","Campbellton (Quebec part)","CA","Quebec","24","13",13.9,"01000","percentage distribution (2016)",100,78,0,10.2,3.3,4.9,2.8,0.4,0.4
+"24330","Campbellton (Quebec part)","CA","Quebec","24","13",13.9,"01000","percentage change (2011 to 2016)",-9.2,-11.1,,-16.7,33.3,1100,-56.3,0,
+"24330","Campbellton (Quebec part)","CA","Quebec","24","13",13.9,"01000","2011 counts",1355,1080,0,150,30,5,80,5,0
+"24330","Campbellton (Quebec part)","CA","Quebec","24","13",13.9,"01000","percentage distribution (2011)",100,79.7,0,11.1,2.2,0.4,5.9,0.4,0
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","2016 counts",5995,2610,0,2410,70,290,540,60,0
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","percentage distribution (2016)",100,43.5,0,40.2,1.2,4.8,9,1,0
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","percentage change (2011 to 2016)",8.8,7.6,,11.3,-12.5,28.9,-3.6,0,-100
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","2011 counts",5510,2425,0,2165,80,225,560,60,5
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","percentage distribution (2011)",100,44,0,39.3,1.5,4.1,10.2,1.1,0.1
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","2016 counts",6865,4195,5,1410,70,340,655,80,115
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","percentage distribution (2016)",100,61.1,0.1,20.5,1,5,9.5,1.2,1.7
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","percentage change (2011 to 2016)",-0.8,4.2,,-8.7,-6.7,3,-7.7,-5.9,-23.3
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","2011 counts",6920,4025,0,1545,75,330,710,85,150
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","percentage distribution (2011)",100,58.2,0,22.3,1.1,4.8,10.3,1.2,2.2
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","2016 counts",42270,22180,240,12885,800,2055,3410,200,500
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","percentage distribution (2016)",100,52.5,0.6,30.5,1.9,4.9,8.1,0.5,1.2
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","percentage change (2011 to 2016)",5.9,6.5,-46.7,4.9,-3.6,19.1,4.9,17.6,22
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","2011 counts",39920,20820,450,12280,830,1725,3250,170,410
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","percentage distribution (2011)",100,52.2,1.1,30.8,2.1,4.3,8.1,0.4,1
+"450","Granby","CA","Quebec","24","",4.0,"00000","2016 counts",37770,17320,810,12875,315,2625,2530,490,815
+"450","Granby","CA","Quebec","24","",4.0,"00000","percentage distribution (2016)",100,45.9,2.1,34.1,0.8,6.9,6.7,1.3,2.2
+"450","Granby","CA","Quebec","24","",4.0,"00000","percentage change (2011 to 2016)",7.2,2.5,55.8,9.4,40,23,1,-5.8,21.6
+"450","Granby","CA","Quebec","24","",4.0,"00000","2011 counts",35245,16900,520,11770,225,2135,2505,520,670
+"450","Granby","CA","Quebec","24","",4.0,"00000","percentage distribution (2011)",100,48,1.5,33.4,0.6,6.1,7.1,1.5,1.9
+"24502","Hawkesbury (Quebec part)","CA","Quebec","24","35",2.9,"00000","2016 counts",790,410,0,180,50,55,90,5,0
+"24502","Hawkesbury (Quebec part)","CA","Quebec","24","35",2.9,"00000","percentage distribution (2016)",100,51.9,0,22.8,6.3,7,11.4,0.6,0
+"24502","Hawkesbury (Quebec part)","CA","Quebec","24","35",2.9,"00000","percentage change (2011 to 2016)",18.8,1.2,,140,0,-26.7,38.5,,
+"24502","Hawkesbury (Quebec part)","CA","Quebec","24","35",2.9,"00000","2011 counts",665,405,0,75,50,75,65,0,0
+"24502","Hawkesbury (Quebec part)","CA","Quebec","24","35",2.9,"00000","percentage distribution (2011)",100,60.9,0,11.3,7.5,11.3,9.8,0,0
+"456","Joliette","CA","Quebec","24","",5.3,"00000","2016 counts",22480,10490,150,8500,515,720,1900,170,35
+"456","Joliette","CA","Quebec","24","",5.3,"00000","percentage distribution (2016)",100,46.7,0.7,37.8,2.3,3.2,8.5,0.8,0.2
+"456","Joliette","CA","Quebec","24","",5.3,"00000","percentage change (2011 to 2016)",4.9,5.3,3.4,4.8,9.6,14.3,-1.3,6.3,40
+"456","Joliette","CA","Quebec","24","",5.3,"00000","2011 counts",21425,9965,145,8110,470,630,1925,160,25
+"456","Joliette","CA","Quebec","24","",5.3,"00000","percentage distribution (2011)",100,46.5,0.7,37.9,2.2,2.9,9,0.7,0.1
+"468","Lachute","CA","Quebec","24","",4.5,"00000","2016 counts",5985,3000,0,2000,115,175,635,55,5
+"468","Lachute","CA","Quebec","24","",4.5,"00000","percentage distribution (2016)",100,50.1,0,33.4,1.9,2.9,10.6,0.9,0.1
+"468","Lachute","CA","Quebec","24","",4.5,"00000","percentage change (2011 to 2016)",5.6,3.1,,15.6,-42.5,2.9,7.6,0,-50
+"468","Lachute","CA","Quebec","24","",4.5,"00000","2011 counts",5665,2910,0,1730,200,170,590,55,10
+"468","Lachute","CA","Quebec","24","",4.5,"00000","percentage distribution (2011)",100,51.4,0,30.5,3.5,3,10.4,1,0.2
+"403","Matane","CA","Quebec","24","",4.8,"00000","2016 counts",8575,5410,10,1870,100,385,570,45,195
+"403","Matane","CA","Quebec","24","",4.8,"00000","percentage distribution (2016)",100,63.1,0.1,21.8,1.2,4.5,6.6,0.5,2.3
+"403","Matane","CA","Quebec","24","",4.8,"00000","percentage change (2011 to 2016)",-0.7,0.6,,-1.8,-9.1,-3.8,-4.2,0,-2.5
+"403","Matane","CA","Quebec","24","",4.8,"00000","2011 counts",8635,5380,0,1905,110,400,595,45,200
+"403","Matane","CA","Quebec","24","",4.8,"00000","percentage distribution (2011)",100,62.3,0,22.1,1.3,4.6,6.9,0.5,2.3
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","2016 counts",1727310,564230,151365,711775,56770,86460,146080,6250,4380
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","percentage distribution (2016)",100,32.7,8.8,41.2,3.3,5,8.5,0.4,0.3
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","percentage change (2011 to 2016)",4.1,2.3,11.3,4.7,6.6,5.5,-0.3,2,3.9
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","2011 counts",1659160,551330,135970,679750,53250,81930,146585,6125,4215
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","percentage distribution (2011)",100,33.2,8.2,41,3.2,4.9,8.8,0.4,0.3
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Quebec","24","35",3.3,"00000","2016 counts",140105,64710,6520,34530,7955,17890,7965,290,240
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Quebec","24","35",3.3,"00000","percentage distribution (2016)",100,46.2,4.7,24.6,5.7,12.8,5.7,0.2,0.2
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Quebec","24","35",3.3,"00000","percentage change (2011 to 2016)",5.4,0.4,-1.7,10.2,18.2,12.7,6.1,52.6,37.1
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Quebec","24","35",3.3,"00000","2011 counts",132900,64460,6630,31340,6730,15875,7505,190,175
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Quebec","24","35",3.3,"00000","percentage distribution (2011)",100,48.5,5,23.6,5.1,11.9,5.6,0.1,0.1
+"421","Québec","CMA","Quebec","24","",4.0,"00000","2016 counts",361890,148965,22105,134140,8935,21135,22580,1345,2690
+"421","Québec","CMA","Quebec","24","",4.0,"00000","percentage distribution (2016)",100,41.2,6.1,37.1,2.5,5.8,6.2,0.4,0.7
+"421","Québec","CMA","Quebec","24","",4.0,"00000","percentage change (2011 to 2016)",4.4,3.3,6.9,4.6,11.9,13.1,0.2,-14.9,3.1
+"421","Québec","CMA","Quebec","24","",4.0,"00000","2011 counts",346575,144250,20685,128245,7985,18695,22530,1580,2610
+"421","Québec","CMA","Quebec","24","",4.0,"00000","percentage distribution (2011)",100,41.6,6,37,2.3,5.4,6.5,0.5,0.8
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","2016 counts",25455,13595,600,6940,625,2150,1200,135,210
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","percentage distribution (2016)",100,53.4,2.4,27.3,2.5,8.4,4.7,0.5,0.8
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","percentage change (2011 to 2016)",5.2,4.1,33.3,3.7,5.9,18.5,-0.8,-3.6,-16
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","2011 counts",24195,13060,450,6690,590,1815,1210,140,250
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","percentage distribution (2011)",100,54,1.9,27.7,2.4,7.5,5,0.6,1
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","2016 counts",12910,7085,40,3950,185,770,650,95,130
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","percentage distribution (2016)",100,54.9,0.3,30.6,1.4,6,5,0.7,1
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","percentage change (2011 to 2016)",2.1,2.6,-11.1,2.7,15.6,7.7,-15,-13.6,36.8
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","2011 counts",12640,6905,45,3845,160,715,765,110,95
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","percentage distribution (2011)",100,54.6,0.4,30.4,1.3,5.7,6.1,0.9,0.8
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","2016 counts",18850,10025,55,5490,120,1110,1665,145,230
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","percentage distribution (2016)",100,53.2,0.3,29.1,0.6,5.9,8.8,0.8,1.2
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","percentage change (2011 to 2016)",4.8,7.2,-31.3,2,-14.3,-0.4,0.9,61.1,35.3
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","2011 counts",17985,9355,80,5380,140,1115,1650,90,170
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","percentage distribution (2011)",100,52,0.4,29.9,0.8,6.2,9.2,0.5,0.9
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","2016 counts",72480,36900,1160,17315,1580,5455,9370,260,435
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","percentage distribution (2016)",100,50.9,1.6,23.9,2.2,7.5,12.9,0.4,0.6
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","percentage change (2011 to 2016)",3.8,4.4,16,0.6,5.3,15.1,-0.2,15.6,-4.4
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","2011 counts",69860,35340,1000,17215,1500,4740,9385,225,455
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","percentage distribution (2011)",100,50.6,1.4,24.6,2.1,6.8,13.4,0.3,0.7
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","2016 counts",14590,8125,305,3555,210,1565,665,120,40
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","percentage distribution (2016)",100,55.7,2.1,24.4,1.4,10.7,4.6,0.8,0.3
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","percentage change (2011 to 2016)",5,3,-26.5,9.4,-2.3,14.7,6.4,41.2,-20
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","2011 counts",13890,7890,415,3250,215,1365,625,85,50
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","percentage distribution (2011)",100,56.8,3,23.4,1.5,9.8,4.5,0.6,0.4
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","2016 counts",27005,10145,140,12030,605,1515,2275,200,95
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","percentage distribution (2016)",100,37.6,0.5,44.5,2.2,5.6,8.4,0.7,0.4
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","percentage change (2011 to 2016)",4.3,2,-3.4,5.9,23.5,10.6,0,8.1,-13.6
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","2011 counts",25880,9950,145,11360,490,1370,2275,185,110
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","percentage distribution (2011)",100,38.4,0.6,43.9,1.9,5.3,8.8,0.7,0.4
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","2016 counts",5650,3210,5,1115,115,815,280,25,90
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","percentage distribution (2016)",100,56.8,0.1,19.7,2,14.4,5,0.4,1.6
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","percentage change (2011 to 2016)",2.5,-0.2,,-0.4,91.7,11.6,7.7,-37.5,5.9
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","2011 counts",5510,3215,0,1120,60,730,260,40,85
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","percentage distribution (2011)",100,58.3,0,20.3,1.1,13.2,4.7,0.7,1.5
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","2016 counts",18620,8745,5,5715,365,1185,2530,70,10
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","percentage distribution (2016)",100,47,0,30.7,2,6.4,13.6,0.4,0.1
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","percentage change (2011 to 2016)",1.8,1,-97.1,4.4,2.8,7.2,2.8,0,0
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","2011 counts",18295,8655,170,5475,355,1105,2460,70,10
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","percentage distribution (2011)",100,47.3,0.9,29.9,1.9,6,13.4,0.4,0.1
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","2016 counts",12275,6130,185,2950,480,530,535,20,1445
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","percentage distribution (2016)",100,49.9,1.5,24,3.9,4.3,4.4,0.2,11.8
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","percentage change (2011 to 2016)",1.7,3.4,-36.2,-0.3,4.3,6,10.3,-20,1.8
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","2011 counts",12070,5930,290,2960,460,500,485,25,1420
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","percentage distribution (2011)",100,49.1,2.4,24.5,3.8,4.1,4,0.2,11.8
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","2016 counts",26335,13765,10,8745,210,705,2480,320,100
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","percentage distribution (2016)",100,52.3,0,33.2,0.8,2.7,9.4,1.2,0.4
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","percentage change (2011 to 2016)",1.4,2.3,0,0.2,0,13.7,-1.4,-7.2,0
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","2011 counts",25975,13450,10,8725,210,620,2515,345,100
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","percentage distribution (2011)",100,51.8,0,33.6,0.8,2.4,9.7,1.3,0.4
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","2016 counts",95580,42630,2000,37450,2455,4320,5815,375,530
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","percentage distribution (2016)",100,44.6,2.1,39.2,2.6,4.5,6.1,0.4,0.6
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","percentage change (2011 to 2016)",4.9,4.5,-7.2,2.9,26.5,28.2,1.7,25,19.1
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","2011 counts",91100,40780,2155,36400,1940,3370,5715,300,445
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","percentage distribution (2011)",100,44.8,2.4,40,2.1,3.7,6.3,0.3,0.5
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","2016 counts",19660,11085,150,5070,375,1065,1755,105,50
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","percentage distribution (2016)",100,56.4,0.8,25.8,1.9,5.4,8.9,0.5,0.3
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","percentage change (2011 to 2016)",2.3,0.7,-3.2,5.2,2.7,3.4,3.8,0,25
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","2011 counts",19215,11005,155,4820,365,1030,1690,105,40
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","percentage distribution (2011)",100,57.3,0.8,25.1,1.9,5.4,8.8,0.5,0.2
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","2016 counts",13350,8775,0,2595,90,215,1455,90,140
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","percentage distribution (2016)",100,65.7,0,19.4,0.7,1.6,10.9,0.7,1
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","percentage change (2011 to 2016)",0.6,1.1,,1,20,4.9,-3,28.6,-17.6
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","2011 counts",13275,8680,0,2570,75,205,1500,70,170
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","percentage distribution (2011)",100,65.4,0,19.4,0.6,1.5,11.3,0.5,1.3
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","2016 counts",72505,33720,1070,25140,1845,4785,5310,360,270
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","percentage distribution (2016)",100,46.5,1.5,34.7,2.5,6.6,7.3,0.5,0.4
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","percentage change (2011 to 2016)",3.4,2.7,-18.9,4,10.1,15.3,-0.6,9.1,-8.5
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","2011 counts",70140,32845,1320,24175,1675,4150,5340,330,295
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","percentage distribution (2011)",100,46.8,1.9,34.5,2.4,5.9,7.6,0.5,0.4
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","2016 counts",14875,7735,175,4215,300,595,1615,45,195
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","percentage distribution (2016)",100,52,1.2,28.3,2,4,10.9,0.3,1.3
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","percentage change (2011 to 2016)",4.3,4.2,1067,-1.1,57.9,7.2,1.6,-18.2,11.4
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","2011 counts",14260,7425,15,4260,190,555,1590,55,175
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","percentage distribution (2011)",100,52.1,0.1,29.9,1.3,3.9,11.2,0.4,1.2
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","2016 counts",21800,11055,5,6975,190,2210,1265,40,60
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","percentage distribution (2016)",100,50.7,0,32,0.9,10.1,5.8,0.2,0.3
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","percentage change (2011 to 2016)",6.4,4.2,,5.3,5.6,31.5,-2.3,0,9.1
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","2011 counts",20480,10610,0,6625,180,1680,1295,40,55
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","percentage distribution (2011)",100,51.8,0,32.3,0.9,8.2,6.3,0.2,0.3
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","2016 counts",6795,4790,55,920,430,415,90,15,90
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","percentage distribution (2016)",100,70.5,0.8,13.5,6.3,6.1,1.3,0.2,1.3
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","percentage change (2011 to 2016)",5.2,4.6,-56,-2.1,83,10.7,0,0,-10
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","2011 counts",6460,4580,125,940,235,375,90,15,100
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","percentage distribution (2011)",100,70.9,1.9,14.6,3.6,5.8,1.4,0.2,1.5
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","2016 counts",72535,50140,3985,6085,6100,2355,3735,85,50
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","percentage distribution (2016)",100,69.1,5.5,8.4,8.4,3.2,5.1,0.1,0.1
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","percentage change (2011 to 2016)",5.9,3.6,9,15.8,11.3,1.5,17.1,41.7,-63
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","2011 counts",68495,48390,3655,5255,5480,2320,3190,60,135
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","percentage distribution (2011)",100,70.6,5.3,7.7,8,3.4,4.7,0.1,0.2
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","2016 counts",43000,29610,2540,5850,1950,1530,980,160,375
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","percentage distribution (2016)",100,68.9,5.9,13.6,4.5,3.6,2.3,0.4,0.9
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","percentage change (2011 to 2016)",2.9,3.7,3,-3,11.1,4.4,3.7,0,-13.8
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","2011 counts",41805,28550,2465,6030,1755,1465,945,160,435
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","percentage distribution (2011)",100,68.3,5.9,14.4,4.2,3.5,2.3,0.4,1
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","2016 counts",52530,35165,3900,4620,4280,2735,1625,195,15
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","percentage distribution (2016)",100,66.9,7.4,8.8,8.1,5.2,3.1,0.4,0
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","percentage change (2011 to 2016)",-0.4,-3.6,4,6.7,15.5,0.2,5.9,56,-80
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","2011 counts",52725,36465,3750,4330,3705,2730,1535,125,75
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","percentage distribution (2011)",100,69.2,7.1,8.2,7,5.2,2.9,0.2,0.1
+"512","Brockville","CA","Ontario","35","",4.0,"00000","2016 counts",16915,11305,585,2865,840,1005,125,100,90
+"512","Brockville","CA","Ontario","35","",4.0,"00000","percentage distribution (2016)",100,66.8,3.5,16.9,5,5.9,0.7,0.6,0.5
+"512","Brockville","CA","Ontario","35","",4.0,"00000","percentage change (2011 to 2016)",1.2,1.6,0.9,-2.1,9.1,4.7,-13.8,-13,-5.3
+"512","Brockville","CA","Ontario","35","",4.0,"00000","2011 counts",16710,11125,580,2925,770,960,145,115,95
+"512","Brockville","CA","Ontario","35","",4.0,"00000","percentage distribution (2011)",100,66.6,3.5,17.5,4.6,5.7,0.9,0.7,0.6
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","2016 counts",12435,9420,110,955,940,725,95,35,155
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","percentage distribution (2016)",100,75.8,0.9,7.7,7.6,5.8,0.8,0.3,1.2
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","percentage change (2011 to 2016)",9.3,8.3,-4.3,5.5,24.5,9,111.1,-12.5,0
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","2011 counts",11380,8695,115,905,755,665,45,40,155
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","percentage distribution (2011)",100,76.4,1,8,6.6,5.8,0.4,0.4,1.4
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","2016 counts",10820,7955,110,1425,550,510,110,15,145
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","percentage distribution (2016)",100,73.5,1,13.2,5.1,4.7,1,0.1,1.3
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","percentage change (2011 to 2016)",8.8,5.2,,5.9,52.8,39.7,22.2,-25,-27.5
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","2011 counts",9945,7560,0,1345,360,365,90,20,200
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","percentage distribution (2011)",100,76,0,13.5,3.6,3.7,0.9,0.2,2
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","2016 counts",43170,33095,1385,4895,1475,1295,735,95,200
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","percentage distribution (2016)",100,76.7,3.2,11.3,3.4,3,1.7,0.2,0.5
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","percentage change (2011 to 2016)",0.4,0.2,-8,2.4,1.7,4.4,6.5,11.8,-4.8
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","2011 counts",42995,33040,1505,4780,1450,1240,690,85,210
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","percentage distribution (2011)",100,76.8,3.5,11.1,3.4,2.9,1.6,0.2,0.5
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","2016 counts",8640,5060,365,1605,1015,410,145,40,0
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","percentage distribution (2016)",100,58.6,4.2,18.6,11.7,4.7,1.7,0.5,0
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","percentage change (2011 to 2016)",7.3,6.6,0,4.9,18.7,13.9,0,14.3,
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","2011 counts",8050,4745,365,1530,855,360,145,35,0
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","percentage distribution (2011)",100,58.9,4.5,19,10.6,4.5,1.8,0.4,0
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","2016 counts",9560,5520,275,1765,1095,630,230,40,0
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","percentage distribution (2016)",100,57.7,2.9,18.5,11.5,6.6,2.4,0.4,0
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","percentage change (2011 to 2016)",14.6,12.7,22.2,13.5,30.4,9.6,9.5,33.3,
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","2011 counts",8340,4900,225,1555,840,575,210,30,0
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","percentage distribution (2011)",100,58.8,2.7,18.6,10.1,6.9,2.5,0.4,0
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","2016 counts",26085,14890,1145,4560,1215,2185,1855,120,110
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","percentage distribution (2016)",100,57.1,4.4,17.5,4.7,8.4,7.1,0.5,0.4
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","percentage change (2011 to 2016)",3.4,2.4,14.5,3.2,0.8,11.2,1.1,-17.2,0
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","2011 counts",25235,14545,1000,4420,1205,1965,1835,145,110
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","percentage distribution (2011)",100,57.6,4,17.5,4.8,7.8,7.3,0.6,0.4
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","2016 counts",5515,2560,505,810,570,1025,45,5,0
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","percentage distribution (2016)",100,46.4,9.2,14.7,10.3,18.6,0.8,0.1,0
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","percentage change (2011 to 2016)",-2.9,-1.7,-4.7,5.9,-5,-4.2,-59.1,0,-100
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","2011 counts",5680,2605,530,765,600,1070,110,5,5
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","percentage distribution (2011)",100,45.9,9.3,13.5,10.6,18.8,1.9,0.1,0.1
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","2016 counts",70445,43755,4460,11190,2880,3240,4220,160,545
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","percentage distribution (2016)",100,62.1,6.3,15.9,4.1,4.6,6,0.2,0.8
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","percentage change (2011 to 2016)",2.5,1.6,0,6.8,0.7,1.7,9.9,-20,-11.4
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","2011 counts",68730,43085,4460,10480,2860,3185,3840,200,615
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","percentage distribution (2011)",100,62.7,6.5,15.2,4.2,4.6,5.6,0.3,0.9
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","2016 counts",59280,33010,5540,7070,7420,2540,3520,60,115
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","percentage distribution (2016)",100,55.7,9.3,11.9,12.5,4.3,5.9,0.1,0.2
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","percentage change (2011 to 2016)",8,2.3,7.3,19.3,20.7,10.9,31.1,0,-65.7
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","2011 counts",54865,32265,5165,5925,6150,2290,2685,60,335
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","percentage distribution (2011)",100,58.8,9.4,10.8,11.2,4.2,4.9,0.1,0.6
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","2016 counts",293345,165055,45390,24355,40020,9830,7670,590,425
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","percentage distribution (2016)",100,56.3,15.5,8.3,13.6,3.4,2.6,0.2,0.1
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","percentage change (2011 to 2016)",4,2.5,3.2,3.7,11.8,1.7,4.9,10.3,10.4
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","2011 counts",282185,161020,44000,23480,35800,9665,7310,535,385
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","percentage distribution (2011)",100,57.1,15.6,8.3,12.7,3.4,2.6,0.2,0.1
+"502","Hawkesbury","CA","Ontario/Quebec","35","24",4.5,"00000","2016 counts",5745,2195,0,1570,305,725,905,45,0
+"502","Hawkesbury","CA","Ontario/Quebec","35","24",4.5,"00000","percentage distribution (2016)",100,38.2,0,27.3,5.3,12.6,15.8,0.8,0
+"502","Hawkesbury","CA","Ontario/Quebec","35","24",4.5,"00000","percentage change (2011 to 2016)",2.3,0.5,,6.4,-3.2,2.8,1.1,28.6,
+"502","Hawkesbury","CA","Ontario/Quebec","35","24",4.5,"00000","2011 counts",5615,2185,0,1475,315,705,895,35,0
+"502","Hawkesbury","CA","Ontario/Quebec","35","24",4.5,"00000","percentage distribution (2011)",100,38.9,0,26.3,5.6,12.6,15.9,0.6,0
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","2016 counts",4960,1790,0,1385,255,670,820,35,0
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","percentage distribution (2016)",100,36.1,0,27.9,5.1,13.5,16.5,0.7,0
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","percentage change (2011 to 2016)",0.2,0.3,,-1.4,-1.9,6.3,-1.2,-12.5,
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","2011 counts",4950,1785,0,1405,260,630,830,40,0
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","percentage distribution (2011)",100,36.1,0,28.4,5.3,12.7,16.8,0.8,0
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","2016 counts",5085,3615,30,575,380,395,80,10,5
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","percentage distribution (2016)",100,71.1,0.6,11.3,7.5,7.8,1.6,0.2,0.1
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","percentage change (2011 to 2016)",6.3,5.5,-14.3,6.5,22.6,1.3,6.7,-33.3,
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","2011 counts",4785,3425,35,540,310,390,75,15,0
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","percentage distribution (2011)",100,71.6,0.7,11.3,6.5,8.2,1.6,0.3,0
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","2016 counts",31105,25990,685,2080,640,535,855,85,240
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","percentage distribution (2016)",100,83.6,2.2,6.7,2.1,1.7,2.7,0.3,0.8
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","percentage change (2011 to 2016)",4.8,4.2,15.1,-6.5,28,0.9,19.6,41.7,108.7
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","2011 counts",29680,24940,595,2225,500,530,715,60,115
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","percentage distribution (2011)",100,84,2,7.5,1.7,1.8,2.4,0.2,0.4
+"598","Kenora","CA","Ontario","35","",6.1,"00000","2016 counts",6475,5025,165,655,85,165,275,15,80
+"598","Kenora","CA","Ontario","35","",6.1,"00000","percentage distribution (2016)",100,77.6,2.5,10.1,1.3,2.5,4.2,0.2,1.2
+"598","Kenora","CA","Ontario","35","",6.1,"00000","percentage change (2011 to 2016)",-0.7,-1.6,-19.5,7.4,21.4,-8.3,-17.9,-25,1500
+"598","Kenora","CA","Ontario","35","",6.1,"00000","2011 counts",6520,5105,205,610,70,180,335,20,5
+"598","Kenora","CA","Ontario","35","",6.1,"00000","percentage distribution (2011)",100,78.3,3.1,9.4,1.1,2.8,5.1,0.3,0.1
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","2016 counts",67915,39180,8690,8895,4245,4360,2095,140,300
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","percentage distribution (2016)",100,57.7,12.8,13.1,6.3,6.4,3.1,0.2,0.4
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","percentage change (2011 to 2016)",3,3.4,8.2,-4.4,8.8,-1.8,6.3,0,9.1
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","2011 counts",65965,37900,8035,9305,3900,4440,1970,140,275
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","percentage distribution (2011)",100,57.5,12.2,14.1,5.9,6.7,3,0.2,0.4
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","2016 counts",200495,110670,21965,26240,22595,12585,5935,300,205
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","percentage distribution (2016)",100,55.2,11,13.1,11.3,6.3,3,0.1,0.1
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","percentage change (2011 to 2016)",6.4,3.7,18.5,6.9,11.9,-0.2,14.9,-7.7,-39.7
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","2011 counts",188455,106740,18540,24545,20195,12605,5165,325,340
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","percentage distribution (2011)",100,56.6,9.8,13,10.7,6.7,2.7,0.2,0.2
+"557","Leamington","CA","Ontario","35","",7.5,"00100","2016 counts",17965,13315,530,1355,1210,1125,365,15,50
+"557","Leamington","CA","Ontario","35","",7.5,"00100","percentage distribution (2016)",100,74.1,3,7.5,6.7,6.3,2,0.1,0.3
+"557","Leamington","CA","Ontario","35","",7.5,"00100","percentage change (2011 to 2016)",2.2,0.6,1,10.6,11,6.6,-2.7,-40,25
+"557","Leamington","CA","Ontario","35","",7.5,"00100","2011 counts",17580,13240,525,1225,1090,1055,375,25,40
+"557","Leamington","CA","Ontario","35","",7.5,"00100","percentage distribution (2011)",100,75.3,3,7,6.2,6,2.1,0.1,0.2
+"555","London","CMA","Ontario","35","",3.5,"00000","2016 counts",206450,115415,34760,20935,21680,7855,5080,265,475
+"555","London","CMA","Ontario","35","",3.5,"00000","percentage distribution (2016)",100,55.9,16.8,10.1,10.5,3.8,2.5,0.1,0.2
+"555","London","CMA","Ontario","35","",3.5,"00000","percentage change (2011 to 2016)",5.8,4.2,9.8,8.1,7.6,2.7,8.5,6,1.1
+"555","London","CMA","Ontario","35","",3.5,"00000","2011 counts",195060,110815,31670,19375,20145,7650,4680,250,470
+"555","London","CMA","Ontario","35","",3.5,"00000","percentage distribution (2011)",100,56.8,16.2,9.9,10.3,3.9,2.4,0.1,0.2
+"571","Midland","CA","Ontario","35","",4.7,"00000","2016 counts",15180,11080,510,1675,535,475,775,110,20
+"571","Midland","CA","Ontario","35","",4.7,"00000","percentage distribution (2016)",100,73,3.4,11,3.5,3.1,5.1,0.7,0.1
+"571","Midland","CA","Ontario","35","",4.7,"00000","percentage change (2011 to 2016)",3.2,1.2,-2.9,8.4,16.3,8,17.4,15.8,-60
+"571","Midland","CA","Ontario","35","",4.7,"00000","2011 counts",14715,10950,525,1545,460,440,660,95,50
+"571","Midland","CA","Ontario","35","",4.7,"00000","percentage distribution (2011)",100,74.4,3.6,10.5,3.1,3,4.5,0.6,0.3
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","2016 counts",26005,21620,405,1675,780,705,565,95,165
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","percentage distribution (2016)",100,83.1,1.6,6.4,3,2.7,2.2,0.4,0.6
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","percentage change (2011 to 2016)",3.8,2.8,1.3,0.6,25.8,19.5,-1.7,-17.4,266.7
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","2011 counts",25045,21040,400,1665,620,590,575,115,45
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","percentage distribution (2011)",100,84,1.6,6.6,2.5,2.4,2.3,0.5,0.2
+"575","North Bay","CA","Ontario","35","",4.8,"00000","2016 counts",30125,18205,1890,4160,1875,2140,1610,80,160
+"575","North Bay","CA","Ontario","35","",4.8,"00000","percentage distribution (2016)",100,60.4,6.3,13.8,6.2,7.1,5.3,0.3,0.5
+"575","North Bay","CA","Ontario","35","",4.8,"00000","percentage change (2011 to 2016)",-1.4,0.6,-2.3,-7.9,-5.5,-2.9,2.9,-23.8,0
+"575","North Bay","CA","Ontario","35","",4.8,"00000","2011 counts",30560,18095,1935,4515,1985,2205,1565,105,160
+"575","North Bay","CA","Ontario","35","",4.8,"00000","percentage distribution (2011)",100,59.2,6.3,14.8,6.5,7.2,5.1,0.3,0.5
+"569","Orillia","CA","Ontario","35","",4.4,"00000","2016 counts",13475,7455,835,2670,1110,340,870,35,170
+"569","Orillia","CA","Ontario","35","",4.4,"00000","percentage distribution (2016)",100,55.3,6.2,19.8,8.2,2.5,6.5,0.3,1.3
+"569","Orillia","CA","Ontario","35","",4.4,"00000","percentage change (2011 to 2016)",3.8,0,3.7,10.6,9.4,15.3,8.8,0,6.3
+"569","Orillia","CA","Ontario","35","",4.4,"00000","2011 counts",12980,7455,805,2415,1015,295,800,35,160
+"569","Orillia","CA","Ontario","35","",4.4,"00000","percentage distribution (2011)",100,57.4,6.2,18.6,7.8,2.3,6.2,0.3,1.2
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","2016 counts",138965,91140,10605,10250,13920,7585,5170,200,85
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","percentage distribution (2016)",100,65.6,7.6,7.4,10,5.5,3.7,0.1,0.1
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","percentage change (2011 to 2016)",7.1,6.2,10.5,6.2,11.9,1.2,16.8,11.1,-34.6
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","2011 counts",129695,85790,9595,9655,12435,7495,4425,180,130
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","percentage distribution (2011)",100,66.1,7.4,7.4,9.6,5.8,3.4,0.1,0.1
+"505","Ottawa - Gatineau","CMA","Ontario/Quebec","35","24",3.5,"00000","2016 counts",535500,240120,75230,75475,88160,38905,15630,790,1190
+"505","Ottawa - Gatineau","CMA","Ontario/Quebec","35","24",3.5,"00000","percentage distribution (2016)",100,44.8,14,14.1,16.5,7.3,2.9,0.1,0.2
+"505","Ottawa - Gatineau","CMA","Ontario/Quebec","35","24",3.5,"00000","percentage change (2011 to 2016)",5.9,3.4,4.3,9.6,10.3,8.6,5,17.9,1.7
+"505","Ottawa - Gatineau","CMA","Ontario/Quebec","35","24",3.5,"00000","2011 counts",505770,232220,72150,68890,79945,35840,14885,670,1170
+"505","Ottawa - Gatineau","CMA","Ontario/Quebec","35","24",3.5,"00000","percentage distribution (2011)",100,45.9,14.3,13.6,15.8,7.1,2.9,0.1,0.2
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","2016 counts",395395,175415,68705,40940,80205,21015,7665,500,950
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","percentage distribution (2016)",100,44.4,17.4,10.4,20.3,5.3,1.9,0.1,0.2
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","percentage change (2011 to 2016)",6,4.6,4.9,9,9.6,5.3,3.8,4.2,-4.5
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","2011 counts",372870,167765,65520,37550,73210,19965,7385,480,995
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","percentage distribution (2011)",100,45,17.6,10.1,19.6,5.4,2,0.1,0.3
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","2016 counts",13885,8940,770,2535,690,440,285,35,205
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","percentage distribution (2016)",100,64.4,5.5,18.3,5,3.2,2.1,0.3,1.5
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","percentage change (2011 to 2016)",1.4,1.1,10.8,-4,7.8,0,11.8,16.7,28.1
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","2011 counts",13695,8845,695,2640,640,440,255,30,160
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","percentage distribution (2011)",100,64.6,5.1,19.3,4.7,3.2,1.9,0.2,1.2
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","2016 counts",9915,7125,0,1665,280,575,235,30,5
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","percentage distribution (2016)",100,71.9,0,16.8,2.8,5.8,2.4,0.3,0.1
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","percentage change (2011 to 2016)",-0.3,0.1,,-1.2,-3.4,2.7,-4.1,-14.3,0
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","2011 counts",9945,7120,0,1685,290,560,245,35,5
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","percentage distribution (2011)",100,71.6,0,16.9,2.9,5.6,2.5,0.4,0.1
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","2016 counts",6335,4410,0,555,870,435,45,15,5
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","percentage distribution (2016)",100,69.6,0,8.8,13.7,6.9,0.7,0.2,0.1
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","percentage change (2011 to 2016)",5,4.8,,-4.3,8.1,14.5,0,50,0
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","2011 counts",6035,4210,0,580,805,380,45,10,5
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","percentage distribution (2011)",100,69.8,0,9.6,13.3,6.3,0.7,0.2,0.1
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","2016 counts",50535,34930,2520,6235,2985,850,2730,100,175
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","percentage distribution (2016)",100,69.1,5,12.3,5.9,1.7,5.4,0.2,0.3
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","percentage change (2011 to 2016)",3.4,2.1,1.2,8.2,7.6,-1.7,7.9,53.8,16.7
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","2011 counts",48850,34210,2490,5765,2775,865,2530,65,150
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","percentage distribution (2011)",100,70,5.1,11.8,5.7,1.8,5.2,0.1,0.3
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","2016 counts",7075,5175,365,735,385,285,105,15,10
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","percentage distribution (2016)",100,73.1,5.2,10.4,5.4,4,1.5,0.2,0.1
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","percentage change (2011 to 2016)",7.9,5.9,1.4,20.5,20.3,14,10.5,-40,100
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","2011 counts",6555,4885,360,610,320,250,95,25,5
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","percentage distribution (2011)",100,74.5,5.5,9.3,4.9,3.8,1.4,0.4,0.1
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","2016 counts",41990,30305,3910,3245,2080,1400,870,75,110
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","percentage distribution (2016)",100,72.2,9.3,7.7,5,3.3,2.1,0.2,0.3
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","percentage change (2011 to 2016)",2.1,2.2,-0.4,6,-1.9,1.4,5.5,-16.7,4.8
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","2011 counts",41135,29640,3925,3060,2120,1380,825,90,105
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","percentage distribution (2011)",100,72.1,9.5,7.4,5.2,3.4,2,0.2,0.3
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","2016 counts",34530,23050,2095,4895,935,1855,1575,110,15
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","percentage distribution (2016)",100,66.8,6.1,14.2,2.7,5.4,4.6,0.3,0
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","percentage change (2011 to 2016)",0.6,0.2,-0.9,2.8,-1.1,-2.4,3.6,22.2,50
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","2011 counts",34335,22995,2115,4760,945,1900,1520,90,10
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","percentage distribution (2011)",100,67,6.2,13.9,2.8,5.5,4.4,0.3,0
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","2016 counts",168485,112400,9860,19275,10735,9115,6175,635,285
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","percentage distribution (2016)",100,66.7,5.9,11.4,6.4,5.4,3.7,0.4,0.2
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","percentage change (2011 to 2016)",5,3.2,6,7.3,18.1,6.4,8.6,18.7,-14.9
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","2011 counts",160455,108965,9305,17965,9090,8570,5685,535,335
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","percentage distribution (2011)",100,67.9,5.8,11.2,5.7,5.3,3.5,0.3,0.2
+"553","Stratford","CA","Ontario","35","",3.9,"00000","2016 counts",13850,7550,590,2645,835,1505,685,35,5
+"553","Stratford","CA","Ontario","35","",3.9,"00000","percentage distribution (2016)",100,54.5,4.3,19.1,6,10.9,4.9,0.3,0
+"553","Stratford","CA","Ontario","35","",3.9,"00000","percentage change (2011 to 2016)",3.9,3,3.5,3.5,19.3,-0.3,7.9,16.7,
+"553","Stratford","CA","Ontario","35","",3.9,"00000","2011 counts",13330,7330,570,2555,700,1510,635,30,0
+"553","Stratford","CA","Ontario","35","",3.9,"00000","percentage distribution (2011)",100,55,4.3,19.2,5.3,11.3,4.8,0.2,0
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","2016 counts",52545,36240,2555,7400,1390,2045,2380,125,415
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","percentage distribution (2016)",100,69,4.9,14.1,2.6,3.9,4.5,0.2,0.8
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","percentage change (2011 to 2016)",0.9,1,0.2,0.3,2.6,-0.2,4.4,-3.8,-2.4
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","2011 counts",52065,35890,2550,7380,1355,2050,2280,130,425
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","percentage distribution (2011)",100,68.9,4.9,14.2,2.6,3.9,4.4,0.2,0.8
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","2016 counts",7125,4845,450,990,355,275,195,20,0
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","percentage distribution (2016)",100,68,6.3,13.9,5,3.9,2.7,0.3,0
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","percentage change (2011 to 2016)",4.5,5.7,5.9,9.4,7.6,-1.8,18.2,-63.6,-100
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","2011 counts",6815,4585,425,905,330,280,165,55,55
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","percentage distribution (2011)",100,67.3,6.2,13.3,4.8,4.1,2.4,0.8,0.8
+"586","Timmins","CA","Ontario","35","",3.7,"00000","2016 counts",17740,11675,605,2320,620,1150,980,115,275
+"586","Timmins","CA","Ontario","35","",3.7,"00000","percentage distribution (2016)",100,65.8,3.4,13.1,3.5,6.5,5.5,0.6,1.6
+"586","Timmins","CA","Ontario","35","",3.7,"00000","percentage change (2011 to 2016)",-0.4,1.9,23.5,10.2,-1.6,-6.5,-22.2,-23.3,-43.9
+"586","Timmins","CA","Ontario","35","",3.7,"00000","2011 counts",17810,11460,490,2105,630,1230,1260,150,490
+"586","Timmins","CA","Ontario","35","",3.7,"00000","percentage distribution (2011)",100,64.3,2.8,11.8,3.5,6.9,7.1,0.8,2.8
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","2016 counts",2135905,846405,626905,214365,195245,158815,89975,3555,640
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","percentage distribution (2016)",100,39.6,29.4,10,9.1,7.4,4.2,0.2,0
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","percentage change (2011 to 2016)",7.3,3.1,14.9,3,10.5,3.7,10.1,27.9,-10.5
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","2011 counts",1989705,820895,545840,208045,176630,153105,81695,2780,715
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","percentage distribution (2011)",100,41.3,27.4,10.5,8.9,7.7,4.1,0.1,0
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","2016 counts",9005,7525,5,370,705,205,100,20,80
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","percentage distribution (2016)",100,83.6,0.1,4.1,7.8,2.3,1.1,0.2,0.9
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","percentage change (2011 to 2016)",18.9,12.5,,37,156.4,24.2,33.3,33.3,-11.1
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","2011 counts",7575,6690,0,270,275,165,75,15,90
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","percentage distribution (2011)",100,88.3,0,3.6,3.6,2.2,1,0.2,1.2
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","2016 counts",132915,90965,13085,11375,7365,5645,4050,160,265
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","percentage distribution (2016)",100,68.4,9.8,8.6,5.5,4.2,3,0.1,0.2
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","percentage change (2011 to 2016)",4.8,2.7,5.8,13.5,11.5,6.3,15.2,-13.5,6
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","2011 counts",126840,88590,12365,10020,6605,5310,3515,185,250
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","percentage distribution (2011)",100,69.8,9.7,7.9,5.2,4.2,2.8,0.1,0.2
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","2016 counts",17150,9920,1445,2120,1860,1395,385,30,0
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","percentage distribution (2016)",100,57.8,8.4,12.4,10.8,8.1,2.2,0.2,0
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","percentage change (2011 to 2016)",9.3,8.4,8.6,19.1,10.4,1.5,13.2,-25,
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","2011 counts",15695,9155,1330,1780,1685,1375,340,40,0
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","percentage distribution (2011)",100,58.3,8.5,11.3,10.7,8.8,2.2,0.3,0
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","2016 counts",23645,13330,700,4640,1685,1095,615,40,1545
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","percentage distribution (2016)",100,56.4,3,19.6,7.1,4.6,2.6,0.2,6.5
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","percentage change (2011 to 2016)",4.8,-3,-5.4,7.4,43.4,-0.9,43,0,54.5
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","2011 counts",22560,13745,740,4320,1175,1105,430,40,1000
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","percentage distribution (2011)",100,60.9,3.3,19.1,5.2,4.9,1.9,0.2,4.4
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","2016 counts",5575,3940,200,825,320,140,50,10,90
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","percentage distribution (2016)",100,70.7,3.6,14.8,5.7,2.5,0.9,0.2,1.6
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","percentage change (2011 to 2016)",3.4,1.4,-2.4,12.2,6.7,7.7,0,0,5.9
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","2011 counts",5390,3885,205,735,300,130,50,10,85
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","percentage distribution (2011)",100,72.1,3.8,13.6,5.6,2.4,0.9,0.2,1.6
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","2016 counts",6025,3360,255,1205,225,565,240,10,165
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","percentage distribution (2016)",100,55.8,4.2,20,3.7,9.4,4,0.2,2.7
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","percentage change (2011 to 2016)",18.1,10.2,-1.9,53.5,-2.2,32.9,11.6,100,22.2
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","2011 counts",5100,3050,260,785,230,425,215,5,135
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","percentage distribution (2011)",100,59.8,5.1,15.4,4.5,8.3,4.2,0.1,2.6
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","2016 counts",4910,2315,265,1255,430,155,5,5,475
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","percentage distribution (2016)",100,47.1,5.4,25.6,8.8,3.2,0.1,0.1,9.7
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","percentage change (2011 to 2016)",3.7,-0.2,12.8,10.1,13.2,3.3,0,0,-4
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","2011 counts",4735,2320,235,1140,380,150,5,5,495
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","percentage distribution (2011)",100,49,5,24.1,8,3.2,0.1,0.1,10.5
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","2016 counts",10265,7425,270,620,935,570,40,10,385
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","percentage distribution (2016)",100,72.3,2.6,6,9.1,5.6,0.4,0.1,3.8
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","percentage change (2011 to 2016)",13.8,9.2,-5.3,11.7,32.6,78.1,14.3,100,20.3
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","2011 counts",9020,6800,285,555,705,320,35,5,320
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","percentage distribution (2011)",100,75.4,3.2,6.2,7.8,3.5,0.4,0.1,3.5
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","2016 counts",306550,190205,36880,51420,10265,10810,5120,355,1495
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","percentage distribution (2016)",100,62,12,16.8,3.3,3.5,1.7,0.1,0.5
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","percentage change (2011 to 2016)",5.2,3.8,4,10,15.2,3.9,8.7,7.6,0
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","2011 counts",291320,183245,35465,46755,8910,10400,4710,330,1495
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","percentage distribution (2011)",100,62.9,12.2,16,3.1,3.6,1.6,0.1,0.5
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","2016 counts",5515,3745,50,1005,145,175,75,10,310
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","percentage distribution (2016)",100,67.9,0.9,18.2,2.6,3.2,1.4,0.2,5.6
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","percentage change (2011 to 2016)",5.8,-0.8,0,19.6,107.1,29.6,25,-60,19.2
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","2011 counts",5215,3775,50,840,70,135,60,25,260
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","percentage distribution (2011)",100,72.4,1,16.1,1.3,2.6,1.2,0.5,5
+"47840","Lloydminster (Saskatchewan part)","CA","Saskatchewan","47","48",4.2,"00000","2016 counts",5555,3530,80,825,740,115,40,5,220
+"47840","Lloydminster (Saskatchewan part)","CA","Saskatchewan","47","48",4.2,"00000","percentage distribution (2016)",100,63.5,1.4,14.9,13.3,2.1,0.7,0.1,4
+"47840","Lloydminster (Saskatchewan part)","CA","Saskatchewan","47","48",4.2,"00000","percentage change (2011 to 2016)",16.5,5.2,14.3,25,169.1,-17.9,-11.1,0,4.8
+"47840","Lloydminster (Saskatchewan part)","CA","Saskatchewan","47","48",4.2,"00000","2011 counts",4770,3355,70,660,275,140,45,5,210
+"47840","Lloydminster (Saskatchewan part)","CA","Saskatchewan","47","48",4.2,"00000","percentage distribution (2011)",100,70.3,1.5,13.8,5.8,2.9,0.9,0.1,4.4
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","2016 counts",15010,10650,630,2130,455,445,365,75,265
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","percentage distribution (2016)",100,71,4.2,14.2,3,3,2.4,0.5,1.8
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","percentage change (2011 to 2016)",-0.1,1.1,-0.8,-10.9,21.3,2.3,2.8,-6.3,15.2
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","2011 counts",15030,10535,635,2390,375,435,355,80,230
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","percentage distribution (2011)",100,70.1,4.2,15.9,2.5,2.9,2.4,0.5,1.5
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","2016 counts",7930,5540,210,1200,300,310,125,15,240
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","percentage distribution (2016)",100,69.9,2.6,15.1,3.8,3.9,1.6,0.2,3
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","percentage change (2011 to 2016)",3.7,1.4,-2.3,3.9,17.6,26.5,31.6,50,17.1
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","2011 counts",7645,5465,215,1155,255,245,95,10,205
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","percentage distribution (2011)",100,71.5,2.8,15.1,3.3,3.2,1.2,0.1,2.7
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","2016 counts",16595,11635,645,2775,515,405,340,20,265
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","percentage distribution (2016)",100,70.1,3.9,16.7,3.1,2.4,2,0.1,1.6
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","percentage change (2011 to 2016)",1.3,1.5,-5.8,1.8,-7.2,15.7,36,33.3,-22.1
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","2011 counts",16385,11460,685,2725,555,350,250,15,340
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","percentage distribution (2011)",100,69.9,4.2,16.6,3.4,2.1,1.5,0.1,2.1
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","2016 counts",94955,63300,4240,17340,5605,2215,1665,50,540
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","percentage distribution (2016)",100,66.7,4.5,18.3,5.9,2.3,1.8,0.1,0.6
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","percentage change (2011 to 2016)",10.3,6.3,11.4,17.8,27.7,10.2,49.3,11.1,31.7
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","2011 counts",86065,59570,3805,14725,4390,2010,1115,45,410
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","percentage distribution (2011)",100,69.2,4.4,17.1,5.1,2.3,1.3,0.1,0.5
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","2016 counts",115285,69730,4265,22965,7330,4430,5550,55,960
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","percentage distribution (2016)",100,60.5,3.7,19.9,6.4,3.8,4.8,0,0.8
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","percentage change (2011 to 2016)",10,9,-14.7,8.1,44.4,5,31.2,-45,-3
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","2011 counts",104815,63965,5000,21235,5075,4220,4230,100,990
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","percentage distribution (2011)",100,61,4.8,20.3,4.8,4,4,0.1,0.9
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","2016 counts",7855,5305,125,1325,300,360,170,10,255
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","percentage distribution (2016)",100,67.5,1.6,16.9,3.8,4.6,2.2,0.1,3.2
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","percentage change (2011 to 2016)",4.6,4.2,127.3,-10.5,76.5,14.3,-5.6,0,18.6
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","2011 counts",7510,5090,55,1480,170,315,180,10,215
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","percentage distribution (2011)",100,67.8,0.7,19.7,2.3,4.2,2.4,0.1,2.9
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","2016 counts",4590,3030,110,1020,100,150,50,5,120
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","percentage distribution (2016)",100,66,2.4,22.2,2.2,3.3,1.1,0.1,2.6
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","percentage change (2011 to 2016)",2.5,-0.5,0,4.1,150,-9.1,66.7,0,4.3
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","2011 counts",4480,3045,110,980,40,165,30,5,115
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","percentage distribution (2011)",100,68,2.5,21.9,0.9,3.7,0.7,0.1,2.6
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","2016 counts",7980,5910,0,1335,220,265,60,10,180
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","percentage distribution (2016)",100,74.1,0,16.7,2.8,3.3,0.8,0.1,2.3
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","percentage change (2011 to 2016)",2.8,3.2,,-1.1,4.8,15.2,9.1,100,-5.3
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","2011 counts",7760,5725,0,1350,210,230,55,5,190
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","percentage distribution (2011)",100,73.8,0,17.4,2.7,3,0.7,0.1,2.4
+"806","Brooks","CA","Alberta","48","",5.2,"00000","2016 counts",8515,5610,0,795,545,390,250,0,925
+"806","Brooks","CA","Alberta","48","",5.2,"00000","percentage distribution (2016)",100,65.9,0,9.3,6.4,4.6,2.9,0,10.9
+"806","Brooks","CA","Alberta","48","",5.2,"00000","percentage change (2011 to 2016)",1.1,-1.8,,1.3,-11.4,2.6,42.9,-100,23.3
+"806","Brooks","CA","Alberta","48","",5.2,"00000","2011 counts",8425,5710,0,785,615,380,175,10,750
+"806","Brooks","CA","Alberta","48","",5.2,"00000","percentage distribution (2011)",100,67.8,0,9.3,7.3,4.5,2.1,0.1,8.9
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","2016 counts",519690,302795,32925,76785,49210,33085,22075,305,2525
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","percentage distribution (2016)",100,58.3,6.3,14.8,9.5,6.4,4.2,0.1,0.5
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","percentage change (2011 to 2016)",12,7.7,11.3,17.1,23,17.2,30.9,69.4,3.9
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","2011 counts",464005,281130,29585,65585,40000,28230,16865,180,2430
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","percentage distribution (2011)",100,60.6,6.4,14.1,8.6,6.1,3.6,0,0.5
+"833","Camrose","CA","Alberta","48","",5.2,"00000","2016 counts",8055,4975,65,1640,440,580,205,10,145
+"833","Camrose","CA","Alberta","48","",5.2,"00000","percentage distribution (2016)",100,61.8,0.8,20.4,5.5,7.2,2.5,0.1,1.8
+"833","Camrose","CA","Alberta","48","",5.2,"00000","percentage change (2011 to 2016)",8,3.3,,13.1,41.9,50.6,-34.9,0,-14.7
+"833","Camrose","CA","Alberta","48","",5.2,"00000","2011 counts",7460,4815,0,1450,310,385,315,10,170
+"833","Camrose","CA","Alberta","48","",5.2,"00000","percentage distribution (2011)",100,64.5,0,19.4,4.2,5.2,4.2,0.1,2.3
+"828","Canmore","CA","Alberta","48","",6.3,"00100","2016 counts",5740,2540,85,1210,1075,470,345,5,5
+"828","Canmore","CA","Alberta","48","",6.3,"00100","percentage distribution (2016)",100,44.3,1.5,21.1,18.7,8.2,6,0.1,0.1
+"828","Canmore","CA","Alberta","48","",6.3,"00100","percentage change (2011 to 2016)",10.9,2.4,466.7,10.5,19.4,8,35.3,0,
+"828","Canmore","CA","Alberta","48","",6.3,"00100","2011 counts",5175,2480,15,1095,900,435,255,5,0
+"828","Canmore","CA","Alberta","48","",6.3,"00100","percentage distribution (2011)",100,47.9,0.3,21.2,17.4,8.4,4.9,0.1,0
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","2016 counts",5595,3740,0,700,245,580,30,0,300
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","percentage distribution (2016)",100,66.8,0,12.5,4.4,10.4,0.5,0,5.4
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","percentage change (2011 to 2016)",8.6,3.7,-100,28.4,40,-13.4,-14.3,-100,233.3
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","2011 counts",5150,3605,5,545,175,670,35,35,90
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","percentage distribution (2011)",100,70,0.1,10.6,3.4,13,0.7,0.7,1.7
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","2016 counts",502140,287775,26885,95675,42860,31200,10680,165,6905
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","percentage distribution (2016)",100,57.3,5.4,19.1,8.5,6.2,2.1,0,1.4
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","percentage change (2011 to 2016)",11.4,8.9,2.4,13.5,16.2,37.7,19.9,-29.8,-4.9
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","2011 counts",450790,264295,26255,84295,36885,22655,8910,235,7260
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","percentage distribution (2011)",100,58.6,5.8,18.7,8.2,5,2,0.1,1.6
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","2016 counts",23675,15015,160,4060,1075,1525,925,5,910
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","percentage distribution (2016)",100,63.4,0.7,17.1,4.5,6.4,3.9,0,3.8
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","percentage change (2011 to 2016)",10.7,9.5,23.1,-1,17.5,11.3,96.8,0,33.8
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","2011 counts",21390,13715,130,4100,915,1370,470,5,680
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","percentage distribution (2011)",100,64.1,0.6,19.2,4.3,6.4,2.2,0,3.2
+"821","High River","CA","Alberta","48","",4.9,"00000","2016 counts",5365,2745,0,590,730,985,55,5,250
+"821","High River","CA","Alberta","48","",4.9,"00000","percentage distribution (2016)",100,51.2,0,11,13.6,18.4,1,0.1,4.7
+"821","High River","CA","Alberta","48","",4.9,"00000","percentage change (2011 to 2016)",1.9,-0.7,,19.2,3.5,5.3,22.2,,-18
+"821","High River","CA","Alberta","48","",4.9,"00000","2011 counts",5265,2765,0,495,705,935,45,0,305
+"821","High River","CA","Alberta","48","",4.9,"00000","percentage distribution (2011)",100,52.5,0,9.4,13.4,17.8,0.9,0,5.8
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","2016 counts",4795,3240,0,555,180,425,110,15,275
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","percentage distribution (2016)",100,67.6,0,11.6,3.8,8.9,2.3,0.3,5.7
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","percentage change (2011 to 2016)",8.7,6.1,,0,33.3,16.4,22.2,0,44.7
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","2011 counts",4410,3055,0,555,135,365,90,15,190
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","percentage distribution (2011)",100,69.3,0,12.6,3.1,8.3,2,0.3,4.3
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","2016 counts",45695,30565,765,5290,2320,2500,2895,25,1340
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","percentage distribution (2016)",100,66.9,1.7,11.6,5.1,5.5,6.3,0.1,2.9
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","percentage change (2011 to 2016)",10,7.7,5.5,6,28.9,11.4,42.6,-37.5,-1.5
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","2011 counts",41555,28375,725,4990,1800,2245,2030,40,1360
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","percentage distribution (2011)",100,68.3,1.7,12,4.3,5.4,4.9,0.1,3.3
+"840","Lloydminster","CA","Alberta/Saskatchewan","48","47",4.0,"00000","2016 counts",12995,8625,110,2280,1055,340,140,5,430
+"840","Lloydminster","CA","Alberta/Saskatchewan","48","47",4.0,"00000","percentage distribution (2016)",100,66.4,0.8,17.5,8.1,2.6,1.1,0,3.3
+"840","Lloydminster","CA","Alberta/Saskatchewan","48","47",4.0,"00000","percentage change (2011 to 2016)",11.1,8.6,-12,4.6,90.1,-5.6,21.7,-50,2.4
+"840","Lloydminster","CA","Alberta/Saskatchewan","48","47",4.0,"00000","2011 counts",11700,7940,125,2180,555,360,115,10,420
+"840","Lloydminster","CA","Alberta/Saskatchewan","48","47",4.0,"00000","percentage distribution (2011)",100,67.9,1.1,18.6,4.7,3.1,1,0.1,3.6
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","2016 counts",7445,5100,40,1455,315,225,100,0,215
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","percentage distribution (2016)",100,68.5,0.5,19.5,4.2,3,1.3,0,2.9
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","percentage change (2011 to 2016)",7.4,11.2,-20,-4,14.5,4.7,53.8,-100,2.4
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","2011 counts",6930,4585,50,1515,275,215,65,5,210
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","percentage distribution (2011)",100,66.2,0.7,21.9,4,3.1,0.9,0.1,3
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","2016 counts",31500,21225,210,4970,1810,1595,535,40,1115
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","percentage distribution (2016)",100,67.4,0.7,15.8,5.7,5.1,1.7,0.1,3.5
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","percentage change (2011 to 2016)",4.8,4.4,2.4,4,3.7,9.2,7,33.3,12.6
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","2011 counts",30045,20335,205,4780,1745,1460,500,30,990
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","percentage distribution (2011)",100,67.7,0.7,15.9,5.8,4.9,1.7,0.1,3.3
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","2016 counts",9670,7460,0,950,625,470,120,5,35
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","percentage distribution (2016)",100,77.1,0,9.8,6.5,4.9,1.2,0.1,0.4
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","percentage change (2011 to 2016)",14.8,14.7,-100,6.7,20.2,2.2,200,0,600
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","2011 counts",8425,6505,5,890,520,460,40,5,5
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","percentage distribution (2011)",100,77.2,0.1,10.6,6.2,5.5,0.5,0.1,0.1
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","2016 counts",39980,21060,585,8415,4020,3255,1520,35,1085
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","percentage distribution (2016)",100,52.7,1.5,21,10.1,8.1,3.8,0.1,2.7
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","percentage change (2011 to 2016)",10,6.5,4.5,14.6,13.9,9.8,42.7,-12.5,0.5
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","2011 counts",36345,19775,560,7340,3530,2965,1065,40,1080
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","percentage distribution (2011)",100,54.4,1.5,20.2,9.7,8.2,2.9,0.1,3
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","2016 counts",5145,3075,5,650,540,600,55,5,220
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","percentage distribution (2016)",100,59.8,0.1,12.6,10.5,11.7,1.1,0.1,4.3
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","percentage change (2011 to 2016)",12.3,3.5,,30,47.9,15.4,57.1,0,22.2
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","2011 counts",4580,2970,0,500,365,520,35,5,180
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","percentage distribution (2011)",100,64.8,0,10.9,8,11.4,0.8,0.1,3.9
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","2016 counts",5810,4020,15,480,650,255,190,0,195
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","percentage distribution (2016)",100,69.2,0.3,8.3,11.2,4.4,3.3,0,3.4
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","percentage change (2011 to 2016)",21.8,16.9,,26.3,85.7,-1.9,15.2,-100,14.7
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","2011 counts",4770,3440,0,380,350,260,165,5,170
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","percentage distribution (2011)",100,72.1,0,8,7.3,5.5,3.5,0.1,3.6
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","2016 counts",5125,3020,0,985,420,355,165,15,160
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","percentage distribution (2016)",100,58.9,0,19.2,8.2,6.9,3.2,0.3,3.1
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","percentage change (2011 to 2016)",-0.1,-0.3,-100,-12.8,16.7,-2.7,153.8,-25,0
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","2011 counts",5130,3030,5,1130,360,365,65,20,160
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","percentage distribution (2011)",100,59.1,0.1,22,7,7.1,1.3,0.4,3.1
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","2016 counts",26225,13360,580,5235,2835,1235,420,0,2550
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","percentage distribution (2016)",100,50.9,2.2,20,10.8,4.7,1.6,0,9.7
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","percentage change (2011 to 2016)",11.4,16,4.5,12.8,23.8,-9.9,27.3,-100,-9.7
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","2011 counts",23545,11520,555,4640,2290,1370,330,10,2825
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","percentage distribution (2011)",100,48.9,2.4,19.7,9.7,5.8,1.4,0,12
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","2016 counts",62630,28405,1060,13525,4815,1570,12830,80,330
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","percentage distribution (2016)",100,45.4,1.7,21.6,7.7,2.5,20.5,0.1,0.5
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","percentage change (2011 to 2016)",5.6,-2.6,9.8,9.6,10.1,-2.2,25.4,-11.1,-41.1
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","2011 counts",59320,29155,965,12345,4375,1605,10235,90,560
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","percentage distribution (2011)",100,49.1,1.6,20.8,7.4,2.7,17.3,0.2,0.9
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","2016 counts",16390,10550,5,2365,965,835,785,5,875
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","percentage distribution (2016)",100,64.4,0,14.4,5.9,5.1,4.8,0,5.3
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","percentage change (2011 to 2016)",6.3,3,0,16.5,3.2,21.9,12.1,0,6.7
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","2011 counts",15415,10245,5,2030,935,685,700,5,820
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","percentage distribution (2011)",100,66.5,0,13.2,6.1,4.4,4.5,0,5.3
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","2016 counts",39695,23490,270,6670,5045,1360,1595,50,1225
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","percentage distribution (2016)",100,59.2,0.7,16.8,12.7,3.4,4,0.1,3.1
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","percentage change (2011 to 2016)",7.9,3.2,14.9,7.5,15.8,22.5,46.3,25,26.3
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","2011 counts",36780,22770,235,6205,4355,1110,1090,40,970
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","percentage distribution (2011)",100,61.9,0.6,16.9,11.8,3,3,0.1,2.6
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","2016 counts",24435,15905,45,3095,1455,2440,540,15,935
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","percentage distribution (2016)",100,65.1,0.2,12.7,6,10,2.2,0.1,3.8
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","percentage change (2011 to 2016)",5.8,4.5,800,4.6,8.6,9.7,20,-40,5.6
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","2011 counts",23105,15220,5,2960,1340,2225,450,25,885
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","percentage distribution (2011)",100,65.9,0,12.8,5.8,9.6,1.9,0.1,3.8
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","2016 counts",10985,7390,0,1280,525,475,255,55,1005
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","percentage distribution (2016)",100,67.3,0,11.7,4.8,4.3,2.3,0.5,9.1
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","percentage change (2011 to 2016)",5.6,0.6,,-0.8,31.3,13.1,27.5,120,40.6
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","2011 counts",10405,7345,0,1290,400,420,200,25,715
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","percentage distribution (2011)",100,70.6,0,12.4,3.8,4,1.9,0.2,6.9
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","2016 counts",5035,3225,0,910,290,250,110,5,235
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","percentage distribution (2016)",100,64.1,0,18.1,5.8,5,2.2,0.1,4.7
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","percentage change (2011 to 2016)",3.6,2.1,,1.1,0,13.6,100,0,2.2
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","2011 counts",4860,3160,0,900,290,220,55,5,230
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","percentage distribution (2011)",100,65,0,18.5,6,4.5,1.1,0.1,4.7
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","2016 counts",18745,12245,0,2655,1155,1015,830,110,735
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","percentage distribution (2016)",100,65.3,0,14.2,6.2,5.4,4.4,0.6,3.9
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","percentage change (2011 to 2016)",5.2,1.5,,5.4,2.2,-1.5,80.4,4.8,40
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","2011 counts",17820,12060,0,2520,1130,1030,460,105,525
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","percentage distribution (2011)",100,67.7,0,14.1,6.3,5.8,2.6,0.6,2.9
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","2016 counts",10965,6595,90,1370,815,840,185,20,1055
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","percentage distribution (2016)",100,60.1,0.8,12.5,7.4,7.7,1.7,0.2,9.6
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","percentage change (2011 to 2016)",5.9,7.8,0,-4.5,1.2,51.4,32.1,300,-12.4
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","2011 counts",10350,6115,90,1435,805,555,140,5,1205
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","percentage distribution (2011)",100,59.1,0.9,13.9,7.8,5.4,1.4,0,11.6
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","2016 counts",42860,23110,675,6375,3345,2990,3785,100,2480
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","percentage distribution (2016)",100,53.9,1.6,14.9,7.8,7,8.8,0.2,5.8
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","percentage change (2011 to 2016)",5.2,-2.6,0,7.4,4.5,10.1,45.6,122.2,35.9
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","2011 counts",40725,23730,675,5935,3200,2715,2600,45,1825
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","percentage distribution (2011)",100,58.3,1.7,14.6,7.9,6.7,6.4,0.1,4.5
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","2016 counts",81385,42370,1695,17290,4700,3960,7480,195,3690
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","percentage distribution (2016)",100,52.1,2.1,21.2,5.8,4.9,9.2,0.2,4.5
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","percentage change (2011 to 2016)",8.6,0,41.8,15.7,16.3,15.6,38.1,50,7.9
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","2011 counts",74940,42365,1195,14940,4040,3425,5415,130,3420
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","percentage distribution (2011)",100,56.5,1.6,19.9,5.4,4.6,7.2,0.2,4.6
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","2016 counts",44960,26310,1240,7245,1905,1960,4970,95,1235
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","percentage distribution (2016)",100,58.5,2.8,16.1,4.2,4.4,11.1,0.2,2.7
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","percentage change (2011 to 2016)",7.3,0.3,11.7,8.4,17.6,11.7,64.6,-17.4,-9.5
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","2011 counts",41905,26225,1110,6685,1620,1755,3020,115,1365
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","percentage distribution (2011)",100,62.6,2.6,16,3.9,4.2,7.2,0.3,3.3
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","2016 counts",8265,5335,0,1035,265,310,775,120,430
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","percentage distribution (2016)",100,64.5,0,12.5,3.2,3.8,9.4,1.5,5.2
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","percentage change (2011 to 2016)",3.7,1.6,,-13.8,26.2,34.8,50.5,700,-21.1
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","2011 counts",7970,5250,0,1200,210,230,515,15,545
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","percentage distribution (2011)",100,65.9,0,15.1,2.6,2.9,6.5,0.2,6.8
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","2016 counts",13750,9995,40,1280,965,825,225,10,405
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","percentage distribution (2016)",100,72.7,0.3,9.3,7,6,1.6,0.1,2.9
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","percentage change (2011 to 2016)",5.9,4.8,100,8.9,2.1,13,45.2,0,-3.6
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","2011 counts",12985,9535,20,1175,945,730,155,10,420
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","percentage distribution (2011)",100,73.4,0.2,9,7.3,5.6,1.2,0.1,3.2
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","2016 counts",19880,10100,950,4510,1670,630,815,125,1095
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","percentage distribution (2016)",100,50.8,4.8,22.7,8.4,3.2,4.1,0.6,5.5
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","percentage change (2011 to 2016)",3.5,-1.5,15.9,4.4,7.1,0.8,33.6,38.9,17.7
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","2011 counts",19200,10250,820,4320,1560,625,610,90,930
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","percentage distribution (2011)",100,53.4,4.3,22.5,8.1,3.3,3.2,0.5,4.8
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","2016 counts",11360,8415,110,1195,455,285,420,15,460
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","percentage distribution (2016)",100,74.1,1,10.5,4,2.5,3.7,0.1,4
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","percentage change (2011 to 2016)",1.4,-0.8,0,-2.8,9.6,1.8,58.5,-25,10.8
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","2011 counts",11205,8480,110,1230,415,280,265,20,415
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","percentage distribution (2011)",100,75.7,1,11,3.7,2.5,2.4,0.2,3.7
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","2016 counts",7735,5880,20,820,100,250,305,35,330
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","percentage distribution (2016)",100,76,0.3,10.6,1.3,3.2,3.9,0.5,4.3
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","percentage change (2011 to 2016)",3,-0.6,0,7.9,-16.7,28.2,29.8,75,34.7
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","2011 counts",7510,5915,20,760,120,195,235,20,245
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","percentage distribution (2011)",100,78.8,0.3,10.1,1.6,2.6,3.1,0.3,3.3
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","2016 counts",35095,22375,430,4335,1685,1300,2335,30,2600
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","percentage distribution (2016)",100,63.8,1.2,12.4,4.8,3.7,6.7,0.1,7.4
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","percentage change (2011 to 2016)",3.3,0.5,11.7,4.5,7.3,2.4,28.7,50,3.4
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","2011 counts",33990,22265,385,4150,1570,1270,1815,20,2515
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","percentage distribution (2011)",100,65.5,1.1,12.2,4.6,3.7,5.3,0.1,7.4
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","2016 counts",5105,2940,35,815,345,220,620,25,105
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","percentage distribution (2016)",100,57.6,0.7,16,6.8,4.3,12.1,0.5,2.1
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","percentage change (2011 to 2016)",-1.5,-2.6,,3.2,4.5,-6.4,-8.1,66.7,-16
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","2011 counts",5185,3020,0,790,330,235,675,15,125
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","percentage distribution (2011)",100,58.2,0,15.2,6.4,4.5,13,0.3,2.4
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","2016 counts",10040,7220,0,970,270,185,235,50,1115
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","percentage distribution (2016)",100,71.9,0,9.7,2.7,1.8,2.3,0.5,11.1
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","percentage change (2011 to 2016)",1.7,2,,7.2,5.9,-7.5,27,66.7,-8.6
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","2011 counts",9875,7080,0,905,255,200,185,30,1220
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","percentage distribution (2011)",100,71.7,0,9.2,2.6,2,1.9,0.3,12.4
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","2016 counts",7530,4840,0,945,520,210,655,35,340
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","percentage distribution (2016)",100,64.3,0,12.5,6.9,2.8,8.7,0.5,4.5
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","percentage change (2011 to 2016)",1.6,-5,,8.6,5.1,-4.5,24.8,16.7,94.3
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","2011 counts",7415,5095,0,870,495,220,525,30,175
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","percentage distribution (2011)",100,68.7,0,11.7,6.7,3,7.1,0.4,2.4
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","2016 counts",7380,3455,150,1245,1135,560,485,10,330
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","percentage distribution (2016)",100,46.8,2,16.9,15.4,7.6,6.6,0.1,4.5
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","percentage change (2011 to 2016)",11.3,5.2,150,9.2,23.4,8.7,36.6,,-7
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","2011 counts",6630,3285,60,1140,920,515,355,0,355
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","percentage distribution (2011)",100,49.5,0.9,17.2,13.9,7.8,5.4,0,5.4
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","2016 counts",6365,4065,0,580,445,310,375,60,525
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","percentage distribution (2016)",100,63.9,0,9.1,7,4.9,5.9,0.9,8.2
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","percentage change (2011 to 2016)",1.9,-2.6,,-6.5,25.4,3.3,33.9,100,8.2
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","2011 counts",6245,4175,0,620,355,300,280,30,485
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","percentage distribution (2011)",100,66.9,0,9.9,5.7,4.8,4.5,0.5,7.8
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","2016 counts",960895,282355,160060,242205,93415,20530,156445,1305,4580
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","percentage distribution (2016)",100,29.4,16.7,25.2,9.7,2.1,16.3,0.1,0.5
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","percentage change (2011 to 2016)",7.8,-6.2,23.8,6,16,6.4,23.6,35.9,-8.3
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","2011 counts",891340,301135,129255,228585,80500,19300,126605,960,4995
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","percentage distribution (2011)",100,33.8,14.5,25.6,9,2.2,14.2,0.1,0.6
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","2016 counts",26180,15435,305,4180,1755,1520,2000,100,880
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","percentage distribution (2016)",100,59,1.2,16,6.7,5.8,7.6,0.4,3.4
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","percentage change (2011 to 2016)",7.2,1.3,60.5,14.2,9,5.6,29.4,53.8,29.4
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","2011 counts",24425,15240,190,3660,1610,1440,1545,65,680
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","percentage distribution (2011)",100,62.4,0.8,15,6.6,5.9,6.3,0.3,2.8
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","2016 counts",162715,64230,10405,44285,10210,6010,25580,305,1690
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","percentage distribution (2016)",100,39.5,6.4,27.2,6.3,3.7,15.7,0.2,1
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","percentage change (2011 to 2016)",6.1,0.2,19.5,7.6,7,3,20,13,-28.5
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","2011 counts",153325,64100,8705,41175,9545,5835,21325,270,2365
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","percentage distribution (2011)",100,41.8,5.7,26.9,6.2,3.8,13.9,0.2,1.5
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","2016 counts",7620,4530,0,770,365,260,550,20,1120
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","percentage distribution (2016)",100,59.4,0,10.1,4.8,3.4,7.2,0.3,14.7
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","percentage change (2011 to 2016)",-0.1,1.8,,-6.1,0,-5.5,12.2,-42.9,-6.3
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","2011 counts",7630,4450,0,820,365,275,490,35,1195
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","percentage distribution (2011)",100,58.3,0,10.7,4.8,3.6,6.4,0.5,15.7
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","2016 counts",11625,6430,45,1625,870,980,580,50,1050
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","percentage distribution (2016)",100,55.3,0.4,14,7.5,8.4,5,0.4,9
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","percentage change (2011 to 2016)",10.5,3.2,,10.5,75.8,12.6,27.5,-9.1,9.9
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","2011 counts",10525,6230,0,1470,495,870,455,55,955
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","percentage distribution (2011)",100,59.2,0,14,4.7,8.3,4.3,0.5,9.1
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","2016 counts",7130,3210,375,1735,865,150,305,25,470
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","percentage distribution (2016)",100,45,5.3,24.3,12.1,2.1,4.3,0.4,6.6
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","percentage change (2011 to 2016)",2.7,-9.8,150,-1.4,3.6,3.4,144,-92.5,1243
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","2011 counts",6940,3560,150,1760,835,145,125,335,35
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","percentage distribution (2011)",100,51.3,2.2,25.4,12,2.1,1.8,4.8,0.5
+
