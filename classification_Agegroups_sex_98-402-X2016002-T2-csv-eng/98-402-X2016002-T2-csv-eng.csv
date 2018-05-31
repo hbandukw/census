@@ -1,0 +1,256 @@
+﻿Geographic Code,Geographic Name,Global non-response rate,Data Quality Flag,Sex,Statistical area classification name,Total,Broad age groups: 0 to 14 years,Broad age groups: 15 to 64 years,Broad age groups: 65 years and over,Broad age groups: 85 years and over
+01,Canada,4.0,20000,Both sexes,Total,35151730,5839570,23376530,5935635,770785
+01,Canada,4.0,20000,Both sexes,   Within CMA / CA,29232945,4838160,19651680,4743100,637855
+01,Canada,4.0,20000,Both sexes,   Outside CMA / CA,5918780,1001405,3724845,1192530,132930
+01,Canada,4.0,20000,Both sexes,      Strongly influenced,1993700,329290,1277740,386665,37145
+01,Canada,4.0,20000,Both sexes,      Moderately / weak / not influenced,3859270,654250,2403675,801350,95505
+01,Canada,4.0,20000,Both sexes,      Territories,65810,17865,43425,4515,280
+01,Canada,4.0,20000,Male,Total,17264200,2992920,11576130,2695150,268795
+01,Canada,4.0,20000,Male,   Within CMA / CA,14291305,2478670,9696185,2116455,219900
+01,Canada,4.0,20000,Male,   Outside CMA / CA,2972895,514250,1879950,578695,48890
+01,Canada,4.0,20000,Male,      Strongly influenced,1007960,169700,645590,192665,14215
+01,Canada,4.0,20000,Male,      Moderately / weak / not influenced,1931120,335435,1212055,383625,34550
+01,Canada,4.0,20000,Male,      Territories,33815,9110,22300,2405,120
+01,Canada,4.0,20000,Female,Total,17887530,2846645,11800400,3240480,501995
+01,Canada,4.0,20000,Female,   Within CMA / CA,14941645,2359490,9955505,2626650,417955
+01,Canada,4.0,20000,Female,   Outside CMA / CA,2945890,487155,1844895,613835,84035
+01,Canada,4.0,20000,Female,      Strongly influenced,985740,159585,632150,194005,22930
+01,Canada,4.0,20000,Female,      Moderately / weak / not influenced,1928155,318815,1191620,417715,60955
+01,Canada,4.0,20000,Female,      Territories,31990,8760,21125,2115,155
+10,Newfoundland and Labrador,4.0,00000,Both sexes,Total,519715,74445,344250,101025,9360
+10,Newfoundland and Labrador,4.0,00000,Both sexes,   Within CMA / CA,276360,42825,188625,44910,4565
+10,Newfoundland and Labrador,4.0,00000,Both sexes,   Outside CMA / CA,243355,31615,155620,56120,4800
+10,Newfoundland and Labrador,4.0,00000,Both sexes,      Strongly influenced,36170,4595,22895,8685,680
+10,Newfoundland and Labrador,4.0,00000,Both sexes,      Moderately / weak / not influenced,207180,27025,132730,47430,4115
+10,Newfoundland and Labrador,4.0,00000,Both sexes,      Territories,0,0,0,0,0
+10,Newfoundland and Labrador,4.0,00000,Male,Total,253930,38205,168550,47175,3240
+10,Newfoundland and Labrador,4.0,00000,Male,   Within CMA / CA,133780,21935,91675,20160,1505
+10,Newfoundland and Labrador,4.0,00000,Male,   Outside CMA / CA,120150,16265,76875,27010,1735
+10,Newfoundland and Labrador,4.0,00000,Male,      Strongly influenced,17880,2370,11265,4250,210
+10,Newfoundland and Labrador,4.0,00000,Male,      Moderately / weak / not influenced,102270,13895,65610,22765,1520
+10,Newfoundland and Labrador,4.0,00000,Male,      Territories,0,0,0,0,0
+10,Newfoundland and Labrador,4.0,00000,Female,Total,265790,36240,175695,53855,6120
+10,Newfoundland and Labrador,4.0,00000,Female,   Within CMA / CA,142580,20885,96945,24750,3060
+10,Newfoundland and Labrador,4.0,00000,Female,   Outside CMA / CA,123210,15355,78750,29110,3065
+10,Newfoundland and Labrador,4.0,00000,Female,      Strongly influenced,18295,2225,11635,4440,475
+10,Newfoundland and Labrador,4.0,00000,Female,      Moderately / weak / not influenced,104915,13130,67115,24670,2590
+10,Newfoundland and Labrador,4.0,00000,Female,      Territories,0,0,0,0,0
+11,Prince Edward Island,4.1,00000,Both sexes,Total,142910,22685,92505,27715,3085
+11,Prince Edward Island,4.1,00000,Both sexes,   Within CMA / CA,85910,13950,56185,15780,1905
+11,Prince Edward Island,4.1,00000,Both sexes,   Outside CMA / CA,56995,8735,36325,11935,1180
+11,Prince Edward Island,4.1,00000,Both sexes,      Strongly influenced,25325,3930,16540,4855,400
+11,Prince Edward Island,4.1,00000,Both sexes,      Moderately / weak / not influenced,31670,4805,19785,7075,775
+11,Prince Edward Island,4.1,00000,Both sexes,      Territories,0,0,0,0,0
+11,Prince Edward Island,4.1,00000,Male,Total,69305,11570,45095,12640,1020
+11,Prince Edward Island,4.1,00000,Male,   Within CMA / CA,41040,7105,27050,6885,600
+11,Prince Edward Island,4.1,00000,Male,   Outside CMA / CA,28265,4465,18045,5755,420
+11,Prince Edward Island,4.1,00000,Male,      Strongly influenced,12705,2055,8215,2440,165
+11,Prince Edward Island,4.1,00000,Male,      Moderately / weak / not influenced,15555,2415,9830,3315,260
+11,Prince Edward Island,4.1,00000,Male,      Territories,0,0,0,0,0
+11,Prince Edward Island,4.1,00000,Female,Total,73600,11115,47415,15075,2060
+11,Prince Edward Island,4.1,00000,Female,   Within CMA / CA,44870,6840,29135,8890,1305
+11,Prince Edward Island,4.1,00000,Female,   Outside CMA / CA,28730,4270,18280,6180,755
+11,Prince Edward Island,4.1,00000,Female,      Strongly influenced,12615,1880,8320,2420,240
+11,Prince Edward Island,4.1,00000,Female,      Moderately / weak / not influenced,16110,2395,9955,3760,520
+11,Prince Edward Island,4.1,00000,Female,      Territories,0,0,0,0,0
+12,Nova Scotia,3.9,00000,Both sexes,Total,923600,133830,605950,183820,21650
+12,Nova Scotia,3.9,00000,Both sexes,   Within CMA / CA,608570,90520,409735,108315,12705
+12,Nova Scotia,3.9,00000,Both sexes,   Outside CMA / CA,315025,43305,196215,75505,8945
+12,Nova Scotia,3.9,00000,Both sexes,      Strongly influenced,71640,10530,46010,15100,1565
+12,Nova Scotia,3.9,00000,Both sexes,      Moderately / weak / not influenced,243385,32780,150200,60405,7375
+12,Nova Scotia,3.9,00000,Both sexes,      Territories,0,0,0,0,0
+12,Nova Scotia,3.9,00000,Male,Total,446885,68370,295100,83410,7140
+12,Nova Scotia,3.9,00000,Male,   Within CMA / CA,293250,46090,198890,48270,4080
+12,Nova Scotia,3.9,00000,Male,   Outside CMA / CA,153635,22280,96215,35145,3060
+12,Nova Scotia,3.9,00000,Male,      Strongly influenced,35205,5440,22580,7180,555
+12,Nova Scotia,3.9,00000,Male,      Moderately / weak / not influenced,118435,16840,73630,27960,2505
+12,Nova Scotia,3.9,00000,Male,      Territories,0,0,0,0,0
+12,Nova Scotia,3.9,00000,Female,Total,476715,65460,310845,100410,14510
+12,Nova Scotia,3.9,00000,Female,   Within CMA / CA,315325,44425,210845,60050,8625
+12,Nova Scotia,3.9,00000,Female,   Outside CMA / CA,161390,21030,100000,40360,5885
+12,Nova Scotia,3.9,00000,Female,      Strongly influenced,36440,5095,23425,7915,1010
+12,Nova Scotia,3.9,00000,Female,      Moderately / weak / not influenced,124955,15935,76575,32445,4870
+12,Nova Scotia,3.9,00000,Female,      Territories,0,0,0,0,0
+13,New Brunswick,3.9,00000,Both sexes,Total,747100,110495,487820,148785,17620
+13,New Brunswick,3.9,00000,Both sexes,   Within CMA / CA,468040,71895,308900,87250,10510
+13,New Brunswick,3.9,00000,Both sexes,   Outside CMA / CA,279060,38600,178925,61535,7110
+13,New Brunswick,3.9,00000,Both sexes,      Strongly influenced,74455,9355,47245,17855,1865
+13,New Brunswick,3.9,00000,Both sexes,      Moderately / weak / not influenced,204605,29240,131675,43680,5245
+13,New Brunswick,3.9,00000,Both sexes,      Territories,0,0,0,0,0
+13,New Brunswick,3.9,00000,Male,Total,365355,56320,240535,68500,5860
+13,New Brunswick,3.9,00000,Male,   Within CMA / CA,227085,36610,151115,39365,3395
+13,New Brunswick,3.9,00000,Male,   Outside CMA / CA,138270,19705,89425,29135,2465
+13,New Brunswick,3.9,00000,Male,      Strongly influenced,37070,4765,23675,8630,680
+13,New Brunswick,3.9,00000,Male,      Moderately / weak / not influenced,101200,14940,65755,20510,1785
+13,New Brunswick,3.9,00000,Male,      Territories,0,0,0,0,0
+13,New Brunswick,3.9,00000,Female,Total,381745,54180,247285,80285,11765
+13,New Brunswick,3.9,00000,Female,   Within CMA / CA,240955,35290,157785,47880,7115
+13,New Brunswick,3.9,00000,Female,   Outside CMA / CA,140790,18890,89500,32400,4650
+13,New Brunswick,3.9,00000,Female,      Strongly influenced,37390,4585,23570,9225,1185
+13,New Brunswick,3.9,00000,Female,      Moderately / weak / not influenced,103405,14300,65930,23175,3465
+13,New Brunswick,3.9,00000,Female,      Territories,0,0,0,0,0
+24,Quebec,3.7,20000,Both sexes,Total,8164360,1333260,5335910,1495190,188685
+24,Quebec,3.7,20000,Both sexes,   Within CMA / CA,6624855,1090505,4366115,1168235,153885
+24,Quebec,3.7,20000,Both sexes,   Outside CMA / CA,1539505,242750,969790,326960,34800
+24,Quebec,3.7,20000,Both sexes,      Strongly influenced,635625,104945,408055,122630,11225
+24,Quebec,3.7,20000,Both sexes,      Moderately / weak / not influenced,903880,137810,561740,204325,23575
+24,Quebec,3.7,20000,Both sexes,      Territories,0,0,0,0,0
+24,Quebec,3.7,20000,Male,Total,4016755,682540,2664630,669590,61885
+24,Quebec,3.7,20000,Male,   Within CMA / CA,3237280,557685,2169200,510400,49595
+24,Quebec,3.7,20000,Male,   Outside CMA / CA,779475,124850,495435,159190,12285
+24,Quebec,3.7,20000,Male,      Strongly influenced,324985,54010,209285,61695,4250
+24,Quebec,3.7,20000,Male,      Moderately / weak / not influenced,454490,70845,286150,97495,8040
+24,Quebec,3.7,20000,Male,      Territories,0,0,0,0,0
+24,Quebec,3.7,20000,Female,Total,4147600,650720,2671275,825605,126800
+24,Quebec,3.7,20000,Female,   Within CMA / CA,3387580,532825,2196915,657840,104290
+24,Quebec,3.7,20000,Female,   Outside CMA / CA,760025,117900,474365,167765,22510
+24,Quebec,3.7,20000,Female,      Strongly influenced,310635,50935,198770,60930,6980
+24,Quebec,3.7,20000,Female,      Moderately / weak / not influenced,449385,66965,275590,106835,15535
+24,Quebec,3.7,20000,Female,      Territories,0,0,0,0,0
+35,Ontario,3.7,20000,Both sexes,Total,13448495,2207970,8988870,2251660,301075
+35,Ontario,3.7,20000,Both sexes,   Within CMA / CA,12062320,1985265,8118980,1958080,268000
+35,Ontario,3.7,20000,Both sexes,   Outside CMA / CA,1386175,222710,869885,293580,33075
+35,Ontario,3.7,20000,Both sexes,      Strongly influenced,708865,114360,453345,141160,14780
+35,Ontario,3.7,20000,Both sexes,      Moderately / weak / not influenced,677305,108350,416545,152410,18295
+35,Ontario,3.7,20000,Both sexes,      Territories,0,0,0,0,0
+35,Ontario,3.7,20000,Male,Total,6559390,1131615,4412115,1015655,106090
+35,Ontario,3.7,20000,Male,   Within CMA / CA,5867210,1017275,3975965,873975,93950
+35,Ontario,3.7,20000,Male,   Outside CMA / CA,692180,114345,436155,141680,12140
+35,Ontario,3.7,20000,Male,      Strongly influenced,355715,58990,227650,69080,5500
+35,Ontario,3.7,20000,Male,      Moderately / weak / not influenced,336465,55355,208510,72600,6640
+35,Ontario,3.7,20000,Male,      Territories,0,0,0,0,0
+35,Ontario,3.7,20000,Female,Total,6889105,1076350,4576750,1236000,194985
+35,Ontario,3.7,20000,Female,   Within CMA / CA,6195110,967990,4143020,1084105,174050
+35,Ontario,3.7,20000,Female,   Outside CMA / CA,693990,108360,433735,151895,20935
+35,Ontario,3.7,20000,Female,      Strongly influenced,353150,55370,225700,72085,9280
+35,Ontario,3.7,20000,Female,      Moderately / weak / not influenced,340840,52990,208035,79810,11655
+35,Ontario,3.7,20000,Female,      Territories,0,0,0,0,0
+46,Manitoba,4.3,00000,Both sexes,Total,1278365,243820,835580,198965,29210
+46,Manitoba,4.3,00000,Both sexes,   Within CMA / CA,909600,161365,609985,138255,21040
+46,Manitoba,4.3,00000,Both sexes,   Outside CMA / CA,368765,82455,225595,60715,8175
+46,Manitoba,4.3,00000,Both sexes,      Strongly influenced,86190,19150,55780,11260,990
+46,Manitoba,4.3,00000,Both sexes,      Moderately / weak / not influenced,282575,63300,169815,49455,7180
+46,Manitoba,4.3,00000,Both sexes,      Territories,0,0,0,0,0
+46,Manitoba,4.3,00000,Male,Total,631395,125115,417260,89020,9815
+46,Manitoba,4.3,00000,Male,   Within CMA / CA,446010,82785,303235,59985,6800
+46,Manitoba,4.3,00000,Male,   Outside CMA / CA,185390,42330,114020,29040,3015
+46,Manitoba,4.3,00000,Male,      Strongly influenced,43905,9795,28475,5640,395
+46,Manitoba,4.3,00000,Male,      Moderately / weak / not influenced,141480,32535,85550,23400,2615
+46,Manitoba,4.3,00000,Male,      Territories,0,0,0,0,0
+46,Manitoba,4.3,00000,Female,Total,646970,118705,418320,109945,19400
+46,Manitoba,4.3,00000,Female,   Within CMA / CA,463595,78585,306745,78265,14235
+46,Manitoba,4.3,00000,Female,   Outside CMA / CA,183375,40125,111575,31675,5165
+46,Manitoba,4.3,00000,Female,      Strongly influenced,42280,9360,27305,5620,600
+46,Manitoba,4.3,00000,Female,      Moderately / weak / not influenced,141095,30765,84275,26060,4560
+46,Manitoba,4.3,00000,Female,      Territories,0,0,0,0,0
+47,Saskatchewan,4.8,00000,Both sexes,Total,1098355,215685,712245,170425,26945
+47,Saskatchewan,4.8,00000,Both sexes,   Within CMA / CA,707285,134030,474305,98945,16110
+47,Saskatchewan,4.8,00000,Both sexes,   Outside CMA / CA,391070,81650,237940,71485,10835
+47,Saskatchewan,4.8,00000,Both sexes,      Strongly influenced,44465,8810,28020,7635,795
+47,Saskatchewan,4.8,00000,Both sexes,      Moderately / weak / not influenced,346605,72840,209920,63845,10040
+47,Saskatchewan,4.8,00000,Both sexes,      Territories,0,0,0,0,0
+47,Saskatchewan,4.8,00000,Male,Total,545785,110405,358110,77265,9395
+47,Saskatchewan,4.8,00000,Male,   Within CMA / CA,348845,68710,237330,42805,5350
+47,Saskatchewan,4.8,00000,Male,   Outside CMA / CA,196940,41695,120785,34460,4040
+47,Saskatchewan,4.8,00000,Male,      Strongly influenced,22800,4540,14345,3910,325
+47,Saskatchewan,4.8,00000,Male,      Moderately / weak / not influenced,174140,37155,106440,30550,3720
+47,Saskatchewan,4.8,00000,Male,      Territories,0,0,0,0,0
+47,Saskatchewan,4.8,00000,Female,Total,552565,105275,354130,93160,17550
+47,Saskatchewan,4.8,00000,Female,   Within CMA / CA,358435,65320,236980,56140,10760
+47,Saskatchewan,4.8,00000,Female,   Outside CMA / CA,194130,39955,117150,37020,6790
+47,Saskatchewan,4.8,00000,Female,      Strongly influenced,21670,4270,13675,3725,475
+47,Saskatchewan,4.8,00000,Female,      Moderately / weak / not influenced,172460,35690,103480,33300,6320
+47,Saskatchewan,4.8,00000,Female,      Territories,0,0,0,0,0
+48,Alberta,4.7,20000,Both sexes,Total,4067175,779150,2787800,500220,63385
+48,Alberta,4.7,20000,Both sexes,   Within CMA / CA,3334095,627440,2315765,390885,50980
+48,Alberta,4.7,20000,Both sexes,   Outside CMA / CA,733080,151715,472035,109330,12405
+48,Alberta,4.7,20000,Both sexes,      Strongly influenced,174320,35010,115195,24120,1835
+48,Alberta,4.7,20000,Both sexes,      Moderately / weak / not influenced,558765,116710,356840,85210,10575
+48,Alberta,4.7,20000,Both sexes,      Territories,0,0,0,0,0
+48,Alberta,4.7,20000,Male,Total,2039410,399570,1408145,231690,23060
+48,Alberta,4.7,20000,Male,   Within CMA / CA,1666815,321470,1167435,177915,18105
+48,Alberta,4.7,20000,Male,   Outside CMA / CA,372590,78105,240715,53780,4955
+48,Alberta,4.7,20000,Male,      Strongly influenced,89400,18170,58575,12655,850
+48,Alberta,4.7,20000,Male,      Moderately / weak / not influenced,283195,59935,182135,41125,4110
+48,Alberta,4.7,20000,Male,      Territories,0,0,0,0,0
+48,Alberta,4.7,20000,Female,Total,2027765,379580,1379655,268530,40320
+48,Alberta,4.7,20000,Female,   Within CMA / CA,1667280,305975,1148330,212970,32870
+48,Alberta,4.7,20000,Female,   Outside CMA / CA,360490,73610,231325,55555,7450
+48,Alberta,4.7,20000,Female,      Strongly influenced,84920,16835,56615,11470,985
+48,Alberta,4.7,20000,Female,      Moderately / weak / not influenced,275570,56770,174705,44085,6465
+48,Alberta,4.7,20000,Female,      Territories,0,0,0,0,0
+59,British Columbia,4.9,20000,Both sexes,Total,4648055,691390,3107680,848990,109190
+59,British Columbia,4.9,20000,Both sexes,   Within CMA / CA,4108115,611390,2768595,728130,97860
+59,British Columbia,4.9,20000,Both sexes,   Outside CMA / CA,539945,80000,339090,120860,11330
+59,British Columbia,4.9,20000,Both sexes,      Strongly influenced,136645,18605,84670,33365,3000
+59,British Columbia,4.9,20000,Both sexes,      Moderately / weak / not influenced,403300,61395,254415,87495,8335
+59,British Columbia,4.9,20000,Both sexes,      Territories,0,0,0,0,0
+59,British Columbia,4.9,20000,Male,Total,2278245,355400,1527280,395555,41035
+59,British Columbia,4.9,20000,Male,   Within CMA / CA,2006065,314305,1357295,334460,36390
+59,British Columbia,4.9,20000,Male,   Outside CMA / CA,272180,41100,169985,61100,4645
+59,British Columbia,4.9,20000,Male,      Strongly influenced,68295,9575,41530,17185,1290
+59,British Columbia,4.9,20000,Male,      Moderately / weak / not influenced,203885,31515,128455,43910,3355
+59,British Columbia,4.9,20000,Male,      Territories,0,0,0,0,0
+59,British Columbia,4.9,20000,Female,Total,2369815,335990,1580400,453430,68155
+59,British Columbia,4.9,20000,Female,   Within CMA / CA,2102050,297085,1411295,393670,61475
+59,British Columbia,4.9,20000,Female,   Outside CMA / CA,267765,38905,169100,59760,6685
+59,British Columbia,4.9,20000,Female,      Strongly influenced,68350,9025,43145,16180,1710
+59,British Columbia,4.9,20000,Female,      Moderately / weak / not influenced,199415,29875,125955,43585,4975
+59,British Columbia,4.9,20000,Female,      Territories,0,0,0,0,0
+60,Yukon,6.7,00100,Both sexes,Total,35875,6275,25335,4260,300
+60,Yukon,6.7,00100,Both sexes,   Within CMA / CA,28225,5055,19960,3210,235
+60,Yukon,6.7,00100,Both sexes,   Outside CMA / CA,7650,1225,5380,1050,65
+60,Yukon,6.7,00100,Both sexes,      Strongly influenced,0,0,0,0,0
+60,Yukon,6.7,00100,Both sexes,      Moderately / weak / not influenced,0,0,0,0,0
+60,Yukon,6.7,00100,Both sexes,      Territories,7650,1225,5380,1045,65
+60,Yukon,6.7,00100,Male,Total,18075,3355,12500,2220,125
+60,Yukon,6.7,00100,Male,   Within CMA / CA,14075,2710,9725,1635,105
+60,Yukon,6.7,00100,Male,   Outside CMA / CA,4005,645,2780,585,20
+60,Yukon,6.7,00100,Male,      Strongly influenced,0,0,0,0,0
+60,Yukon,6.7,00100,Male,      Moderately / weak / not influenced,0,0,0,0,0
+60,Yukon,6.7,00100,Male,      Territories,4005,645,2780,585,25
+60,Yukon,6.7,00100,Female,Total,17800,2925,12835,2040,175
+60,Yukon,6.7,00100,Female,   Within CMA / CA,14155,2345,10235,1570,130
+60,Yukon,6.7,00100,Female,   Outside CMA / CA,3640,580,2595,465,40
+60,Yukon,6.7,00100,Female,      Strongly influenced,0,0,0,0,0
+60,Yukon,6.7,00100,Female,      Moderately / weak / not influenced,0,0,0,0,0
+60,Yukon,6.7,00100,Female,      Territories,3640,580,2595,465,40
+61,Northwest Territories,7.5,00100,Both sexes,Total,41785,8875,29690,3220,225
+61,Northwest Territories,7.5,00100,Both sexes,   Within CMA / CA,19570,3920,14535,1115,65
+61,Northwest Territories,7.5,00100,Both sexes,   Outside CMA / CA,22215,4955,15155,2110,160
+61,Northwest Territories,7.5,00100,Both sexes,      Strongly influenced,0,0,0,0,0
+61,Northwest Territories,7.5,00100,Both sexes,      Moderately / weak / not influenced,0,0,0,0,0
+61,Northwest Territories,7.5,00100,Both sexes,      Territories,22215,4955,15155,2110,160
+61,Northwest Territories,7.5,00100,Male,Total,21280,4475,15090,1715,95
+61,Northwest Territories,7.5,00100,Male,   Within CMA / CA,9860,1985,7275,600,25
+61,Northwest Territories,7.5,00100,Male,   Outside CMA / CA,11420,2490,7815,1110,75
+61,Northwest Territories,7.5,00100,Male,      Strongly influenced,0,0,0,0,0
+61,Northwest Territories,7.5,00100,Male,      Moderately / weak / not influenced,0,0,0,0,0
+61,Northwest Territories,7.5,00100,Male,      Territories,11420,2490,7815,1115,75
+61,Northwest Territories,7.5,00100,Female,Total,20505,4400,14605,1510,130
+61,Northwest Territories,7.5,00100,Female,   Within CMA / CA,9710,1930,7265,515,40
+61,Northwest Territories,7.5,00100,Female,   Outside CMA / CA,10795,2465,7335,995,85
+61,Northwest Territories,7.5,00100,Female,      Strongly influenced,0,0,0,0,0
+61,Northwest Territories,7.5,00100,Female,      Moderately / weak / not influenced,0,0,0,0,0
+61,Northwest Territories,7.5,00100,Female,      Territories,10800,2470,7335,995,85
+62,Nunavut,7.9,00100,Both sexes,Total,35940,11690,22890,1365,50
+62,Nunavut,7.9,00100,Both sexes,   Within CMA / CA,0,0,0,0,0
+62,Nunavut,7.9,00100,Both sexes,   Outside CMA / CA,35940,11690,22895,1365,55
+62,Nunavut,7.9,00100,Both sexes,      Strongly influenced,0,0,0,0,0
+62,Nunavut,7.9,00100,Both sexes,      Moderately / weak / not influenced,0,0,0,0,0
+62,Nunavut,7.9,00100,Both sexes,      Territories,35945,11685,22895,1365,55
+62,Nunavut,7.9,00100,Male,Total,18390,5980,11705,710,25
+62,Nunavut,7.9,00100,Male,   Within CMA / CA,0,0,0,0,0
+62,Nunavut,7.9,00100,Male,   Outside CMA / CA,18390,5975,11710,710,30
+62,Nunavut,7.9,00100,Male,      Strongly influenced,0,0,0,0,0
+62,Nunavut,7.9,00100,Male,      Moderately / weak / not influenced,0,0,0,0,0
+62,Nunavut,7.9,00100,Male,      Territories,18390,5975,11705,710,30
+62,Nunavut,7.9,00100,Female,Total,17555,5710,11190,655,25
+62,Nunavut,7.9,00100,Female,   Within CMA / CA,0,0,0,0,0
+62,Nunavut,7.9,00100,Female,   Outside CMA / CA,17555,5710,11185,650,30
+62,Nunavut,7.9,00100,Female,      Strongly influenced,0,0,0,0,0
+62,Nunavut,7.9,00100,Female,      Moderately / weak / not influenced,0,0,0,0,0
+62,Nunavut,7.9,00100,Female,      Territories,17555,5710,11190,655,30
+
+
+
