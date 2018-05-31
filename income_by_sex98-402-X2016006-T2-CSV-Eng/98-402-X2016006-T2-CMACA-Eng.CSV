@@ -1,0 +1,1442 @@
+"Geographic code","Geographic name","Geographic type","Geographic name, Province or territory","Geographic code, Province or territory","Additional province code","Global non-response rate","Data quality flag","Income source","Sex","Total population 15 years and over, 2006","Total population 15 years and over, 2016","Number of income recipients, 2005","Number of income recipients, 2015","Median amount (2015 constant dollars), 2005","Median amount (2015 constant dollars), 2015","Median amount (2015 constant dollars), % change"
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","Total income","Both sexes",149490,170920,141950,165125,28793,38569,34.0
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","Total income","Males",70565,82170,67220,79305,35280,46396,31.5
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","Total income","Females",78920,88750,74735,85820,23622,32538,37.7
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","After-tax income","Both sexes",149490,170920,141970,165165,25712,34069,32.5
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","After-tax income","Males",70565,82170,67200,79315,30539,39950,30.8
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","After-tax income","Females",78920,88750,74765,85855,21937,29459,34.3
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","Employment income","Both sexes",149490,170920,103765,127460,30785,39341,27.8
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","Employment income","Males",70565,82170,52140,64330,35562,47275,32.9
+"001","St. John's","CMA","Newfoundland and Labrador","10","",3.5,"00000","Employment income","Females",78920,88750,51630,63130,25591,32507,27.0
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","Total income","Both sexes",8695,9270,8200,8885,19828,28938,45.9
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","Total income","Males",4170,4470,4010,4315,27939,40779,46.0
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","Total income","Females",4525,4795,4190,4570,16021,21865,36.5
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","After-tax income","Both sexes",8695,9270,8195,8885,18829,26724,41.9
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","After-tax income","Males",4170,4470,4010,4315,25150,35998,43.1
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","After-tax income","Females",4525,4795,4190,4575,15703,21003,33.8
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","Employment income","Both sexes",8695,9270,5180,5860,17212,29264,70.0
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","Employment income","Males",4170,4470,2760,3120,23229,42624,83.5
+"005","Bay Roberts","CA","Newfoundland and Labrador","10","",3.5,"00000","Employment income","Females",4525,4795,2420,2740,12523,20864,66.6
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","Total income","Both sexes",11200,11810,10455,11350,23970,30718,28.2
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","Total income","Males",5235,5590,5025,5370,33567,39712,18.3
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","Total income","Females",5960,6215,5430,5975,18830,24717,31.3
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","After-tax income","Both sexes",11200,11810,10465,11360,22109,28094,27.1
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","After-tax income","Males",5235,5590,5025,5375,29505,35278,19.6
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","After-tax income","Females",5960,6215,5440,5985,17991,23069,28.2
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","Employment income","Both sexes",11200,11810,6980,7640,22135,29499,33.3
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","Employment income","Males",5235,5590,3670,3860,30815,38246,24.1
+"010","Grand Falls-Windsor","CA","Newfoundland and Labrador","10","",4.1,"00000","Employment income","Females",5960,6215,3305,3785,16523,24059,45.6
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","Total income","Both sexes",9325,10795,8850,10475,28184,35051,24.4
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","Total income","Males",4460,5160,4230,5015,38356,44406,15.8
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","Total income","Females",4865,5630,4620,5465,20854,27618,32.4
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","After-tax income","Both sexes",9325,10795,8850,10480,25269,31434,24.4
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","After-tax income","Males",4460,5160,4230,5015,33051,38892,17.7
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","After-tax income","Females",4865,5630,4615,5465,19630,25284,28.8
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","Employment income","Both sexes",9325,10795,6415,7805,28355,32964,16.3
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","Employment income","Males",4460,5160,3270,3965,37175,41610,11.9
+"011","Gander","CA","Newfoundland and Labrador","10","",3.2,"00000","Employment income","Females",4865,5630,3150,3845,21162,26950,27.4
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","Total income","Both sexes",25745,26930,24525,26000,25297,32629,29.0
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","Total income","Males",12275,12925,11700,12510,32609,39448,21.0
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","Total income","Females",13470,14000,12830,13490,19955,27192,36.3
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","After-tax income","Both sexes",25745,26930,24510,26005,22988,29505,28.3
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","After-tax income","Males",12275,12925,11700,12505,28552,34873,22.1
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","After-tax income","Females",13470,14000,12810,13495,18954,24932,31.5
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","Employment income","Both sexes",25745,26930,16805,18060,24660,31257,26.8
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","Employment income","Males",12275,12925,8565,9080,30587,38059,24.4
+"015","Corner Brook","CA","Newfoundland and Labrador","10","",4.7,"00000","Employment income","Females",13470,14000,8240,8975,19188,26541,38.3
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","Total income","Both sexes",48745,56525,47305,54600,28270,33116,17.1
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","Total income","Males",22805,26785,22250,25855,33280,37413,12.4
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","Total income","Females",25945,29740,25060,28745,24516,29791,21.5
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","After-tax income","Both sexes",48745,56525,47320,54615,25371,29389,15.8
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","After-tax income","Males",22805,26785,22245,25855,29175,32561,11.6
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","After-tax income","Females",25945,29740,25075,28755,22654,26747,18.1
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","Employment income","Both sexes",48745,56525,36270,41670,25965,29105,12.1
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","Employment income","Males",22805,26785,17880,20590,29011,32329,11.4
+"105","Charlottetown","CA","Prince Edward Island","11","",4.2,"00000","Employment income","Females",25945,29740,18390,21085,23637,26539,12.3
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","Total income","Both sexes",12995,13585,12490,13145,26488,29880,12.8
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","Total income","Males",6030,6385,5765,6155,31865,34811,9.2
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","Total income","Females",6970,7200,6725,6995,22237,26094,17.3
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","After-tax income","Both sexes",12995,13585,12495,13150,23743,26927,13.4
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","After-tax income","Males",6030,6385,5765,6155,27935,30626,9.6
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","After-tax income","Females",6970,7200,6730,6995,21034,23851,13.4
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","Employment income","Both sexes",12995,13585,8990,9420,24284,26754,10.2
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","Employment income","Males",6030,6385,4320,4675,28814,30368,5.4
+"110","Summerside","CA","Prince Edward Island","11","",3.9,"00000","Employment income","Females",6970,7200,4670,4745,21335,23959,12.3
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","Total income","Both sexes",11755,10965,11165,10615,23606,27965,18.5
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","Total income","Males",5505,5230,5250,5050,29941,32525,8.6
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","Total income","Females",6245,5730,5915,5560,19919,24381,22.4
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","After-tax income","Both sexes",11755,10965,11170,10615,21982,25801,17.4
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","After-tax income","Males",5505,5230,5250,5055,27192,29305,7.8
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","After-tax income","Females",6245,5730,5920,5565,19119,22999,20.3
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","Employment income","Both sexes",11755,10965,7415,6830,21851,26280,20.3
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","Employment income","Males",5505,5230,3790,3455,28163,29003,3.0
+"13330","Campbellton (New Brunswick part)","CA","New Brunswick","13","24",4.8,"00000","Employment income","Females",6245,5730,3630,3375,18605,24320,30.7
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","Total income","Both sexes",307875,337210,293740,323835,32165,36089,12.2
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","Total income","Males",146080,161965,139920,155495,39900,42874,7.5
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","Total income","Females",161785,175250,153820,168335,25908,31004,19.7
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","After-tax income","Both sexes",307875,337210,293740,323945,28631,31754,10.9
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","After-tax income","Males",146080,161965,139895,155510,34204,36910,7.9
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","After-tax income","Females",161785,175250,153845,168435,23689,27847,17.6
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","Employment income","Both sexes",307875,337210,224045,243395,32165,34240,6.5
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","Employment income","Males",146080,161965,112550,121810,38707,40169,3.8
+"205","Halifax","CMA","Nova Scotia","12","",3.7,"00000","Employment income","Females",161785,175250,111495,121580,26521,29594,11.6
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","Total income","Both sexes",21260,21905,20315,21010,24791,29378,18.5
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","Total income","Males",10115,10460,9710,9980,33049,35379,7.1
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","Total income","Females",11145,11445,10610,11030,19839,24901,25.5
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","After-tax income","Both sexes",21260,21905,20315,21015,22878,26753,16.9
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","After-tax income","Males",10115,10460,9715,9980,29091,31214,7.3
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","After-tax income","Females",11145,11445,10595,11035,18943,23224,22.6
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","Employment income","Both sexes",21260,21905,14330,14365,24533,27106,10.5
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","Employment income","Males",10115,10460,7280,7255,32052,31808,-0.8
+"210","Kentville","CA","Nova Scotia","12","",3.3,"00000","Employment income","Females",11145,11445,7050,7115,19034,23808,25.1
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","Total income","Both sexes",36935,37960,35225,36535,25405,29986,18.0
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","Total income","Males",17695,18185,17030,17490,33154,37228,12.3
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","Total income","Females",19245,19775,18195,19040,20545,24764,20.5
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","After-tax income","Both sexes",36935,37960,35235,36545,23273,27145,16.6
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","After-tax income","Males",17695,18185,17030,17490,29276,32570,11.3
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","After-tax income","Females",19245,19775,18205,19055,19524,23127,18.5
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","Employment income","Both sexes",36935,37960,24655,25380,25296,29208,15.5
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","Employment income","Males",17695,18185,12790,12830,32813,36105,10.0
+"215","Truro","CA","Nova Scotia","12","",3.8,"00000","Employment income","Females",19245,19775,11870,12550,19181,24044,25.4
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","Total income","Both sexes",29870,28560,28230,27345,24335,30411,25.0
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","Total income","Males",14160,13635,13585,13065,33971,36754,8.2
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","Total income","Females",15715,14915,14645,14280,19220,25210,31.2
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","After-tax income","Both sexes",29870,28560,28230,27355,22741,27607,21.4
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","After-tax income","Males",14160,13635,13585,13065,29846,32453,8.7
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","After-tax income","Females",15715,14915,14645,14290,18670,23409,25.4
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","Employment income","Both sexes",29870,28560,19165,18665,24344,27252,11.9
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","Employment income","Males",14160,13635,10110,9435,33749,32585,-3.4
+"220","New Glasgow","CA","Nova Scotia","12","",4.0,"00000","Employment income","Females",15715,14915,9055,9230,17714,23435,32.3
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","Total income","Both sexes",87740,83215,82710,79755,23730,28457,19.9
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","Total income","Males",40920,39170,38690,37480,30159,33172,10.0
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","Total income","Females",46825,44050,44015,42280,19880,24730,24.4
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","After-tax income","Both sexes",87740,83215,82725,79770,22055,26310,19.3
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","After-tax income","Males",40920,39170,38695,37480,27130,29936,10.3
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","After-tax income","Females",46825,44050,44020,42295,19189,23474,22.3
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","Employment income","Both sexes",87740,83215,50685,50080,22402,26768,19.5
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","Employment income","Males",40920,39170,25235,24525,26041,30519,17.2
+"225","Cape Breton","CA","Nova Scotia","12","",3.9,"00000","Employment income","Females",46825,44050,25450,25555,18897,23951,26.7
+"24330","Campbellton (Quebec part)","CA","New Brunswick","13","13",13.9,"01000","Total income","Both sexes",2425,2080,2240,1980,18209,21984,20.7
+"24330","Campbellton (Quebec part)","CA","New Brunswick","13","13",13.9,"01000","Total income","Males",1185,950,1100,905,19046,23936,25.7
+"24330","Campbellton (Quebec part)","CA","New Brunswick","13","13",13.9,"01000","Total income","Females",1245,1130,1145,1080,16894,20992,24.3
+"24330","Campbellton (Quebec part)","CA","New Brunswick","13","13",13.9,"01000","After-tax income","Both sexes",2425,2080,2240,1980,18101,21595,19.3
+"24330","Campbellton (Quebec part)","CA","New Brunswick","13","13",13.9,"01000","After-tax income","Males",1185,950,1095,900,18781,23040,22.7
+"24330","Campbellton (Quebec part)","CA","New Brunswick","13","13",13.9,"01000","After-tax income","Females",1245,1130,1150,1080,16855,20640,22.5
+"24330","Campbellton (Quebec part)","CA","New Brunswick","13","13",13.9,"01000","Employment income","Both sexes",2425,2080,1390,1220,18695,20896,11.8
+"24330","Campbellton (Quebec part)","CA","New Brunswick","13","13",13.9,"01000","Employment income","Males",1185,950,740,570,17403,21824,25.4
+"24330","Campbellton (Quebec part)","CA","New Brunswick","13","13",13.9,"01000","Employment income","Females",1245,1130,650,650,20713,19648,-5.1
+"24502","Hawkesbury (Quebec part)","CA","Ontario","35","35",2.9,"00000","Total income","Both sexes",1100,1405,1065,1345,26039,27520,5.7
+"24502","Hawkesbury (Quebec part)","CA","Ontario","35","35",2.9,"00000","Total income","Males",555,680,550,665,34086,31808,-6.7
+"24502","Hawkesbury (Quebec part)","CA","Ontario","35","35",2.9,"00000","Total income","Females",550,725,520,685,20469,24032,17.4
+"24502","Hawkesbury (Quebec part)","CA","Ontario","35","35",2.9,"00000","After-tax income","Both sexes",1100,1405,1065,1345,24132,25280,4.8
+"24502","Hawkesbury (Quebec part)","CA","Ontario","35","35",2.9,"00000","After-tax income","Males",555,680,545,665,29507,28608,-3.0
+"24502","Hawkesbury (Quebec part)","CA","Ontario","35","35",2.9,"00000","After-tax income","Females",550,725,520,680,19957,23061,15.6
+"24502","Hawkesbury (Quebec part)","CA","Ontario","35","35",2.9,"00000","Employment income","Both sexes",1100,1405,700,910,26826,26816,0.0
+"24502","Hawkesbury (Quebec part)","CA","Ontario","35","35",2.9,"00000","Employment income","Males",555,680,385,470,33957,31936,-6.0
+"24502","Hawkesbury (Quebec part)","CA","Ontario","35","35",2.9,"00000","Employment income","Females",550,725,315,435,17008,22384,31.6
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Ontario","35","35",3.3,"00000","Total income","Both sexes",233515,266210,221865,256040,35960,39339,9.4
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Ontario","35","35",3.3,"00000","Total income","Males",113260,129700,107910,124635,40719,42493,4.4
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Ontario","35","35",3.3,"00000","Total income","Females",120255,136510,113955,131410,31618,36435,15.2
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Ontario","35","35",3.3,"00000","After-tax income","Both sexes",233515,266210,221850,256120,31853,34056,6.9
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Ontario","35","35",3.3,"00000","After-tax income","Males",113260,129700,107905,124640,35090,36329,3.5
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Ontario","35","35",3.3,"00000","After-tax income","Females",120255,136510,113945,131485,29012,31936,10.1
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Ontario","35","35",3.3,"00000","Employment income","Both sexes",233515,266210,170380,192415,38103,37650,-1.2
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Ontario","35","35",3.3,"00000","Employment income","Males",113260,129700,86475,97305,41949,40128,-4.3
+"24505","Ottawa - Gatineau (Quebec part)","CMA","Ontario","35","35",3.3,"00000","Employment income","Females",120255,136510,83905,95110,35323,35291,-0.1
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","Total income","Both sexes",104205,118825,100375,114270,29597,33587,13.5
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","Total income","Males",49670,57275,48185,54875,35813,39174,9.4
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","Total income","Females",54540,61550,52185,59395,23968,28770,20.0
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","After-tax income","Both sexes",104205,118825,100375,114315,26387,30081,14.0
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","After-tax income","Males",49670,57275,48185,54880,31051,34364,10.7
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","After-tax income","Females",54540,61550,52195,59435,22157,26290,18.7
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","Employment income","Both sexes",104205,118825,75975,86505,29664,31881,7.5
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","Employment income","Males",49670,57275,38575,43885,34589,36358,5.1
+"305","Moncton","CMA","New Brunswick","13","",3.9,"00000","Employment income","Females",54540,61550,37400,42610,24909,28042,12.6
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","Total income","Both sexes",99920,103260,94895,98060,28701,33488,16.7
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","Total income","Males",47260,49455,44965,46840,37080,41556,12.1
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","Total income","Females",52665,53800,49925,51220,23147,27507,18.8
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","After-tax income","Both sexes",99920,103260,94860,98095,25904,30105,16.2
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","After-tax income","Males",47260,49455,44955,46845,32358,36313,12.2
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","After-tax income","Females",52665,53800,49905,51250,21477,25333,18.0
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","Employment income","Both sexes",99920,103260,68510,71070,29576,33302,12.6
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","Employment income","Males",47260,49455,35045,35975,36394,40408,11.0
+"310","Saint John","CMA","New Brunswick","13","",3.6,"00000","Employment income","Females",52665,53800,33460,35095,24202,27521,13.7
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","Total income","Both sexes",74080,83740,71200,79585,30122,34929,16.0
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","Total income","Males",35485,40515,34265,38455,36760,41572,13.1
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","Total income","Females",38595,43225,36930,41135,25013,29306,17.2
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","After-tax income","Both sexes",74080,83740,71215,79620,26938,31181,15.8
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","After-tax income","Males",35485,40515,34260,38450,31878,36359,14.1
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","After-tax income","Females",38595,43225,36955,41165,22907,26771,16.9
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","Employment income","Both sexes",74080,83740,54310,59855,29349,32862,12.0
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","Employment income","Males",35485,40515,27765,30450,34395,38562,12.1
+"320","Fredericton","CA","New Brunswick","13","",3.5,"00000","Employment income","Females",38595,43225,26550,29400,24748,27944,12.9
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","Total income","Both sexes",27075,26620,25765,25635,24296,28701,18.1
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","Total income","Males",13195,13005,12770,12570,31565,35428,12.2
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","Total income","Females",13880,13620,13000,13065,18940,23163,22.3
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","After-tax income","Both sexes",27075,26620,25785,25650,22308,26255,17.7
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","After-tax income","Males",13195,13005,12765,12575,28170,31814,12.9
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","After-tax income","Females",13880,13620,13015,13075,18194,21799,19.8
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","Employment income","Both sexes",27075,26620,17520,16875,23751,26564,11.8
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","Employment income","Males",13195,13005,9300,8965,30719,29579,-3.7
+"328","Bathurst","CA","New Brunswick","13","",4.3,"00000","Employment income","Females",13880,13620,8220,7910,19454,24192,24.4
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","Total income","Both sexes",23740,23195,22585,22295,24392,30172,23.7
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","Total income","Males",11420,11030,10945,10615,32676,37248,14.0
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","Total income","Females",12325,12165,11640,11685,19233,24955,29.8
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","After-tax income","Both sexes",23740,23195,22610,22295,22633,27670,22.3
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","After-tax income","Males",11420,11030,10945,10610,29354,33190,13.1
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","After-tax income","Females",12325,12165,11660,11685,18479,23481,27.1
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","Employment income","Both sexes",23740,23195,15620,15020,22018,27325,24.1
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","Employment income","Males",11420,11030,8225,7590,27614,31782,15.1
+"329","Miramichi","CA","New Brunswick","13","",3.8,"00000","Employment income","Females",12325,12165,7400,7435,17709,24038,35.7
+"330","Campbellton","CA","New Brunswick","13","24",6.3,"00000","Total income","Both sexes",14180,13045,13410,12590,22774,27081,18.9
+"330","Campbellton","CA","New Brunswick","13","24",6.3,"00000","Total income","Males",6685,6180,6345,5955,28837,31194,8.2
+"330","Campbellton","CA","New Brunswick","13","24",6.3,"00000","Total income","Females",7495,6865,7065,6640,19737,23872,21.0
+"330","Campbellton","CA","New Brunswick","13","24",6.3,"00000","After-tax income","Both sexes",14180,13045,13410,12595,21358,25160,17.8
+"330","Campbellton","CA","New Brunswick","13","24",6.3,"00000","After-tax income","Males",6685,6180,6345,5955,26390,28483,7.9
+"330","Campbellton","CA","New Brunswick","13","24",6.3,"00000","After-tax income","Females",7495,6865,7065,6640,18912,22650,19.8
+"330","Campbellton","CA","New Brunswick","13","24",6.3,"00000","Employment income","Both sexes",14180,13045,8805,8055,21456,25489,18.8
+"330","Campbellton","CA","New Brunswick","13","24",6.3,"00000","Employment income","Males",6685,6180,4525,4020,25745,28048,8.9
+"330","Campbellton","CA","New Brunswick","13","24",6.3,"00000","Employment income","Females",7495,6865,4280,4030,18926,23752,25.5
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","Total income","Both sexes",20015,19425,19245,18860,25992,29922,15.1
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","Total income","Males",9610,9450,9355,9225,34908,36446,4.4
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","Total income","Females",10405,9980,9890,9635,19995,24339,21.7
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","After-tax income","Both sexes",20015,19425,19245,18870,23917,27280,14.1
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","After-tax income","Males",9610,9450,9360,9225,30515,32426,6.3
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","After-tax income","Females",10405,9980,9890,9645,19253,22854,18.7
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","Employment income","Both sexes",20015,19425,13485,13110,27652,28544,3.2
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","Employment income","Males",9610,9450,7010,6900,34953,33720,-3.5
+"335","Edmundston","CA","New Brunswick","13","",4.5,"00000","Employment income","Females",10405,9980,6475,6210,20481,24591,20.1
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","Total income","Both sexes",8710,8535,8235,8255,23274,25317,8.8
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","Total income","Males",4100,4005,3900,3875,32193,30795,-4.3
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","Total income","Females",4605,4535,4340,4375,19300,21490,11.3
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","After-tax income","Both sexes",8710,8535,8235,8255,22130,23950,8.2
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","After-tax income","Males",4100,4005,3895,3875,28786,28360,-1.5
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","After-tax income","Females",4605,4535,4340,4375,19034,21000,10.3
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","Employment income","Both sexes",8710,8535,4960,4820,24817,25577,3.1
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","Employment income","Males",4100,4005,2700,2510,31921,28454,-10.9
+"35502","Hawkesbury (Ontario part)","CA","Ontario","35","24",4.8,"00000","Employment income","Females",4605,4535,2260,2315,18947,22801,20.3
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","Total income","Both sexes",693045,807625,662180,772670,39112,42048,7.5
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","Total income","Males",333370,390280,319340,373435,47643,48685,2.2
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","Total income","Females",359670,417345,342840,399230,32636,37030,13.5
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","After-tax income","Both sexes",693045,807625,662110,772945,34344,37276,8.5
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","After-tax income","Males",333370,390280,319280,373470,40682,42389,4.2
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","After-tax income","Females",359670,417345,342825,399475,29365,33232,13.2
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","Employment income","Both sexes",693045,807625,508690,580875,40711,41100,1.0
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","Employment income","Males",333370,390280,258315,292860,47291,46359,-2.0
+"35505","Ottawa - Gatineau (Ontario part)","CMA","Ontario","35","24",3.5,"00000","Employment income","Females",359670,417345,250370,288015,35227,36799,4.5
+"403","Matane","CA","Quebec","24","",4.8,"00000","Total income","Both sexes",15695,14975,14935,14650,24069,29647,23.2
+"403","Matane","CA","Quebec","24","",4.8,"00000","Total income","Males",7610,7420,7350,7275,30701,34794,13.3
+"403","Matane","CA","Quebec","24","",4.8,"00000","Total income","Females",8080,7550,7590,7375,19774,24878,25.8
+"403","Matane","CA","Quebec","24","",4.8,"00000","After-tax income","Both sexes",15695,14975,14950,14655,22690,26741,17.9
+"403","Matane","CA","Quebec","24","",4.8,"00000","After-tax income","Males",7610,7420,7350,7275,27907,30595,9.6
+"403","Matane","CA","Quebec","24","",4.8,"00000","After-tax income","Females",8080,7550,7600,7380,19263,23182,20.3
+"403","Matane","CA","Quebec","24","",4.8,"00000","Employment income","Both sexes",15695,14975,9700,9510,24771,28214,13.9
+"403","Matane","CA","Quebec","24","",4.8,"00000","Employment income","Males",7610,7420,5170,5025,30391,31825,4.7
+"403","Matane","CA","Quebec","24","",4.8,"00000","Employment income","Females",8080,7550,4535,4485,21141,25041,18.4
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","Total income","Both sexes",42410,45345,40440,44285,28129,34077,21.1
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","Total income","Males",20340,21980,19565,21475,33234,38480,15.8
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","Total income","Females",22070,23365,20875,22815,24493,30065,22.7
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","After-tax income","Both sexes",42410,45345,40425,44300,26040,30101,15.6
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","After-tax income","Males",20340,21980,19560,21475,29508,33382,13.1
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","After-tax income","Females",22070,23365,20865,22825,23173,27070,16.8
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","Employment income","Both sexes",42410,45345,29250,31150,28055,30187,7.6
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","Employment income","Males",20340,21980,15000,15950,31933,33608,5.2
+"404","Rimouski","CA","Quebec","24","",4.0,"00000","Employment income","Females",22070,23365,14255,15200,24312,27015,11.1
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","Total income","Both sexes",22450,23220,21620,22775,28582,33622,17.6
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","Total income","Males",10860,11365,10495,11150,35222,39531,12.2
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","Total income","Females",11590,11855,11130,11620,23181,28432,22.7
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","After-tax income","Both sexes",22450,23220,21630,22775,26160,29869,14.2
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","After-tax income","Males",10860,11365,10500,11150,30841,34233,11.0
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","After-tax income","Females",11590,11855,11130,11625,22096,25900,17.2
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","Employment income","Both sexes",22450,23220,15850,16410,27220,30675,12.7
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","Employment income","Males",10860,11365,8260,8630,33464,35946,7.4
+"405","Rivière-du-Loup","CA","Quebec","24","",3.9,"00000","Employment income","Females",11590,11855,7585,7780,21983,26048,18.5
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","Total income","Both sexes",24140,22910,22770,22255,34077,36995,8.6
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","Total income","Males",12260,11540,11760,11305,50618,46214,-8.7
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","Total income","Females",11885,11365,11010,10945,22716,27672,21.8
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","After-tax income","Both sexes",24140,22910,22765,22265,30637,32330,5.5
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","After-tax income","Males",12260,11540,11760,11305,41454,39079,-5.7
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","After-tax income","Females",11885,11365,11005,10955,21765,25022,15.0
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","Employment income","Both sexes",24140,22910,17125,16125,36871,34054,-7.6
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","Employment income","Males",12260,11540,9545,8560,55892,44260,-20.8
+"406","Baie-Comeau","CA","Quebec","24","",4.5,"00000","Employment income","Females",11885,11365,7585,7565,23596,26533,12.4
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","Total income","Both sexes",129675,133005,121740,128760,27529,33391,21.3
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","Total income","Males",63530,66340,60690,64675,38731,41602,7.4
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","Total income","Females",66150,66665,61050,64085,19573,25465,30.1
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","After-tax income","Both sexes",129675,133005,121750,128855,25604,29700,16.0
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","After-tax income","Males",63530,66340,60690,64675,33674,35976,6.8
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","After-tax income","Females",66150,66665,61060,64180,19120,23547,23.2
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","Employment income","Both sexes",129675,133005,84585,90735,28255,29769,5.4
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","Employment income","Males",63530,66340,47060,49930,36797,35344,-3.9
+"408","Saguenay","CMA","Quebec","24","",3.8,"00000","Employment income","Females",66150,66665,37525,40810,20390,24674,21.0
+"410","Alma","CA","Quebec","24","",3.7,"00000","Total income","Both sexes",26280,26560,24785,25820,27538,31853,15.7
+"410","Alma","CA","Quebec","24","",3.7,"00000","Total income","Males",12885,13250,12360,12955,38654,40381,4.5
+"410","Alma","CA","Quebec","24","",3.7,"00000","Total income","Females",13390,13310,12425,12870,19234,24354,26.6
+"410","Alma","CA","Quebec","24","",3.7,"00000","After-tax income","Both sexes",26280,26560,24785,25830,25532,28570,11.9
+"410","Alma","CA","Quebec","24","",3.7,"00000","After-tax income","Males",12885,13250,12360,12955,33533,35253,5.1
+"410","Alma","CA","Quebec","24","",3.7,"00000","After-tax income","Females",13390,13310,12425,12880,18954,22776,20.2
+"410","Alma","CA","Quebec","24","",3.7,"00000","Employment income","Both sexes",26280,26560,16640,17700,28446,28648,0.7
+"410","Alma","CA","Quebec","24","",3.7,"00000","Employment income","Males",12885,13250,9340,9630,39752,35843,-9.8
+"410","Alma","CA","Quebec","24","",3.7,"00000","Employment income","Females",13390,13310,7305,8070,20184,22860,13.3
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","Total income","Both sexes",13210,12455,12345,12150,24873,29901,20.2
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","Total income","Males",6540,6230,6275,6120,35831,38063,6.2
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","Total income","Females",6675,6225,6075,6030,18018,22520,25.0
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","After-tax income","Both sexes",13210,12455,12345,12155,23515,27233,15.8
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","After-tax income","Males",6540,6230,6270,6120,31979,33558,4.9
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","After-tax income","Females",6675,6225,6075,6035,17745,21270,19.9
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","Employment income","Both sexes",13210,12455,8295,8225,24834,27065,9.0
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","Employment income","Males",6540,6230,4725,4430,35093,35055,-0.1
+"411","Dolbeau-Mistassini","CA","Quebec","24","",4.5,"00000","Employment income","Females",6675,6225,3570,3790,15837,21331,34.7
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","Total income","Both sexes",22160,22785,21175,22095,31774,37233,17.2
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","Total income","Males",11005,11485,10655,11185,40784,45875,12.5
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","Total income","Females",11150,11295,10525,10910,22627,29704,31.3
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","After-tax income","Both sexes",22160,22785,21175,22105,28725,32802,14.2
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","After-tax income","Males",11005,11485,10655,11185,35150,38945,10.8
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","After-tax income","Females",11150,11295,10525,10925,21809,26683,22.3
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","Employment income","Both sexes",22160,22785,16025,17045,30320,35080,15.7
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","Employment income","Males",11005,11485,8545,9225,42065,43532,3.5
+"412","Sept-Îles","CA","Quebec","24","",5.2,"00000","Employment income","Females",11150,11295,7480,7820,22811,28578,25.3
+"421","Québec","CMA","Quebec","24","",4.0,"00000","Total income","Both sexes",594425,654810,571725,641470,32671,38249,17.1
+"421","Québec","CMA","Quebec","24","",4.0,"00000","Total income","Males",285840,319845,276975,313630,39394,43201,9.7
+"421","Québec","CMA","Quebec","24","",4.0,"00000","Total income","Females",308585,334960,294750,327840,26739,33775,26.3
+"421","Québec","CMA","Quebec","24","",4.0,"00000","After-tax income","Both sexes",594425,654810,571810,641595,29409,33322,13.3
+"421","Québec","CMA","Quebec","24","",4.0,"00000","After-tax income","Males",285840,319845,276985,313645,33873,36934,9.0
+"421","Québec","CMA","Quebec","24","",4.0,"00000","After-tax income","Females",308585,334960,294820,327950,24951,29934,20.0
+"421","Québec","CMA","Quebec","24","",4.0,"00000","Employment income","Both sexes",594425,654810,423965,478745,33434,35466,6.1
+"421","Québec","CMA","Quebec","24","",4.0,"00000","Employment income","Males",285840,319845,218555,247190,39026,39498,1.2
+"421","Québec","CMA","Quebec","24","",4.0,"00000","Employment income","Females",308585,334960,205410,231560,28206,31639,12.2
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","Total income","Both sexes",9460,10685,9115,10480,31813,36185,13.7
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","Total income","Males",4745,5375,4640,5290,40246,41500,3.1
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","Total income","Females",4720,5310,4475,5185,23166,30109,30.0
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","After-tax income","Both sexes",9460,10685,9115,10485,28359,31746,11.9
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","After-tax income","Males",4745,5375,4640,5295,34202,35499,3.8
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","After-tax income","Females",4720,5310,4475,5190,22165,27351,23.4
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","Employment income","Both sexes",9460,10685,7085,8140,32386,33395,3.1
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","Employment income","Males",4745,5375,3895,4325,40232,39259,-2.4
+"423","Sainte-Marie","CA","Quebec","24","",3.5,"00000","Employment income","Females",4720,5310,3190,3815,23339,27302,17.0
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","Total income","Both sexes",24025,25970,23055,25475,28277,32458,14.8
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","Total income","Males",11940,12885,11630,12670,35998,38481,6.9
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","Total income","Females",12090,13090,11425,12810,22150,27001,21.9
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","After-tax income","Both sexes",24025,25970,23050,25480,26266,29144,11.0
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","After-tax income","Males",11940,12885,11630,12670,31273,33415,6.8
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","After-tax income","Females",12090,13090,11420,12810,21195,25018,18.0
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","Employment income","Both sexes",24025,25970,17305,18400,29327,30563,4.2
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","Employment income","Males",11940,12885,9175,9720,37462,36820,-1.7
+"428","Saint-Georges","CA","Quebec","24","",4.5,"00000","Employment income","Females",12090,13090,8130,8680,21666,24744,14.2
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","Total income","Both sexes",24125,23260,23205,22825,25831,29370,13.7
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","Total income","Males",11625,11390,11395,11210,31617,34390,8.8
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","Total income","Females",12505,11870,11810,11620,20608,24339,18.1
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","After-tax income","Both sexes",24125,23260,23205,22835,24315,26730,9.9
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","After-tax income","Males",11625,11390,11395,11210,28637,30616,6.9
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","After-tax income","Females",12505,11870,11810,11625,19994,22919,14.6
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","Employment income","Both sexes",24125,23260,15600,14555,24217,28008,15.7
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","Employment income","Males",11625,11390,8575,7765,28373,32142,13.3
+"430","Thetford Mines","CA","Quebec","24","",5.3,"00000","Employment income","Females",12505,11870,7025,6795,20493,23454,14.4
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","Total income","Both sexes",154990,171580,148115,166205,28654,31720,10.7
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","Total income","Males",74540,83760,71750,81210,34965,35988,2.9
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","Total income","Females",80450,87825,76360,85000,23745,27977,17.8
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","After-tax income","Both sexes",154990,171580,148100,166250,26279,28534,8.6
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","After-tax income","Males",74540,83760,71730,81210,30634,31653,3.3
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","After-tax income","Females",80450,87825,76370,85040,22592,25626,13.4
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","Employment income","Both sexes",154990,171580,106745,117330,28839,29302,1.6
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","Employment income","Males",74540,83760,55245,60195,34857,33229,-4.7
+"433","Sherbrooke","CMA","Quebec","24","",4.2,"00000","Employment income","Females",80450,87825,51500,57140,23623,25895,9.6
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","Total income","Both sexes",9600,10690,9300,10415,27333,29097,6.5
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","Total income","Males",4550,5215,4370,5075,32868,34185,4.0
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","Total income","Females",5050,5475,4930,5340,22999,24983,8.6
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","After-tax income","Both sexes",9600,10690,9300,10420,25181,26633,5.8
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","After-tax income","Males",4550,5215,4365,5075,28951,29952,3.5
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","After-tax income","Females",5050,5475,4935,5340,22056,23518,6.6
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","Employment income","Both sexes",9600,10690,6570,7015,27590,27872,1.0
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","Employment income","Males",4550,5215,3300,3670,32922,32418,-1.5
+"437","Cowansville","CA","Quebec","24","",6.2,"00000","Employment income","Females",5050,5475,3270,3350,22933,23739,3.5
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","Total income","Both sexes",34315,39115,32920,38365,27629,30792,11.4
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","Total income","Males",16445,18970,15845,18650,35070,35870,2.3
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","Total income","Females",17870,20140,17070,19710,21466,26329,22.7
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","After-tax income","Both sexes",34315,39115,32910,38375,25490,27769,8.9
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","After-tax income","Males",16445,18970,15850,18655,30496,31467,3.2
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","After-tax income","Females",17870,20140,17070,19720,20674,24402,18.0
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","Employment income","Both sexes",34315,39115,23430,26725,28364,28726,1.3
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","Employment income","Males",16445,18970,12230,13835,34952,33817,-3.2
+"440","Victoriaville","CA","Quebec","24","",4.9,"00000","Employment income","Females",17870,20140,11200,12895,21601,24533,13.6
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","Total income","Both sexes",119560,127885,113820,124340,26258,30920,17.8
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","Total income","Males",57315,62130,55250,60575,34447,36629,6.3
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","Total income","Females",62245,65755,58565,63765,20624,25724,24.7
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","After-tax income","Both sexes",119560,127885,113780,124390,24532,27873,13.6
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","After-tax income","Males",57315,62130,55245,60575,30492,32331,6.0
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","After-tax income","Females",62245,65755,58530,63815,20097,23902,18.9
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","Employment income","Both sexes",119560,127885,76700,84105,28342,28984,2.3
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","Employment income","Males",57315,62130,41245,43610,34808,33040,-5.1
+"442","Trois-Rivières","CMA","Quebec","24","",4.3,"00000","Employment income","Females",62245,65755,35455,40500,22564,25166,11.5
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","Total income","Both sexes",46775,45340,44355,44105,23563,28106,19.3
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","Total income","Males",22300,22115,21550,21615,32081,34299,6.9
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","Total income","Females",24470,23220,22805,22490,18942,23054,21.7
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","After-tax income","Both sexes",46775,45340,44380,44125,22467,25738,14.6
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","After-tax income","Males",22300,22115,21550,21615,28746,30448,5.9
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","After-tax income","Females",24470,23220,22830,22510,18587,21793,17.2
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","Employment income","Both sexes",46775,45340,27110,26860,24984,25878,3.6
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","Employment income","Males",22300,22115,14995,14370,31522,28174,-10.6
+"444","Shawinigan","CA","Quebec","24","",3.9,"00000","Employment income","Females",24470,23220,12120,12495,19741,23699,20.0
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","Total income","Both sexes",68520,76620,65450,74665,27703,30700,10.8
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","Total income","Males",33690,38080,32455,37195,34561,35850,3.7
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","Total income","Females",34830,38545,32995,37465,21815,25906,18.8
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","After-tax income","Both sexes",68520,76620,65445,74680,25676,27793,8.2
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","After-tax income","Males",33690,38080,32450,37195,30140,31464,4.4
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","After-tax income","Females",34830,38545,33000,37480,21154,24145,14.1
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","Employment income","Both sexes",68520,76620,46950,53150,28282,29532,4.4
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","Employment income","Males",33690,38080,25085,28090,34696,34994,0.9
+"447","Drummondville","CA","Quebec","24","",4.5,"00000","Employment income","Females",34830,38545,21870,25060,22235,24438,9.9
+"450","Granby","CA","Quebec","24","",4.0,"00000","Total income","Both sexes",60345,68815,58175,67175,28752,32386,12.6
+"450","Granby","CA","Quebec","24","",4.0,"00000","Total income","Males",29360,33730,28520,32980,36683,37987,3.6
+"450","Granby","CA","Quebec","24","",4.0,"00000","Total income","Females",30980,35085,29655,34200,23177,27352,18.0
+"450","Granby","CA","Quebec","24","",4.0,"00000","After-tax income","Both sexes",60345,68815,58185,67200,26503,28967,9.3
+"450","Granby","CA","Quebec","24","",4.0,"00000","After-tax income","Males",29360,33730,28530,32980,31579,33052,4.7
+"450","Granby","CA","Quebec","24","",4.0,"00000","After-tax income","Females",30980,35085,29655,34220,22208,25085,13.0
+"450","Granby","CA","Quebec","24","",4.0,"00000","Employment income","Both sexes",60345,68815,43290,47985,29612,30207,2.0
+"450","Granby","CA","Quebec","24","",4.0,"00000","Employment income","Males",29360,33730,22650,24985,36706,35300,-3.8
+"450","Granby","CA","Quebec","24","",4.0,"00000","Employment income","Females",30980,35085,20645,23005,23330,25631,9.9
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","Total income","Both sexes",44610,47710,43095,46570,28924,31387,8.5
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","Total income","Males",21280,23015,20705,22520,35655,36334,1.9
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","Total income","Females",23320,24695,22390,24050,23413,27092,15.7
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","After-tax income","Both sexes",44610,47710,43095,46575,26462,28268,6.8
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","After-tax income","Males",21280,23015,20700,22520,30967,31988,3.3
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","After-tax income","Females",23320,24695,22395,24055,22436,25049,11.6
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","Employment income","Both sexes",44610,47710,30800,32785,29703,30027,1.1
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","Employment income","Males",21280,23015,16040,16880,35097,34632,-1.3
+"452","Saint-Hyacinthe","CA","Quebec","24","",5.2,"00000","Employment income","Females",23320,24695,14760,15910,24549,25771,5.0
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","Total income","Both sexes",34610,34950,32900,34000,26265,30154,14.8
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","Total income","Males",16830,17175,16220,16810,36788,38205,3.9
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","Total income","Females",17785,17775,16685,17195,19502,23089,18.4
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","After-tax income","Both sexes",34610,34950,32905,34005,24413,27501,12.6
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","After-tax income","Males",16830,17175,16220,16810,31855,33734,5.9
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","After-tax income","Females",17785,17775,16680,17200,19163,21865,14.1
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","Employment income","Both sexes",34610,34950,21030,21080,29446,30976,5.2
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","Employment income","Males",16830,17175,11735,11340,38653,38612,-0.1
+"454","Sorel-Tracy","CA","Quebec","24","",4.1,"00000","Employment income","Females",17785,17775,9295,9735,21313,24782,16.3
+"456","Joliette","CA","Quebec","24","",5.3,"00000","Total income","Both sexes",35240,39970,33665,38810,26771,30216,12.9
+"456","Joliette","CA","Quebec","24","",5.3,"00000","Total income","Males",16390,18990,15865,18475,34229,35319,3.2
+"456","Joliette","CA","Quebec","24","",5.3,"00000","Total income","Females",18850,20985,17800,20335,21730,26052,19.9
+"456","Joliette","CA","Quebec","24","",5.3,"00000","After-tax income","Both sexes",35240,39970,33660,38815,24966,27437,9.9
+"456","Joliette","CA","Quebec","24","",5.3,"00000","After-tax income","Males",16390,18990,15860,18480,30098,31281,3.9
+"456","Joliette","CA","Quebec","24","",5.3,"00000","After-tax income","Females",18850,20985,17800,20340,21188,24243,14.4
+"456","Joliette","CA","Quebec","24","",5.3,"00000","Employment income","Both sexes",35240,39970,22270,24990,29624,29149,-1.6
+"456","Joliette","CA","Quebec","24","",5.3,"00000","Employment income","Males",16390,18990,11495,12795,35461,33501,-5.5
+"456","Joliette","CA","Quebec","24","",5.3,"00000","Employment income","Females",18850,20985,10775,12200,24119,25282,4.8
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","Total income","Both sexes",3035950,3319405,2886595,3188850,29841,33040,10.7
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","Total income","Males",1461305,1614055,1396735,1552825,35987,37389,3.9
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","Total income","Females",1574645,1705350,1489855,1636020,24829,29280,17.9
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","After-tax income","Both sexes",3035950,3319405,2886140,3189480,27324,29665,8.6
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","After-tax income","Males",1461305,1614055,1396400,1552930,31432,32824,4.4
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","After-tax income","Females",1574645,1705350,1489740,1636550,23518,26822,14.0
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","Employment income","Both sexes",3035950,3319405,2105610,2335685,31638,32153,1.6
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","Employment income","Males",1461305,1614055,1087640,1199870,36840,36210,-1.7
+"462","Montréal","CMA","Quebec","24","",3.3,"20000","Employment income","Females",1574645,1705350,1017970,1135815,26808,28453,6.1
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","Total income","Both sexes",32685,33430,30925,32455,27659,29972,8.4
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","Total income","Males",15570,16190,14885,15755,36581,35842,-2.0
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","Total income","Females",17115,17245,16040,16705,21281,24419,14.7
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","After-tax income","Both sexes",32685,33430,30925,32470,25566,27308,6.8
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","After-tax income","Males",15570,16190,14885,15760,31733,31686,-0.1
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","After-tax income","Females",17115,17245,16040,16715,20573,23015,11.9
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","Employment income","Both sexes",32685,33430,20955,21715,29888,28242,-5.5
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","Employment income","Males",15570,16190,11200,11595,36711,32560,-11.3
+"465","Salaberry-de-Valleyfield","CA","Quebec","24","",5.0,"00000","Employment income","Females",17115,17245,9760,10115,24145,24635,2.0
+"468","Lachute","CA","Quebec","24","",4.5,"00000","Total income","Both sexes",9730,10625,9240,10310,24466,25460,4.1
+"468","Lachute","CA","Quebec","24","",4.5,"00000","Total income","Males",4580,5110,4450,4985,29493,29883,1.3
+"468","Lachute","CA","Quebec","24","",4.5,"00000","Total income","Females",5150,5510,4790,5325,21171,22512,6.3
+"468","Lachute","CA","Quebec","24","",4.5,"00000","After-tax income","Both sexes",9730,10625,9230,10315,22992,23965,4.2
+"468","Lachute","CA","Quebec","24","",4.5,"00000","After-tax income","Males",4580,5110,4450,4985,26484,27415,3.5
+"468","Lachute","CA","Quebec","24","",4.5,"00000","After-tax income","Females",5150,5510,4780,5330,20526,21525,4.9
+"468","Lachute","CA","Quebec","24","",4.5,"00000","Employment income","Both sexes",9730,10625,6115,6430,25085,24456,-2.5
+"468","Lachute","CA","Quebec","24","",4.5,"00000","Employment income","Males",4580,5110,3220,3335,29846,28032,-6.1
+"468","Lachute","CA","Quebec","24","",4.5,"00000","Employment income","Females",5150,5510,2890,3090,22056,21557,-2.3
+"47840","Lloydminster (Saskatchewan part)","CA","Alberta","48","48",4.2,"00000","Total income","Both sexes",8605,11305,8340,10825,31867,41685,30.8
+"47840","Lloydminster (Saskatchewan part)","CA","Alberta","48","48",4.2,"00000","Total income","Males",4515,5765,4405,5560,46927,55652,18.6
+"47840","Lloydminster (Saskatchewan part)","CA","Alberta","48","48",4.2,"00000","Total income","Females",4090,5535,3935,5270,22365,32320,44.5
+"47840","Lloydminster (Saskatchewan part)","CA","Alberta","48","48",4.2,"00000","After-tax income","Both sexes",8605,11305,8340,10830,28142,37122,31.9
+"47840","Lloydminster (Saskatchewan part)","CA","Alberta","48","48",4.2,"00000","After-tax income","Males",4515,5765,4405,5555,38913,46871,20.5
+"47840","Lloydminster (Saskatchewan part)","CA","Alberta","48","48",4.2,"00000","After-tax income","Females",4090,5535,3935,5270,21137,29824,41.1
+"47840","Lloydminster (Saskatchewan part)","CA","Alberta","48","48",4.2,"00000","Employment income","Both sexes",8605,11305,7200,9395,31148,40366,29.6
+"47840","Lloydminster (Saskatchewan part)","CA","Alberta","48","48",4.2,"00000","Employment income","Males",4515,5765,3995,5000,46897,54528,16.3
+"47840","Lloydminster (Saskatchewan part)","CA","Alberta","48","48",4.2,"00000","Employment income","Females",4090,5535,3205,4400,20181,29678,47.1
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","Total income","Both sexes",25655,27180,24345,26485,28379,35274,24.3
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","Total income","Males",12785,13725,12315,13460,37843,45134,19.3
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","Total income","Females",12870,13455,12030,13030,21628,27658,27.9
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","After-tax income","Both sexes",25655,27180,24345,26490,26452,31255,18.2
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","After-tax income","Males",12785,13725,12310,13460,32895,38510,17.1
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","After-tax income","Females",12870,13455,12030,13030,20990,25280,20.4
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","Employment income","Both sexes",25655,27180,17585,19845,30759,35544,15.6
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","Employment income","Males",12785,13725,9395,10655,41291,47593,15.3
+"480","Val-d'Or","CA","Quebec","24","",4.7,"00000","Employment income","Females",12870,13455,8195,9190,21743,26564,22.2
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","Total income","Both sexes",32350,34150,30755,33260,28762,35363,23.0
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","Total income","Males",15950,17165,15315,16805,37575,44116,17.4
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","Total income","Females",16400,16990,15435,16455,21176,27826,31.4
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","After-tax income","Both sexes",32350,34150,30770,33275,26632,31150,17.0
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","After-tax income","Males",15950,17165,15320,16805,32559,37684,15.7
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","After-tax income","Females",16400,16990,15450,16460,20453,25264,23.5
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","Employment income","Both sexes",32350,34150,22080,24980,30054,33786,12.4
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","Employment income","Males",15950,17165,11860,13390,38068,43380,14.0
+"485","Rouyn-Noranda","CA","Quebec","24","",4.2,"00000","Employment income","Females",16400,16990,10220,11590,21892,26106,19.2
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","Total income","Both sexes",12205,14945,11815,14320,38752,47914,23.6
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","Total income","Males",6060,7430,5915,7140,61150,68181,11.5
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","Total income","Females",6140,7515,5900,7180,25862,35564,37.5
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","After-tax income","Both sexes",12205,14945,11805,14320,34627,41704,20.4
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","After-tax income","Males",6060,7430,5915,7135,50294,56336,12.0
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","After-tax income","Females",6140,7515,5890,7180,24508,32153,31.2
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","Employment income","Both sexes",12205,14945,10025,12125,40133,45189,12.6
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","Employment income","Males",6060,7430,5360,6340,62512,65097,4.1
+"48840","Lloydminster (Alberta part)","CA","Alberta","48","47",3.7,"00000","Employment income","Females",6140,7515,4665,5785,24573,32608,32.7
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","Total income","Both sexes",47040,48820,44785,46915,26554,28390,6.9
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","Total income","Males",22355,23505,21375,22595,34319,33232,-3.2
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","Total income","Females",24685,25315,23405,24325,21940,24844,13.2
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","After-tax income","Both sexes",47040,48820,44800,46925,24644,26384,7.1
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","After-tax income","Males",22355,23505,21400,22595,30566,30314,-0.8
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","After-tax income","Females",24685,25315,23400,24335,21133,23575,11.6
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","Employment income","Both sexes",47040,48820,29780,30400,27966,28062,0.3
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","Employment income","Males",22355,23505,15515,15875,34503,31438,-8.9
+"501","Cornwall","CA","Ontario","35","",4.0,"00000","Employment income","Females",24685,25315,14265,14520,23278,24881,6.9
+"502","Hawkesbury","CA","Ontario","35","24",4.5,"00000","Total income","Both sexes",9805,9945,9305,9600,23409,25632,9.5
+"502","Hawkesbury","CA","Ontario","35","24",4.5,"00000","Total income","Males",4650,4685,4450,4540,32488,31040,-4.5
+"502","Hawkesbury","CA","Ontario","35","24",4.5,"00000","Total income","Females",5160,5255,4860,5060,19327,21859,13.1
+"502","Hawkesbury","CA","Ontario","35","24",4.5,"00000","After-tax income","Both sexes",9805,9945,9305,9600,22340,24285,8.7
+"502","Hawkesbury","CA","Ontario","35","24",4.5,"00000","After-tax income","Males",4650,4685,4445,4545,28885,28442,-1.5
+"502","Hawkesbury","CA","Ontario","35","24",4.5,"00000","After-tax income","Females",5160,5255,4860,5060,19077,21168,11.0
+"502","Hawkesbury","CA","Ontario","35","24",4.5,"00000","Employment income","Both sexes",9805,9945,5660,5725,25796,25783,-0.1
+"502","Hawkesbury","CA","Ontario","35","24",4.5,"00000","Employment income","Males",4650,4685,3085,2975,32292,29255,-9.4
+"502","Hawkesbury","CA","Ontario","35","24",4.5,"00000","Employment income","Females",5160,5255,2575,2750,18368,22656,23.3
+"505","Ottawa - Gatineau","CMA","Ontario","35","24",3.5,"00000","Total income","Both sexes",926555,1073835,884045,1028705,38109,41241,8.2
+"505","Ottawa - Gatineau","CMA","Ontario","35","24",3.5,"00000","Total income","Males",446630,519980,427250,498065,45815,46738,2.0
+"505","Ottawa - Gatineau","CMA","Ontario","35","24",3.5,"00000","Total income","Females",479925,553855,456795,530635,32356,36869,13.9
+"505","Ottawa - Gatineau","CMA","Ontario","35","24",3.5,"00000","After-tax income","Both sexes",926555,1073835,883955,1029070,33574,36258,8.0
+"505","Ottawa - Gatineau","CMA","Ontario","35","24",3.5,"00000","After-tax income","Males",446630,519980,427190,498110,38953,40420,3.8
+"505","Ottawa - Gatineau","CMA","Ontario","35","24",3.5,"00000","After-tax income","Females",479925,553855,456765,530955,29252,32858,12.3
+"505","Ottawa - Gatineau","CMA","Ontario","35","24",3.5,"00000","Employment income","Both sexes",926555,1073835,679065,773290,40013,40109,0.2
+"505","Ottawa - Gatineau","CMA","Ontario","35","24",3.5,"00000","Employment income","Males",446630,519980,344790,390165,46098,44501,-3.5
+"505","Ottawa - Gatineau","CMA","Ontario","35","24",3.5,"00000","Employment income","Females",479925,553855,334275,383125,35253,36367,3.2
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","Total income","Both sexes",11835,13275,11310,12860,33199,35413,6.7
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","Total income","Males",5715,6450,5480,6255,43033,43317,0.7
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","Total income","Females",6120,6820,5830,6600,24053,29297,21.8
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","After-tax income","Both sexes",11835,13275,11315,12860,29593,31888,7.8
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","After-tax income","Males",5715,6450,5480,6255,37424,38133,1.9
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","After-tax income","Females",6120,6820,5835,6605,22738,26898,18.3
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","Employment income","Both sexes",11835,13275,8225,9190,34566,33161,-4.1
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","Employment income","Males",5715,6450,4330,4715,42827,41305,-3.6
+"507","Arnprior","CA","Ontario","35","",3.5,"00000","Employment income","Females",6120,6820,3900,4475,24756,27880,12.6
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","Total income","Both sexes",21815,25575,20880,24685,35577,40194,13.0
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","Total income","Males",10635,12425,10265,11975,44904,48518,8.0
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","Total income","Females",11185,13155,10615,12705,29056,33314,14.7
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","After-tax income","Both sexes",21815,25575,20865,24700,31380,35713,13.8
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","After-tax income","Males",10635,12425,10250,11975,38798,42249,8.9
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","After-tax income","Females",11185,13155,10610,12720,26165,30174,15.3
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","Employment income","Both sexes",21815,25575,16045,18505,35797,37420,4.5
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","Employment income","Males",10635,12425,8300,9440,43755,45343,3.6
+"509","Carleton Place","CA","Ontario","35","",4.1,"00000","Employment income","Females",11185,13155,7745,9070,30003,31232,4.1
+"512","Brockville","CA","Ontario","35","",4.0,"00000","Total income","Both sexes",32230,32595,31010,31425,30695,32265,5.1
+"512","Brockville","CA","Ontario","35","",4.0,"00000","Total income","Males",15380,15570,14890,15000,38322,37990,-0.9
+"512","Brockville","CA","Ontario","35","",4.0,"00000","Total income","Females",16850,17025,16120,16420,25040,27891,11.4
+"512","Brockville","CA","Ontario","35","",4.0,"00000","After-tax income","Both sexes",32230,32595,31010,31435,27836,29434,5.7
+"512","Brockville","CA","Ontario","35","",4.0,"00000","After-tax income","Males",15380,15570,14885,15000,33588,34131,1.6
+"512","Brockville","CA","Ontario","35","",4.0,"00000","After-tax income","Females",16850,17025,16125,16430,23574,25787,9.4
+"512","Brockville","CA","Ontario","35","",4.0,"00000","Employment income","Both sexes",32230,32595,21885,21120,29503,29061,-1.5
+"512","Brockville","CA","Ontario","35","",4.0,"00000","Employment income","Males",15380,15570,11375,10755,35478,33521,-5.5
+"512","Brockville","CA","Ontario","35","",4.0,"00000","Employment income","Females",16850,17025,10505,10370,23573,25305,7.3
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","Total income","Both sexes",18630,18965,17865,18310,28491,32161,12.9
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","Total income","Males",8865,9150,8570,8860,38120,39635,4.0
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","Total income","Females",9765,9810,9295,9450,22103,26853,21.5
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","After-tax income","Both sexes",18630,18965,17860,18315,26323,29554,12.3
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","After-tax income","Males",8865,9150,8575,8855,33799,35576,5.3
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","After-tax income","Females",9765,9810,9285,9460,21425,25019,16.8
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","Employment income","Both sexes",18630,18965,12020,12365,30152,32174,6.7
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","Employment income","Males",8865,9150,6310,6350,39072,38600,-1.2
+"515","Pembroke","CA","Ontario","35","",4.3,"00000","Employment income","Females",9765,9810,5710,6020,22156,26752,20.7
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","Total income","Both sexes",10780,12520,10225,12080,40960,50371,23.0
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","Total income","Males",5530,6535,5295,6360,60139,63499,5.6
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","Total income","Females",5250,5985,4930,5715,20486,28407,38.7
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","After-tax income","Both sexes",10780,12520,10225,12085,35815,43950,22.7
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","After-tax income","Males",5530,6535,5295,6365,49472,53642,8.4
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","After-tax income","Females",5250,5985,4930,5720,19985,26133,30.8
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","Employment income","Both sexes",10780,12520,8285,9900,43899,53006,20.7
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","Employment income","Males",5530,6535,4570,5580,61555,63660,3.4
+"516","Petawawa","CA","Ontario","35","",7.6,"00100","Employment income","Females",5250,5985,3715,4325,21959,28160,28.2
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","Total income","Both sexes",122865,132575,117690,127910,33024,36174,9.5
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","Total income","Males",58305,63235,55815,60940,41073,42073,2.4
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","Total income","Females",64560,69340,61870,66975,27015,31687,17.3
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","After-tax income","Both sexes",122865,132575,117715,127955,29655,32607,10.0
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","After-tax income","Males",58305,63235,55800,60945,35802,37418,4.5
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","After-tax income","Females",64560,69340,61915,67015,24964,28784,15.3
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","Employment income","Both sexes",122865,132575,86690,93550,31781,32041,0.8
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","Employment income","Males",58305,63235,43585,46835,37966,36064,-5.0
+"521","Kingston","CMA","Ontario","35","",4.6,"00000","Employment income","Females",64560,69340,43105,46710,27204,28727,5.6
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","Total income","Both sexes",81165,84895,77795,81855,29652,31694,6.9
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","Total income","Males",39115,41220,37645,39800,39203,38660,-1.4
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","Total income","Females",42055,43675,40145,42055,23744,26957,13.5
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","After-tax income","Both sexes",81165,84895,77785,81900,26932,29087,8.0
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","After-tax income","Males",39115,41220,37635,39805,34415,34698,0.8
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","After-tax income","Females",42055,43675,40155,42090,22390,25034,11.8
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","Employment income","Both sexes",81165,84895,55765,57070,28967,30287,4.6
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","Employment income","Males",39115,41220,28595,29540,38123,36829,-3.4
+"522","Belleville","CMA","Ontario","35","",3.8,"00000","Employment income","Females",42055,43675,27165,27535,22946,25606,11.6
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","Total income","Both sexes",14410,16285,13870,15795,32109,33590,4.6
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","Total income","Males",6720,7505,6570,7270,42441,40887,-3.7
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","Total income","Females",7685,8775,7295,8525,25506,28756,12.7
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","After-tax income","Both sexes",14410,16285,13870,15800,29105,30622,5.2
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","After-tax income","Males",6720,7505,6570,7265,36439,36579,0.4
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","After-tax income","Females",7685,8775,7300,8530,23726,26389,11.2
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","Employment income","Both sexes",14410,16285,9495,10050,29592,27757,-6.2
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","Employment income","Males",6720,7505,4870,5095,39200,32104,-18.1
+"527","Cobourg","CA","Ontario","35","",4.5,"00000","Employment income","Females",7685,8775,4630,4960,24014,24859,3.5
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","Total income","Both sexes",12990,14105,12545,13660,32879,35206,7.1
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","Total income","Males",6240,6840,6025,6640,45556,43406,-4.7
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","Total income","Females",6750,7265,6520,7020,23340,27995,19.9
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","After-tax income","Both sexes",12990,14105,12540,13670,29404,31709,7.8
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","After-tax income","Males",6240,6840,6025,6635,39214,38630,-1.5
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","After-tax income","Females",6750,7265,6515,7030,21620,25472,17.8
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","Employment income","Both sexes",12990,14105,9200,9640,31800,30126,-5.3
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","Employment income","Males",6240,6840,4810,5055,45690,36160,-20.9
+"528","Port Hope","CA","Ontario","35","",4.7,"00000","Employment income","Females",6750,7265,4390,4590,22512,25643,13.9
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","Total income","Both sexes",95715,100985,91845,97495,29656,31867,7.5
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","Total income","Males",45500,48315,43815,46645,37923,37156,-2.0
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","Total income","Females",50215,52670,48030,50850,23717,27833,17.4
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","After-tax income","Both sexes",95715,100985,91840,97525,26937,29212,8.4
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","After-tax income","Males",45500,48315,43795,46650,33415,33554,0.4
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","After-tax income","Females",50215,52670,48045,50875,22375,25829,15.4
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","Employment income","Both sexes",95715,100985,65255,68550,28999,28578,-1.5
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","Employment income","Males",45500,48315,33545,34850,36190,31320,-13.5
+"529","Peterborough","CMA","Ontario","35","",4.5,"00000","Employment income","Females",50215,52670,31710,33700,23638,26182,10.8
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","Total income","Both sexes",61245,63505,58515,61370,29602,32302,9.1
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","Total income","Males",29990,31175,28740,30190,39374,39649,0.7
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","Total income","Females",31250,32335,29780,31180,22896,26592,16.1
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","After-tax income","Both sexes",61245,63505,58520,61415,26682,29448,10.4
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","After-tax income","Males",29990,31175,28735,30195,34699,35570,2.5
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","After-tax income","Females",31250,32335,29785,31220,21748,24685,13.5
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","Employment income","Both sexes",61245,63505,40830,41960,28140,28318,0.6
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","Employment income","Males",29990,31175,21730,22160,35955,32283,-10.2
+"530","Kawartha Lakes","CA","Ontario","35","",4.7,"00000","Employment income","Females",31250,32335,19100,19800,22219,25157,13.2
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","Total income","Both sexes",20565,22740,19970,22040,37268,39963,7.2
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","Total income","Males",10090,11190,9880,10865,49064,48197,-1.8
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","Total income","Females",10475,11555,10095,11170,28775,32957,14.5
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","After-tax income","Both sexes",20565,22740,19980,22050,32879,35604,8.3
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","After-tax income","Males",10090,11190,9880,10870,41471,41984,1.2
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","After-tax income","Females",10475,11555,10105,11180,25854,30037,16.2
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","Employment income","Both sexes",20565,22740,15660,16880,37766,37659,-0.3
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","Employment income","Males",10090,11190,8225,8820,49470,46330,-6.3
+"531","Centre Wellington","CA","Ontario","35","",4.2,"00000","Employment income","Females",10475,11555,7430,8065,28733,29980,4.3
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","Total income","Both sexes",259505,306455,246655,291745,37855,37988,0.4
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","Total income","Males",125955,148375,120440,141455,50178,46516,-7.3
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","Total income","Females",133550,158080,126220,150295,28348,30765,8.5
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","After-tax income","Both sexes",259505,306455,246645,291865,33404,34127,2.2
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","After-tax income","Males",125955,148375,120430,141460,42568,40810,-4.1
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","After-tax income","Females",133550,158080,126215,150405,25834,28245,9.3
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","Employment income","Both sexes",259505,306455,195210,225250,40072,37299,-6.9
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","Employment income","Males",125955,148375,102290,116260,51844,44866,-13.5
+"532","Oshawa","CMA","Ontario","35","",3.2,"00000","Employment income","Females",133550,158080,92915,108985,30691,31403,2.3
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","Total income","Both sexes",9265,10245,8935,9875,34627,37124,7.2
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","Total income","Males",4515,5050,4420,4870,44959,45690,1.6
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","Total income","Females",4745,5195,4515,5005,25324,29298,15.7
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","After-tax income","Both sexes",9265,10245,8925,9875,30774,33301,8.2
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","After-tax income","Males",4515,5050,4420,4870,38615,40070,3.8
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","After-tax income","Females",4745,5195,4505,5005,23479,26938,14.7
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","Employment income","Both sexes",9265,10245,6850,7680,38198,37686,-1.3
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","Employment income","Males",4515,5050,3640,4045,49243,46321,-5.9
+"533","Ingersoll","CA","Ontario","35","",2.9,"00000","Employment income","Females",4745,5195,3210,3635,26863,29504,9.8
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","Total income","Both sexes",4109065,4879095,3883085,4631950,31697,31705,0.0
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","Total income","Males",1974035,2345200,1876730,2227295,38375,36559,-4.7
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","Total income","Females",2135035,2533895,2006355,2404650,26380,28070,6.4
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","After-tax income","Both sexes",4109065,4879095,3881665,4632745,28801,29242,1.5
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","After-tax income","Males",1974035,2345200,1875875,2227495,34062,33167,-2.6
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","After-tax income","Females",2135035,2533895,2005790,2405245,24555,26233,6.8
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","Employment income","Both sexes",4109065,4879095,2931775,3454590,35931,34838,-3.0
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","Employment income","Males",1974035,2345200,1501675,1751255,42214,39549,-6.3
+"535","Toronto","CMA","Ontario","35","",3.1,"00000","Employment income","Females",2135035,2533895,1430100,1703330,30702,30701,0.0
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","Total income","Both sexes",557505,612630,533955,588170,33648,35319,5.0
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","Total income","Males",268330,295875,258125,284100,43756,42190,-3.6
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","Total income","Females",289175,316755,275830,304065,25806,29872,15.8
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","After-tax income","Both sexes",557505,612630,533825,588315,30100,32073,6.6
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","After-tax income","Males",268330,295875,258020,284120,37855,37669,-0.5
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","After-tax income","Females",289175,316755,275800,304195,24016,27549,14.7
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","Employment income","Both sexes",557505,612630,394715,435315,35732,35224,-1.4
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","Employment income","Males",268330,295875,205020,224710,46133,41138,-10.8
+"537","Hamilton","CMA","Ontario","35","",3.5,"00000","Employment income","Females",289175,316755,189690,210605,28300,30390,7.4
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","Total income","Both sexes",318270,337885,306705,326725,30220,30981,2.5
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","Total income","Males",152580,162355,147690,157230,39802,37659,-5.4
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","Total income","Females",165685,175525,159020,169495,23679,26119,10.3
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","After-tax income","Both sexes",318270,337885,306675,326835,27437,28521,4.0
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","After-tax income","Males",152580,162355,147665,157245,34935,34064,-2.5
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","After-tax income","Females",165685,175525,159015,169595,22406,24430,9.0
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","Employment income","Both sexes",318270,337885,221230,230445,29329,27837,-5.1
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","Employment income","Males",152580,162355,115165,118895,37904,32640,-13.9
+"539","St. Catharines - Niagara","CMA","Ontario","35","",4.1,"00000","Employment income","Females",165685,175525,106065,111545,23434,24320,3.8
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","Total income","Both sexes",371550,423865,357490,406685,34938,35709,2.2
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","Total income","Males",181960,208350,175815,200510,45575,43368,-4.8
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","Total income","Females",189595,215510,181680,206180,26735,29686,11.0
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","After-tax income","Both sexes",371550,423865,357395,406740,31051,32331,4.1
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","After-tax income","Males",181960,208350,175755,200515,39062,38405,-1.7
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","After-tax income","Females",189595,215510,181645,206225,24607,27336,11.1
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","Employment income","Both sexes",371550,423865,285220,313565,36456,36532,0.2
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","Employment income","Males",181960,208350,148640,163085,47338,44444,-6.1
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario","35","",3.6,"00000","Employment income","Females",189595,215510,136580,150490,27542,30007,8.9
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","Total income","Both sexes",99280,108070,95390,103830,31622,33295,5.3
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","Total income","Males",47970,52370,46190,50335,41575,40719,-2.1
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","Total income","Females",51310,55705,49200,53500,24792,27766,12.0
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","After-tax income","Both sexes",99280,108070,95375,103855,28483,30500,7.1
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","After-tax income","Males",47970,52370,46180,50335,36334,36260,-0.2
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","After-tax income","Females",51310,55705,49195,53520,23216,25809,11.2
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","Employment income","Both sexes",99280,108070,71475,76410,33485,33859,1.1
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","Employment income","Males",47970,52370,36985,39265,44203,41569,-6.0
+"543","Brantford","CMA","Ontario","35","",3.9,"20000","Employment income","Females",51310,55705,34490,37145,25875,27317,5.6
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","Total income","Both sexes",28585,33140,27530,32035,33873,35915,6.0
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","Total income","Males",13705,16090,13230,15575,44972,44247,-1.6
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","Total income","Females",14875,17050,14295,16460,25897,28723,10.9
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","After-tax income","Both sexes",28585,33140,27530,32040,30434,32502,6.8
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","After-tax income","Males",13705,16090,13235,15575,38647,38933,0.7
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","After-tax income","Females",14875,17050,14295,16465,23826,26597,11.6
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","Employment income","Both sexes",28585,33140,20670,23720,35478,36810,3.8
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","Employment income","Males",13705,16090,10785,12425,47167,45644,-3.2
+"544","Woodstock","CA","Ontario","35","",4.0,"00000","Employment income","Females",14875,17050,9885,11300,25867,28459,10.0
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","Total income","Both sexes",12230,13255,11825,12840,31333,32240,2.9
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","Total income","Males",5705,6235,5585,6055,39458,39709,0.6
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","Total income","Females",6530,7020,6245,6785,25757,26464,2.7
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","After-tax income","Both sexes",12230,13255,11825,12845,28276,29470,4.2
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","After-tax income","Males",5705,6235,5585,6060,34364,35704,3.9
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","After-tax income","Females",6530,7020,6240,6780,23897,24806,3.8
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","Employment income","Both sexes",12230,13255,8090,8300,31042,32344,4.2
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","Employment income","Males",5705,6235,4215,4325,39252,39108,-0.4
+"546","Tillsonburg","CA","Ontario","35","",3.8,"00000","Employment income","Females",6530,7020,3875,3975,26174,26528,1.4
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","Total income","Both sexes",50940,52730,49240,51245,28673,32301,12.7
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","Total income","Males",25120,25905,24365,25260,37083,40264,8.6
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","Total income","Females",25820,26825,24880,25990,22209,25680,15.6
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","After-tax income","Both sexes",50940,52730,49250,51275,26226,29581,12.8
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","After-tax income","Males",25120,25905,24360,25260,32942,36068,9.5
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","After-tax income","Females",25820,26825,24885,26015,21255,24019,13.0
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","Employment income","Both sexes",50940,52730,36200,36425,26990,28022,3.8
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","Employment income","Males",25120,25905,19300,19345,35502,35468,-0.1
+"547","Norfolk","CA","Ontario","35","",5.0,"00000","Employment income","Females",25820,26825,16900,17080,20175,22372,10.9
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","Total income","Both sexes",107275,124275,103665,119890,36267,38262,5.5
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","Total income","Males",52110,60285,50580,58150,47604,45591,-4.2
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","Total income","Females",55165,63990,53085,61740,28265,32182,13.9
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","After-tax income","Both sexes",107275,124275,103660,119910,32131,34308,6.8
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","After-tax income","Males",52110,60285,50580,58155,40600,40003,-1.5
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","After-tax income","Females",55165,63990,53085,61760,25816,29427,14.0
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","Employment income","Both sexes",107275,124275,82930,94050,37423,37736,0.8
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","Employment income","Males",52110,60285,42840,47900,48635,45415,-6.6
+"550","Guelph","CMA","Ontario","35","",3.5,"00000","Employment income","Females",55165,63990,40090,46145,28741,30919,7.6
+"553","Stratford","CA","Ontario","35","",3.9,"00000","Total income","Both sexes",24550,25975,24020,25370,34080,35352,3.7
+"553","Stratford","CA","Ontario","35","",3.9,"00000","Total income","Males",11580,12420,11300,12130,43982,41669,-5.3
+"553","Stratford","CA","Ontario","35","",3.9,"00000","Total income","Females",12975,13555,12715,13235,26629,30474,14.4
+"553","Stratford","CA","Ontario","35","",3.9,"00000","After-tax income","Both sexes",24550,25975,24025,25375,30422,31931,5.0
+"553","Stratford","CA","Ontario","35","",3.9,"00000","After-tax income","Males",11580,12420,11305,12135,37814,36886,-2.5
+"553","Stratford","CA","Ontario","35","",3.9,"00000","After-tax income","Females",12975,13555,12715,13240,24674,27923,13.2
+"553","Stratford","CA","Ontario","35","",3.9,"00000","Employment income","Both sexes",24550,25975,18540,19115,33862,33185,-2.0
+"553","Stratford","CA","Ontario","35","",3.9,"00000","Employment income","Males",11580,12420,9385,9640,43813,40393,-7.8
+"553","Stratford","CA","Ontario","35","",3.9,"00000","Employment income","Females",12975,13555,9155,9470,25798,27715,7.4
+"555","London","CMA","Ontario","35","",3.5,"00000","Total income","Both sexes",369760,405455,354135,388860,32991,33564,1.7
+"555","London","CMA","Ontario","35","",3.5,"00000","Total income","Males",177155,195305,169950,187285,41391,38825,-6.2
+"555","London","CMA","Ontario","35","",3.5,"00000","Total income","Females",192605,210150,184185,201575,26588,29519,11.0
+"555","London","CMA","Ontario","35","",3.5,"00000","After-tax income","Both sexes",369760,405455,354150,388940,29592,30614,3.5
+"555","London","CMA","Ontario","35","",3.5,"00000","After-tax income","Males",177155,195305,169955,187290,36202,34860,-3.7
+"555","London","CMA","Ontario","35","",3.5,"00000","After-tax income","Females",192605,210150,184200,201650,24614,27212,10.6
+"555","London","CMA","Ontario","35","",3.5,"00000","Employment income","Both sexes",369760,405455,267630,283360,34010,32774,-3.6
+"555","London","CMA","Ontario","35","",3.5,"00000","Employment income","Males",177155,195305,136970,144625,41558,37082,-10.8
+"555","London","CMA","Ontario","35","",3.5,"00000","Employment income","Females",192605,210150,130665,138735,27504,29207,6.2
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","Total income","Both sexes",86600,83055,83835,80535,30559,30895,1.1
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","Total income","Males",42025,40360,40920,39305,39410,36520,-7.3
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","Total income","Females",44580,42700,42915,41235,24029,26045,8.4
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","After-tax income","Both sexes",86600,83055,83815,80550,27605,28426,3.0
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","After-tax income","Males",42025,40360,40910,39305,34485,33046,-4.2
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","After-tax income","Females",44580,42700,42900,41250,22673,24474,7.9
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","Employment income","Both sexes",86600,83055,62710,57475,29578,27254,-7.9
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","Employment income","Males",42025,40360,32980,30095,37909,31975,-15.7
+"556","Chatham-Kent","CA","Ontario","35","",4.3,"00000","Employment income","Females",44580,42700,29725,27380,22918,23302,1.7
+"557","Leamington","CA","Ontario","35","",7.5,"00100","Total income","Both sexes",37200,37655,35765,36425,31413,32419,3.2
+"557","Leamington","CA","Ontario","35","",7.5,"00100","Total income","Males",18125,18445,17565,17920,43484,41574,-4.4
+"557","Leamington","CA","Ontario","35","",7.5,"00100","Total income","Females",19075,19215,18200,18505,23295,25387,9.0
+"557","Leamington","CA","Ontario","35","",7.5,"00100","After-tax income","Both sexes",37200,37655,35765,36445,28275,29656,4.9
+"557","Leamington","CA","Ontario","35","",7.5,"00100","After-tax income","Males",18125,18445,17560,17920,38181,37094,-2.8
+"557","Leamington","CA","Ontario","35","",7.5,"00100","After-tax income","Females",19075,19215,18205,18515,21928,23712,8.1
+"557","Leamington","CA","Ontario","35","",7.5,"00100","Employment income","Both sexes",37200,37655,26865,26995,29627,27928,-5.7
+"557","Leamington","CA","Ontario","35","",7.5,"00100","Employment income","Males",18125,18445,14395,14665,41545,34318,-17.4
+"557","Leamington","CA","Ontario","35","",7.5,"00100","Employment income","Females",19075,19215,12475,12325,21973,22583,2.8
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","Total income","Both sexes",258640,270000,245315,256730,33471,32971,-1.5
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","Total income","Males",125620,131630,120155,125760,44858,40881,-8.9
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","Total income","Females",133020,138375,125155,130970,24911,27050,8.6
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","After-tax income","Both sexes",258640,270000,245310,256835,30054,30221,0.6
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","After-tax income","Males",125620,131630,120130,125765,38700,36549,-5.6
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","After-tax income","Females",133020,138375,125185,131070,23333,25263,8.3
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","Employment income","Both sexes",258640,270000,180085,184455,35553,30525,-14.1
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","Employment income","Males",125620,131630,95260,98290,47250,35455,-25.0
+"559","Windsor","CMA","Ontario","35","",3.5,"00000","Employment income","Females",133020,138375,84830,86160,26949,26556,-1.5
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","Total income","Both sexes",78855,80185,75780,77325,32953,35349,7.3
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","Total income","Males",38050,39020,36905,37840,47673,48399,1.5
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","Total income","Females",40810,41165,38875,39485,23187,26836,15.7
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","After-tax income","Both sexes",78855,80185,75745,77390,29664,32028,8.0
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","After-tax income","Males",38050,39020,36905,37845,40735,42530,4.4
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","After-tax income","Females",40810,41165,38845,39550,21995,24727,12.4
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","Employment income","Both sexes",78855,80185,55780,54835,30903,30490,-1.3
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","Employment income","Males",38050,39020,29730,29515,45474,40076,-11.9
+"562","Sarnia","CA","Ontario","35","",3.5,"00000","Employment income","Females",40810,41165,26050,25325,21888,24148,10.3
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","Total income","Both sexes",12770,17955,12365,17505,29705,29545,-0.5
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","Total income","Males",6255,8675,6080,8480,38660,36964,-4.4
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","Total income","Females",6525,9275,6280,9025,21815,24419,11.9
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","After-tax income","Both sexes",12770,17955,12365,17520,27328,27441,0.4
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","After-tax income","Males",6255,8675,6080,8480,34124,33732,-1.1
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","After-tax income","Females",6525,9275,6285,9040,20729,22989,10.9
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","Employment income","Both sexes",12770,17955,7665,10500,28626,24138,-15.7
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","Employment income","Males",6255,8675,4140,5490,36591,28544,-22.0
+"565","Wasaga Beach","CA","Ontario","35","",4.5,"00000","Employment income","Females",6525,9275,3525,5010,23163,20940,-9.6
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","Total income","Both sexes",26250,26250,25280,25470,27926,30943,10.8
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","Total income","Males",12475,12555,12120,12180,35621,36498,2.5
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","Total income","Females",13770,13690,13160,13295,23629,26624,12.7
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","After-tax income","Both sexes",26250,26250,25280,25485,25576,28473,11.3
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","After-tax income","Males",12475,12555,12115,12180,31515,33056,4.9
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","After-tax income","Females",13770,13690,13165,13300,22267,24977,12.2
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","Employment income","Both sexes",26250,26250,18025,17550,27610,28633,3.7
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","Employment income","Males",12475,12555,9140,8905,35180,32953,-6.3
+"566","Owen Sound","CA","Ontario","35","",5.0,"00000","Employment income","Females",13770,13690,8880,8645,22458,24878,10.8
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","Total income","Both sexes",14140,18025,13700,17655,28591,32215,12.7
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","Total income","Males",6570,8415,6340,8225,38067,37467,-1.6
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","Total income","Females",7565,9615,7360,9435,23735,28845,21.5
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","After-tax income","Both sexes",14140,18025,13700,17665,25893,29443,13.7
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","After-tax income","Males",6570,8415,6340,8225,33064,33577,1.6
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","After-tax income","Females",7565,9615,7350,9435,22223,26593,19.7
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","Employment income","Both sexes",14140,18025,9495,12270,26071,26508,1.7
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","Employment income","Males",6570,8415,4775,6065,33771,30133,-10.8
+"567","Collingwood","CA","Ontario","35","",4.8,"00000","Employment income","Females",7565,9615,4720,6205,21948,23724,8.1
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","Total income","Both sexes",138030,159220,132410,152710,34425,34568,0.4
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","Total income","Males",66985,77445,64500,74335,47124,43445,-7.8
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","Total income","Females",71045,81775,67910,78370,25043,28464,13.7
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","After-tax income","Both sexes",138030,159220,132365,152750,30655,31326,2.2
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","After-tax income","Males",66985,77445,64470,74340,39852,38352,-3.8
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","After-tax income","Females",71045,81775,67900,78410,23277,26366,13.3
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","Employment income","Both sexes",138030,159220,104860,118810,35558,34316,-3.5
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","Employment income","Males",66985,77445,54440,61155,48215,43055,-10.7
+"568","Barrie","CMA","Ontario","35","",3.4,"00000","Employment income","Females",71045,81775,50425,57655,25712,27711,7.8
+"569","Orillia","CA","Ontario","35","",4.4,"00000","Total income","Both sexes",23940,25565,23135,24705,28390,29620,4.3
+"569","Orillia","CA","Ontario","35","",4.4,"00000","Total income","Males",11160,11915,10830,11470,35339,33441,-5.4
+"569","Orillia","CA","Ontario","35","",4.4,"00000","Total income","Females",12785,13650,12305,13235,24288,26615,9.6
+"569","Orillia","CA","Ontario","35","",4.4,"00000","After-tax income","Both sexes",23940,25565,23135,24710,25720,27397,6.5
+"569","Orillia","CA","Ontario","35","",4.4,"00000","After-tax income","Males",11160,11915,10830,11475,31140,30545,-1.9
+"569","Orillia","CA","Ontario","35","",4.4,"00000","After-tax income","Females",12785,13650,12300,13240,22872,25012,9.4
+"569","Orillia","CA","Ontario","35","",4.4,"00000","Employment income","Both sexes",23940,25565,16275,16685,27964,27665,-1.1
+"569","Orillia","CA","Ontario","35","",4.4,"00000","Employment income","Males",11160,11915,8185,8190,33600,31644,-5.8
+"569","Orillia","CA","Ontario","35","",4.4,"00000","Employment income","Females",12785,13650,8090,8490,23660,24517,3.6
+"571","Midland","CA","Ontario","35","",4.7,"00000","Total income","Both sexes",28555,29880,27340,28875,28535,29778,4.4
+"571","Midland","CA","Ontario","35","",4.7,"00000","Total income","Males",13625,14375,13075,13910,37695,34557,-8.3
+"571","Midland","CA","Ontario","35","",4.7,"00000","Total income","Females",14925,15505,14265,14970,22916,25886,13.0
+"571","Midland","CA","Ontario","35","",4.7,"00000","After-tax income","Both sexes",28555,29880,27340,28885,26231,27528,4.9
+"571","Midland","CA","Ontario","35","",4.7,"00000","After-tax income","Males",13625,14375,13075,13910,32974,31347,-4.9
+"571","Midland","CA","Ontario","35","",4.7,"00000","After-tax income","Females",14925,15505,14270,14970,21836,24427,11.9
+"571","Midland","CA","Ontario","35","",4.7,"00000","Employment income","Both sexes",28555,29880,18775,18920,30479,29016,-4.8
+"571","Midland","CA","Ontario","35","",4.7,"00000","Employment income","Males",13625,14375,9785,9620,37895,33605,-11.3
+"571","Midland","CA","Ontario","35","",4.7,"00000","Employment income","Females",14925,15505,8990,9300,24768,25467,2.8
+"575","North Bay","CA","Ontario","35","",4.8,"00000","Total income","Both sexes",58335,58240,55570,56100,28438,33172,16.6
+"575","North Bay","CA","Ontario","35","",4.8,"00000","Total income","Males",28040,28220,26840,27215,36622,39457,7.7
+"575","North Bay","CA","Ontario","35","",4.8,"00000","Total income","Females",30300,30015,28735,28890,23703,28240,19.1
+"575","North Bay","CA","Ontario","35","",4.8,"00000","After-tax income","Both sexes",58335,58240,55565,56125,26360,30243,14.7
+"575","North Bay","CA","Ontario","35","",4.8,"00000","After-tax income","Males",28040,28220,26830,27215,32533,35433,8.9
+"575","North Bay","CA","Ontario","35","",4.8,"00000","After-tax income","Females",30300,30015,28735,28910,22281,26130,17.3
+"575","North Bay","CA","Ontario","35","",4.8,"00000","Employment income","Both sexes",58335,58240,39090,39660,28510,31457,10.3
+"575","North Bay","CA","Ontario","35","",4.8,"00000","Employment income","Males",28040,28220,20200,20360,35405,36509,3.1
+"575","North Bay","CA","Ontario","35","",4.8,"00000","Employment income","Females",30300,30015,18895,19300,23649,27770,17.4
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","Total income","Both sexes",131055,136285,125060,131490,32326,37763,16.8
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","Total income","Males",63190,66380,61050,64245,43827,46957,7.1
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","Total income","Females",67865,69900,64010,67240,23509,29828,26.9
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","After-tax income","Both sexes",131055,136285,125070,131575,29197,34060,16.7
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","After-tax income","Males",63190,66380,61035,64255,37787,41352,9.4
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","After-tax income","Females",67865,69900,64035,67320,22287,27273,22.4
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","Employment income","Both sexes",131055,136285,90395,97190,31611,35738,13.1
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","Employment income","Males",63190,66380,47675,51440,42374,43713,3.2
+"580","Greater Sudbury","CMA","Ontario","35","",4.1,"00000","Employment income","Females",67865,69900,42720,45755,24163,30074,24.5
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","Total income","Both sexes",10200,9475,9815,9210,23794,24594,3.4
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","Total income","Males",4880,4535,4735,4410,30545,28939,-5.3
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","Total income","Females",5320,4940,5080,4800,19761,22034,11.5
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","After-tax income","Both sexes",10200,9475,9805,9215,22715,23770,4.6
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","After-tax income","Males",4880,4535,4735,4410,28148,27520,-2.2
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","After-tax income","Females",5320,4940,5070,4805,19283,21453,11.3
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","Employment income","Both sexes",10200,9475,4635,4345,19264,22736,18.0
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","Employment income","Males",4880,4535,2395,2205,21795,24845,14.0
+"582","Elliot Lake","CA","Ontario","35","",4.2,"00000","Employment income","Females",5320,4940,2240,2145,18650,21472,15.1
+"586","Timmins","CA","Ontario","35","",3.7,"00000","Total income","Both sexes",34400,34105,33000,33020,31253,36426,16.6
+"586","Timmins","CA","Ontario","35","",3.7,"00000","Total income","Males",16850,16805,16100,16350,44195,48699,10.2
+"586","Timmins","CA","Ontario","35","",3.7,"00000","Total income","Females",17550,17300,16905,16670,22965,28546,24.3
+"586","Timmins","CA","Ontario","35","",3.7,"00000","After-tax income","Both sexes",34400,34105,33000,33025,28288,32944,16.5
+"586","Timmins","CA","Ontario","35","",3.7,"00000","After-tax income","Males",16850,16805,16100,16350,38199,42237,10.6
+"586","Timmins","CA","Ontario","35","",3.7,"00000","After-tax income","Females",17550,17300,16900,16680,21775,26425,21.4
+"586","Timmins","CA","Ontario","35","",3.7,"00000","Employment income","Both sexes",34400,34105,24725,25165,33641,37013,10.0
+"586","Timmins","CA","Ontario","35","",3.7,"00000","Employment income","Males",16850,16805,13030,13265,47266,51883,9.8
+"586","Timmins","CA","Ontario","35","",3.7,"00000","Employment income","Females",17550,17300,11700,11900,24397,28419,16.5
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","Total income","Both sexes",66500,65390,63905,63240,30166,33311,10.4
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","Total income","Males",31760,31535,30690,30505,39200,40485,3.3
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","Total income","Females",34735,33855,33215,32730,23185,26800,15.6
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","After-tax income","Both sexes",66500,65390,63870,63260,27406,30464,11.2
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","After-tax income","Males",31760,31535,30690,30505,34697,36398,4.9
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","After-tax income","Females",34735,33855,33185,32755,22058,24979,13.2
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","Employment income","Both sexes",66500,65390,45020,44505,27964,28989,3.7
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","Employment income","Males",31760,31535,23665,23770,35373,32706,-7.5
+"590","Sault Ste. Marie","CA","Ontario","35","",4.5,"20000","Employment income","Females",34735,33855,21355,20735,23582,26406,12.0
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","Total income","Both sexes",100650,101145,96780,98145,32635,36378,11.5
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","Total income","Males",48470,49380,46825,47945,42600,43311,1.7
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","Total income","Females",52175,51760,49960,50200,25405,30968,21.9
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","After-tax income","Both sexes",100650,101145,96780,98180,29474,32913,11.7
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","After-tax income","Males",48470,49380,46815,47945,36988,38484,4.0
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","After-tax income","Females",52175,51760,49960,50235,23703,28372,19.7
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","Employment income","Both sexes",100650,101145,68795,70275,33410,34572,3.5
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","Employment income","Males",48470,49380,35415,35785,43239,40488,-6.4
+"595","Thunder Bay","CMA","Ontario","35","",4.4,"00000","Employment income","Females",52175,51760,33380,34485,26810,30326,13.1
+"598","Kenora","CA","Ontario","35","",6.1,"00000","Total income","Both sexes",12350,12375,12010,12160,35107,39471,12.4
+"598","Kenora","CA","Ontario","35","",6.1,"00000","Total income","Males",5965,6045,5845,5945,45524,46773,2.7
+"598","Kenora","CA","Ontario","35","",6.1,"00000","Total income","Females",6385,6335,6165,6215,28381,33135,16.8
+"598","Kenora","CA","Ontario","35","",6.1,"00000","After-tax income","Both sexes",12350,12375,12010,12165,31160,35161,12.8
+"598","Kenora","CA","Ontario","35","",6.1,"00000","After-tax income","Males",5965,6045,5845,5950,39432,40948,3.8
+"598","Kenora","CA","Ontario","35","",6.1,"00000","After-tax income","Females",6385,6335,6165,6220,25873,29966,15.8
+"598","Kenora","CA","Ontario","35","",6.1,"00000","Employment income","Both sexes",12350,12375,9220,9195,33736,35864,6.3
+"598","Kenora","CA","Ontario","35","",6.1,"00000","Employment income","Males",5965,6045,4775,4635,40077,41495,3.5
+"598","Kenora","CA","Ontario","35","",6.1,"00000","Employment income","Females",6385,6335,4450,4560,30326,31706,4.6
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","Total income","Both sexes",558980,629375,536160,599255,31262,35706,14.2
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","Total income","Males",268335,306900,257630,291675,38036,41285,8.5
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","Total income","Females",290650,322480,278530,307580,26113,31114,19.2
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","After-tax income","Both sexes",558980,629375,536125,599375,27778,31505,13.4
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","After-tax income","Males",268335,306900,257610,291695,32799,35730,8.9
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","After-tax income","Females",290650,322480,278515,307675,23877,27981,17.2
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","Employment income","Both sexes",558980,629375,410765,457590,31556,35361,12.1
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","Employment income","Males",268335,306900,209600,234355,37698,40476,7.4
+"602","Winnipeg","CMA","Manitoba","46","",3.3,"00000","Employment income","Females",290650,322480,201165,223230,26728,30826,15.3
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","Total income","Both sexes",16205,22230,15475,21150,23910,30646,28.2
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","Total income","Males",7930,10900,7640,10410,32335,40018,23.8
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","Total income","Females",8280,11330,7835,10740,18788,22555,20.1
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","After-tax income","Both sexes",16205,22230,15470,21155,22289,27589,23.8
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","After-tax income","Males",7930,10900,7635,10415,28780,35046,21.8
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","After-tax income","Females",8280,11330,7830,10740,18007,21173,17.6
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","Employment income","Both sexes",16205,22230,11870,16665,24947,30707,23.1
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","Employment income","Males",7930,10900,6405,9110,32215,38702,20.1
+"603","Winkler","CA","Manitoba","46","",3.5,"00000","Employment income","Females",8280,11330,5470,7550,17065,21498,26.0
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","Total income","Both sexes",8605,12080,8310,11580,26830,30800,14.8
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","Total income","Males",4110,5715,3960,5500,35802,39976,11.7
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","Total income","Females",4495,6365,4350,6080,20738,23680,14.2
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","After-tax income","Both sexes",8605,12080,8310,11580,24249,27948,15.3
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","After-tax income","Males",4110,5715,3960,5495,31144,34893,12.0
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","After-tax income","Females",4495,6365,4345,6085,19658,22091,12.4
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","Employment income","Both sexes",8605,12080,6155,8780,28105,31151,10.8
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","Employment income","Males",4110,5715,3290,4610,35404,38393,8.4
+"605","Steinbach","CA","Manitoba","46","",2.9,"00000","Employment income","Females",4495,6365,2865,4165,20661,24011,16.2
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","Total income","Both sexes",9575,10165,9325,9785,28017,33950,21.2
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","Total income","Males",4435,4780,4275,4605,35591,40596,14.1
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","Total income","Females",5135,5385,5060,5190,24091,29688,23.2
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","After-tax income","Both sexes",9575,10165,9330,9790,25503,30339,19.0
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","After-tax income","Males",4435,4780,4275,4600,30998,35087,13.2
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","After-tax income","Females",5135,5385,5055,5190,22301,27053,21.3
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","Employment income","Both sexes",9575,10165,6845,7000,27793,33518,20.6
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","Employment income","Males",4435,4780,3335,3560,35613,40026,12.4
+"607","Portage la Prairie","CA","Manitoba","46","",4.9,"00000","Employment income","Females",5135,5385,3510,3435,22122,28729,29.9
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","Total income","Both sexes",40060,45260,38900,43710,29810,37709,26.5
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","Total income","Males",19070,21905,18480,21160,37581,45585,21.3
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","Total income","Females",20985,23350,20420,22545,24458,31133,27.3
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","After-tax income","Both sexes",40060,45260,38910,43715,26536,32897,24.0
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","After-tax income","Males",19070,21905,18490,21160,32522,38904,19.6
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","After-tax income","Females",20985,23350,20420,22555,22492,27813,23.7
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","Employment income","Both sexes",40060,45260,30565,34915,28359,35729,26.0
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","Employment income","Males",19070,21905,15545,17830,35487,43473,22.5
+"610","Brandon","CA","Manitoba","46","",3.6,"00000","Employment income","Females",20985,23350,15020,17080,23028,28589,24.1
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","Total income","Both sexes",9785,10025,9300,9520,35927,44868,24.9
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","Total income","Males",5005,5075,4775,4840,54055,59989,11.0
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","Total income","Females",4780,4945,4530,4685,28379,34470,21.5
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","After-tax income","Both sexes",9785,10025,9300,9525,31568,39215,24.2
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","After-tax income","Males",5005,5075,4775,4840,45229,50156,10.9
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","After-tax income","Females",4780,4945,4525,4685,25337,31336,23.7
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","Employment income","Both sexes",9785,10025,8090,8245,37501,45063,20.2
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","Employment income","Males",5005,5075,4370,4425,56188,61973,10.3
+"640","Thompson","CA","Manitoba","46","",5.0,"00100","Employment income","Females",4780,4945,3725,3820,27476,35002,27.4
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","Total income","Both sexes",157740,188685,151640,181530,34736,43434,25.0
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","Total income","Males",75465,92775,72435,89460,41410,50765,22.6
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","Total income","Females",82275,95910,79205,92065,29722,37536,26.3
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","After-tax income","Both sexes",157740,188685,151645,181560,30391,38371,26.3
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","After-tax income","Males",75465,92775,72425,89470,35379,43668,23.4
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","After-tax income","Females",82275,95910,79215,92090,26812,33801,26.1
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","Employment income","Both sexes",157740,188685,119635,143895,34543,43089,24.7
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","Employment income","Males",75465,92775,59930,74120,40400,50207,24.3
+"705","Regina","CMA","Saskatchewan","47","",3.9,"00000","Employment income","Females",82275,95910,59700,69770,30046,36874,22.7
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","Total income","Both sexes",14055,15055,13585,14630,26278,36799,40.0
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","Total income","Males",6520,7235,6275,7030,33495,44751,33.6
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","Total income","Females",7535,7820,7310,7605,22546,31022,37.6
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","After-tax income","Both sexes",14055,15055,13580,14640,24268,33442,37.8
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","After-tax income","Males",6520,7235,6275,7030,29071,39276,35.1
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","After-tax income","Females",7535,7820,7310,7610,21277,28834,35.5
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","Employment income","Both sexes",14055,15055,9860,11205,26378,36080,36.8
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","Employment income","Males",6520,7235,4925,5695,30999,43591,40.6
+"710","Yorkton","CA","Saskatchewan","47","",4.9,"00000","Employment income","Females",7535,7820,4935,5505,21924,29830,36.1
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","Total income","Both sexes",26315,27755,25155,26840,29567,37759,27.7
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","Total income","Males",12505,13505,11970,13090,39506,47542,20.3
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","Total income","Females",13810,14245,13180,13750,23836,30490,27.9
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","After-tax income","Both sexes",26315,27755,25140,26845,26653,33989,27.5
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","After-tax income","Males",12505,13505,11960,13090,34129,41717,22.2
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","After-tax income","Females",13810,14245,13180,13760,22161,28118,26.9
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","Employment income","Both sexes",26315,27755,17855,19915,28705,37086,29.2
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","Employment income","Males",12505,13505,9110,10295,39448,48308,22.5
+"715","Moose Jaw","CA","Saskatchewan","47","",4.7,"00000","Employment income","Females",13810,14245,8745,9615,22614,28707,26.9
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","Total income","Both sexes",13405,14770,13095,14450,29535,39585,34.0
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","Total income","Males",6445,7225,6315,7080,39895,48100,20.6
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","Total income","Females",6960,7540,6775,7370,22831,32349,41.7
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","After-tax income","Both sexes",13405,14770,13080,14445,27161,35302,30.0
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","After-tax income","Males",6445,7225,6305,7075,34221,41719,21.9
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","After-tax income","Females",6960,7540,6770,7370,21599,29891,38.4
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","Employment income","Both sexes",13405,14770,10075,11455,26391,37274,41.2
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","Employment income","Males",6445,7225,5225,5895,36546,46080,26.1
+"720","Swift Current","CA","Saskatchewan","47","",5.2,"00000","Employment income","Females",6960,7540,4845,5555,19707,29008,47.2
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","Total income","Both sexes",188180,233430,179950,224320,30920,40641,31.4
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","Total income","Males",90395,114460,86745,110260,39045,49431,26.6
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","Total income","Females",97785,118970,93210,114060,25344,33950,34.0
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","After-tax income","Both sexes",188180,233430,179925,224360,27733,36328,31.0
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","After-tax income","Males",90395,114460,86715,110270,33715,42794,26.9
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","After-tax income","Females",97785,118970,93215,114090,23586,31031,31.6
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","Employment income","Both sexes",188180,233430,141735,179020,30406,39176,28.8
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","Employment income","Males",90395,114460,72075,92030,38297,47996,25.3
+"725","Saskatoon","CMA","Saskatchewan","47","",4.5,"00000","Employment income","Females",97785,118970,69655,86995,24432,31605,29.4
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","Total income","Both sexes",13610,14910,12960,14405,28980,37156,28.2
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","Total income","Males",6300,7010,6010,6745,34471,42982,24.7
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","Total income","Females",7305,7900,6950,7660,24739,32710,32.2
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","After-tax income","Both sexes",13610,14910,12960,14405,26391,33599,27.3
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","After-tax income","Males",6300,7010,6010,6745,30268,38085,25.8
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","After-tax income","Females",7305,7900,6950,7660,23144,30112,30.1
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","Employment income","Both sexes",13610,14910,9715,11015,27464,35638,29.8
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","Employment income","Males",6300,7010,4885,5375,33364,40684,21.9
+"735","North Battleford","CA","Saskatchewan","47","",5.7,"00000","Employment income","Females",7305,7900,4830,5640,22439,30639,36.5
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","Total income","Both sexes",31560,33250,29900,31820,28574,36705,28.5
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","Total income","Males",14700,15795,13895,15055,35449,42535,20.0
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","Total income","Females",16860,17455,16005,16765,23989,32329,34.8
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","After-tax income","Both sexes",31560,33250,29905,31830,25852,33277,28.7
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","After-tax income","Males",14700,15795,13890,15055,31070,37876,21.9
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","After-tax income","Females",16860,17455,16010,16775,22295,29856,33.9
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","Employment income","Both sexes",31560,33250,22335,23960,28548,35720,25.1
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","Employment income","Males",14700,15795,11160,11925,34669,40812,17.7
+"745","Prince Albert","CA","Saskatchewan","47","",6.3,"00100","Employment income","Females",16860,17455,11180,12030,24503,31603,29.0
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","Total income","Both sexes",9430,10840,9115,10505,34584,47867,38.4
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","Total income","Males",4760,5590,4655,5445,55866,67674,21.1
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","Total income","Females",4680,5250,4460,5055,22781,33536,47.2
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","After-tax income","Both sexes",9430,10840,9120,10505,30107,41699,38.5
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","After-tax income","Males",4760,5590,4660,5450,44352,55429,25.0
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","After-tax income","Females",4680,5250,4465,5060,21136,30318,43.4
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","Employment income","Both sexes",9430,10840,7350,8840,35913,46941,30.7
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","Employment income","Males",4760,5590,4050,4860,56051,66937,19.4
+"750","Estevan","CA","Saskatchewan","47","",3.9,"00000","Employment income","Females",4680,5250,3300,3975,20927,30950,47.9
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","Total income","Both sexes",7385,8510,7155,8285,31846,42585,33.7
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","Total income","Males",3535,4105,3420,3995,40508,54464,34.5
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","Total income","Females",3855,4410,3735,4285,25648,33733,31.5
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","After-tax income","Both sexes",7385,8510,7155,8290,28428,37936,33.4
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","After-tax income","Males",3535,4105,3420,4000,34874,46464,33.2
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","After-tax income","Females",3855,4410,3735,4290,23813,30996,30.2
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","Employment income","Both sexes",7385,8510,5390,6375,28491,39195,37.6
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","Employment income","Males",3535,4105,2820,3250,40087,51129,27.5
+"755","Weyburn","CA","Saskatchewan","47","",4.2,"00000","Employment income","Females",3855,4410,2570,3120,21395,30281,41.5
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","Total income","Both sexes",54800,60785,53300,58535,31473,37274,18.4
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","Total income","Males",27135,29850,26535,28785,45002,50214,11.6
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","Total income","Females",27660,30935,26765,29755,22817,28488,24.9
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","After-tax income","Both sexes",54800,60785,53310,58555,28828,33769,17.1
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","After-tax income","Males",27135,29850,26535,28785,39610,43950,11.0
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","After-tax income","Females",27660,30935,26770,29770,21879,26591,21.5
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","Employment income","Both sexes",54800,60785,42025,44790,31732,35248,11.1
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","Employment income","Males",27135,29850,22345,23365,46035,48005,4.3
+"805","Medicine Hat","CA","Alberta","48","",4.6,"00000","Employment income","Females",27660,30935,19680,21425,21993,26428,20.2
+"806","Brooks","CA","Alberta","48","",5.2,"00000","Total income","Both sexes",17080,18035,16395,17025,34757,41055,18.1
+"806","Brooks","CA","Alberta","48","",5.2,"00000","Total income","Males",9035,9390,8725,8885,47203,48301,2.3
+"806","Brooks","CA","Alberta","48","",5.2,"00000","Total income","Females",8050,8650,7670,8140,23892,30931,29.5
+"806","Brooks","CA","Alberta","48","",5.2,"00000","After-tax income","Both sexes",17080,18035,16390,17025,31052,36548,17.7
+"806","Brooks","CA","Alberta","48","",5.2,"00000","After-tax income","Males",9035,9390,8725,8885,40644,42489,4.5
+"806","Brooks","CA","Alberta","48","",5.2,"00000","After-tax income","Females",8050,8650,7660,8140,22509,28741,27.7
+"806","Brooks","CA","Alberta","48","",5.2,"00000","Employment income","Both sexes",17080,18035,13920,14205,35575,39426,10.8
+"806","Brooks","CA","Alberta","48","",5.2,"00000","Employment income","Males",9035,9390,7870,7795,47208,45744,-3.1
+"806","Brooks","CA","Alberta","48","",5.2,"00000","Employment income","Females",8050,8650,6050,6410,23315,28198,20.9
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","Total income","Both sexes",75190,91855,72825,88240,29059,37099,27.7
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","Total income","Males",36520,45265,35565,43490,38489,46207,20.1
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","Total income","Females",38670,46585,37260,44745,22577,29976,32.8
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","After-tax income","Both sexes",75190,91855,72825,88255,26754,33688,25.9
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","After-tax income","Males",36520,45265,35565,43495,34220,40685,18.9
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","After-tax income","Females",38670,46585,37260,44760,21769,27937,28.3
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","Employment income","Both sexes",75190,91855,57160,68865,28712,36069,25.6
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","Employment income","Males",36520,45265,29515,35695,37582,44901,19.5
+"810","Lethbridge","CMA","Alberta","48","",4.8,"00000","Employment income","Females",38670,46585,27640,33170,21754,28775,32.3
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","Total income","Both sexes",12720,21570,12275,20495,37075,46572,25.6
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","Total income","Males",6295,10650,6085,10145,54875,67379,22.8
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","Total income","Females",6425,10920,6195,10350,25484,33227,30.4
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","After-tax income","Both sexes",12720,21570,12255,20500,33225,40905,23.1
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","After-tax income","Males",6295,10650,6075,10145,45443,56320,23.9
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","After-tax income","Females",6425,10920,6185,10355,24125,30367,25.9
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","Employment income","Both sexes",12720,21570,10785,17005,36523,44810,22.7
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","Employment income","Males",6295,10650,5645,8870,53995,66782,23.7
+"820","Okotoks","CA","Alberta","48","",2.8,"00000","Employment income","Females",6425,10920,5135,8140,24657,29946,21.5
+"821","High River","CA","Alberta","48","",4.9,"00000","Total income","Both sexes",8470,10800,8165,10360,33538,38228,14.0
+"821","High River","CA","Alberta","48","",4.9,"00000","Total income","Males",4130,5310,4020,5105,46273,48456,4.7
+"821","High River","CA","Alberta","48","",4.9,"00000","Total income","Females",4335,5495,4145,5250,23472,29859,27.2
+"821","High River","CA","Alberta","48","",4.9,"00000","After-tax income","Both sexes",8470,10800,8165,10365,30163,34562,14.6
+"821","High River","CA","Alberta","48","",4.9,"00000","After-tax income","Males",4130,5310,4010,5105,39842,42414,6.5
+"821","High River","CA","Alberta","48","",4.9,"00000","After-tax income","Females",4335,5495,4150,5255,22182,27435,23.7
+"821","High River","CA","Alberta","48","",4.9,"00000","Employment income","Both sexes",8470,10800,6330,7690,31880,36630,14.9
+"821","High River","CA","Alberta","48","",4.9,"00000","Employment income","Males",4130,5310,3330,4070,42721,44700,4.6
+"821","High River","CA","Alberta","48","",4.9,"00000","Employment income","Females",4335,5495,3000,3620,21279,28425,33.6
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","Total income","Both sexes",868915,1113985,835160,1058105,36487,43974,20.5
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","Total income","Males",431080,553440,416655,525830,46136,53951,16.9
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","Total income","Females",437835,560545,418505,532275,28930,35687,23.4
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","After-tax income","Both sexes",868915,1113985,834845,1058325,32565,39003,19.8
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","After-tax income","Males",431080,553440,416490,525890,39745,46422,16.8
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","After-tax income","Females",437835,560545,418355,532440,26560,32464,22.2
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","Employment income","Both sexes",868915,1113985,696685,863730,37359,44080,18.0
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","Employment income","Males",431080,553440,364440,449090,46647,53428,14.5
+"825","Calgary","CMA","Alberta","48","",3.8,"00000","Employment income","Females",437835,560545,332245,414640,29666,35946,21.2
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","Total income","Both sexes",7825,10615,7555,10150,35419,40734,15.0
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","Total income","Males",3860,5175,3755,4950,47594,55872,17.4
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","Total income","Females",3960,5440,3795,5200,26908,30496,13.3
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","After-tax income","Both sexes",7825,10615,7555,10150,32080,36576,14.0
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","After-tax income","Males",3860,5175,3755,4950,40854,47561,16.4
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","After-tax income","Females",3960,5440,3795,5200,25873,28066,8.5
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","Employment income","Both sexes",7825,10615,6365,8155,34907,40034,14.7
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","Employment income","Males",3860,5175,3330,4195,47231,55586,17.7
+"826","Strathmore","CA","Alberta","48","",5.2,"00000","Employment income","Females",3960,5440,3035,3965,24630,28873,17.2
+"828","Canmore","CA","Alberta","48","",6.3,"00100","Total income","Both sexes",9770,11530,9520,11280,36245,46084,27.1
+"828","Canmore","CA","Alberta","48","",6.3,"00100","Total income","Males",4895,5785,4780,5665,42585,55112,29.4
+"828","Canmore","CA","Alberta","48","",6.3,"00100","Total income","Females",4880,5745,4740,5610,31235,39241,25.6
+"828","Canmore","CA","Alberta","48","",6.3,"00100","After-tax income","Both sexes",9770,11530,9520,11285,32211,40232,24.9
+"828","Canmore","CA","Alberta","48","",6.3,"00100","After-tax income","Males",4895,5785,4780,5670,37608,47378,26.0
+"828","Canmore","CA","Alberta","48","",6.3,"00100","After-tax income","Females",4880,5745,4735,5615,28616,34894,21.9
+"828","Canmore","CA","Alberta","48","",6.3,"00100","Employment income","Both sexes",9770,11530,8290,9360,33551,38234,14.0
+"828","Canmore","CA","Alberta","48","",6.3,"00100","Employment income","Males",4895,5785,4200,4810,39568,44480,12.4
+"828","Canmore","CA","Alberta","48","",6.3,"00100","Employment income","Females",4880,5745,4095,4550,26581,33402,25.7
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","Total income","Both sexes",66385,79825,64535,76660,34475,41109,19.2
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","Total income","Males",33060,39340,32335,37805,46953,53608,14.2
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","Total income","Females",33320,40485,32200,38860,25319,32417,28.0
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","After-tax income","Both sexes",66385,79825,64535,76675,30889,36645,18.6
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","After-tax income","Males",33060,39340,32325,37810,40250,45891,14.0
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","After-tax income","Females",33320,40485,32205,38870,23749,29751,25.3
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","Employment income","Both sexes",66385,79825,54020,62315,34633,40062,15.7
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","Employment income","Males",33060,39340,28465,32145,47178,52664,11.6
+"830","Red Deer","CA","Alberta","48","",4.7,"00000","Employment income","Females",33320,40485,25555,30170,24206,31095,28.5
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","Total income","Both sexes",8015,11720,7710,11205,37678,45386,20.5
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","Total income","Males",4145,5895,4020,5650,58982,67218,14.0
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","Total income","Females",3875,5825,3685,5555,23912,30684,28.3
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","After-tax income","Both sexes",8015,11720,7705,11210,33253,39982,20.2
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","After-tax income","Males",4145,5895,4020,5650,49656,55872,12.5
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","After-tax income","Females",3875,5825,3685,5560,22395,28293,26.3
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","Employment income","Both sexes",8015,11720,6550,9145,37746,43035,14.0
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","Employment income","Males",4145,5895,3590,4865,60729,65550,7.9
+"831","Sylvan Lake","CA","Alberta","48","",4.6,"00000","Employment income","Females",3875,5825,2960,4280,22426,27840,24.1
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","Total income","Both sexes",8090,10020,7885,9610,31397,40942,30.4
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","Total income","Males",3885,4855,3775,4655,50324,58205,15.7
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","Total income","Females",4200,5165,4110,4960,22739,29056,27.8
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","After-tax income","Both sexes",8090,10020,7895,9615,28458,36959,29.9
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","After-tax income","Males",3885,4855,3780,4650,43089,50304,16.7
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","After-tax income","Females",4200,5165,4115,4955,21908,27157,24.0
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","Employment income","Both sexes",8090,10020,6280,7440,31627,41254,30.4
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","Employment income","Males",3885,4855,3255,3825,49834,59531,19.5
+"832","Lacombe","CA","Alberta","48","",4.1,"00000","Employment income","Females",4200,5165,3025,3615,21818,28407,30.2
+"833","Camrose","CA","Alberta","48","",5.2,"00000","Total income","Both sexes",12615,15065,12300,14615,29633,38525,30.0
+"833","Camrose","CA","Alberta","48","",5.2,"00000","Total income","Males",5910,7135,5765,6900,38226,51846,35.6
+"833","Camrose","CA","Alberta","48","",5.2,"00000","Total income","Females",6705,7930,6540,7710,23405,30411,29.9
+"833","Camrose","CA","Alberta","48","",5.2,"00000","After-tax income","Both sexes",12615,15065,12290,14610,27380,34679,26.7
+"833","Camrose","CA","Alberta","48","",5.2,"00000","After-tax income","Males",5910,7135,5760,6900,34583,45161,30.6
+"833","Camrose","CA","Alberta","48","",5.2,"00000","After-tax income","Females",6705,7930,6535,7710,22289,28411,27.5
+"833","Camrose","CA","Alberta","48","",5.2,"00000","Employment income","Both sexes",12615,15065,9220,10960,29471,37966,28.8
+"833","Camrose","CA","Alberta","48","",5.2,"00000","Employment income","Males",5910,7135,4610,5555,37615,50770,35.0
+"833","Camrose","CA","Alberta","48","",5.2,"00000","Employment income","Females",6705,7930,4615,5400,21492,28730,33.7
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","Total income","Both sexes",834020,1054615,803300,1004260,34606,43900,26.9
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","Total income","Males",411090,525585,398215,500995,45623,55986,22.7
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","Total income","Females",422925,529030,405090,503265,26374,34288,30.0
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","After-tax income","Both sexes",834020,1054615,803105,1004495,31086,38900,25.1
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","After-tax income","Males",411090,525585,398015,501035,39444,47853,21.3
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","After-tax income","Females",422925,529030,405090,503460,24656,31301,27.0
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","Employment income","Both sexes",834020,1054615,650145,816225,35667,44571,25.0
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","Employment income","Males",411090,525585,338590,428235,47140,56058,18.9
+"835","Edmonton","CMA","Alberta","48","",4.4,"00000","Employment income","Females",422925,529030,311555,387990,27199,34888,28.3
+"840","Lloydminster","CA","Alberta","48","47",4.0,"00000","Total income","Both sexes",20810,26250,20160,25145,35811,45060,25.8
+"840","Lloydminster","CA","Alberta","48","47",4.0,"00000","Total income","Males",10570,13195,10325,12695,54880,61897,12.8
+"840","Lloydminster","CA","Alberta","48","47",4.0,"00000","Total income","Females",10235,13055,9835,12455,24240,34192,41.1
+"840","Lloydminster","CA","Alberta","48","47",4.0,"00000","After-tax income","Both sexes",20810,26250,20145,25150,31794,39533,24.3
+"840","Lloydminster","CA","Alberta","48","47",4.0,"00000","After-tax income","Males",10570,13195,10325,12695,44967,51343,14.2
+"840","Lloydminster","CA","Alberta","48","47",4.0,"00000","After-tax income","Females",10235,13055,9825,12450,22748,31018,36.4
+"840","Lloydminster","CA","Alberta","48","47",4.0,"00000","Employment income","Both sexes",20810,26250,17220,21520,35883,42906,19.6
+"840","Lloydminster","CA","Alberta","48","47",4.0,"00000","Employment income","Males",10570,13195,9350,11335,55449,59712,7.7
+"840","Lloydminster","CA","Alberta","48","47",4.0,"00000","Employment income","Females",10235,13055,7870,10185,22441,31178,38.9
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","Total income","Both sexes",8950,11235,8655,10835,43157,54144,25.5
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","Total income","Males",4595,5880,4480,5675,66078,72820,10.2
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","Total income","Females",4355,5360,4170,5160,25287,33958,34.3
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","After-tax income","Both sexes",8950,11235,8655,10835,37834,46498,22.9
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","After-tax income","Males",4595,5880,4485,5675,53666,60533,12.8
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","After-tax income","Females",4355,5360,4170,5160,23199,30626,32.0
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","Employment income","Both sexes",8950,11235,7665,9540,44357,53504,20.6
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","Employment income","Males",4595,5880,4150,5255,65765,71033,8.0
+"845","Cold Lake","CA","Alberta","48","",5.7,"00100","Employment income","Females",4355,5360,3510,4285,23906,33400,39.7
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","Total income","Both sexes",37225,48400,36300,46645,38207,48048,25.8
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","Total income","Males",19235,24660,18865,23805,57599,69229,20.2
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","Total income","Females",17990,23740,17430,22840,25712,33727,31.2
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","After-tax income","Both sexes",37225,48400,36295,46655,34301,42120,22.8
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","After-tax income","Males",19235,24660,18865,23805,48409,57525,18.8
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","After-tax income","Females",17990,23740,17435,22845,23890,30892,29.3
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","Employment income","Both sexes",37225,48400,31915,40560,39570,48419,22.4
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","Employment income","Males",19235,24660,17315,21640,58718,69130,17.7
+"850","Grande Prairie","CA","Alberta","48","",4.7,"00000","Employment income","Females",17990,23740,14600,18915,25526,33104,29.7
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","Total income","Both sexes",41600,58505,39975,55275,51123,76004,48.7
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","Total income","Males",22485,31790,21945,30375,89641,118477,32.2
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","Total income","Females",19115,26715,18030,24900,28666,44846,56.4
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","After-tax income","Both sexes",41600,58505,39960,55280,43887,62238,41.8
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","After-tax income","Males",22485,31790,21945,30375,70975,91221,28.5
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","After-tax income","Females",19115,26715,18015,24905,26198,39546,51.0
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","Employment income","Both sexes",41600,58505,36320,49395,56135,83961,49.6
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","Employment income","Males",22485,31790,20745,28800,92734,121530,31.1
+"860","Wood Buffalo","CA","Alberta","48","",14.3,"01100","Employment income","Females",19115,26715,15570,20595,30794,50887,65.2
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","Total income","Both sexes",9075,9855,8740,9440,27121,34344,26.6
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","Total income","Males",4345,4720,4195,4520,35309,46120,30.6
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","Total income","Females",4730,5135,4540,4920,21218,27531,29.8
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","After-tax income","Both sexes",9075,9855,8735,9440,25500,31631,24.0
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","After-tax income","Males",4345,4720,4200,4515,31962,40427,26.5
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","After-tax income","Females",4730,5135,4530,4920,20936,25770,23.1
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","Employment income","Both sexes",9075,9855,6360,6980,30397,37190,22.3
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","Employment income","Males",4345,4720,3325,3590,38959,49552,27.2
+"865","Wetaskiwin","CA","Alberta","48","",5.0,"00000","Employment income","Females",4730,5135,3040,3385,23148,28592,23.5
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","Total income","Both sexes",19590,21460,18905,20815,28923,35301,22.1
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","Total income","Males",9480,10560,9265,10265,40986,47455,15.8
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","Total income","Females",10105,10900,9650,10550,21985,27220,23.8
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","After-tax income","Both sexes",19590,21460,18920,20840,26383,31750,20.3
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","After-tax income","Males",9480,10560,9265,10275,36031,41179,14.3
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","After-tax income","Females",10105,10900,9660,10565,21276,25285,18.8
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","Employment income","Both sexes",19590,21460,14165,15715,28311,31532,11.4
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","Employment income","Males",9480,10560,7425,8230,40475,42926,6.1
+"905","Cranbrook","CA","British Columbia","59","",4.4,"00000","Employment income","Females",10105,10900,6740,7480,21073,24188,14.8
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","Total income","Both sexes",13795,15260,13310,14810,27238,32124,17.9
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","Total income","Males",6715,7395,6500,7190,35385,38357,8.4
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","Total income","Females",7075,7860,6810,7620,22100,27446,24.2
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","After-tax income","Both sexes",13795,15260,13305,14820,25202,29022,15.2
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","After-tax income","Males",6715,7395,6495,7205,30979,33617,8.5
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","After-tax income","Females",7075,7860,6805,7620,21031,25596,21.7
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","Employment income","Both sexes",13795,15260,9800,11215,24268,25009,3.1
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","Employment income","Males",6715,7395,5015,5555,30495,29976,-1.7
+"907","Nelson","CA","British Columbia","59","",6.5,"00000","Employment income","Females",7075,7860,4790,5655,19517,21033,7.8
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","Total income","Both sexes",34865,36970,33845,36215,27094,31037,14.6
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","Total income","Males",16510,17470,16050,17130,33286,37156,11.6
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","Total income","Females",18355,19500,17795,19090,22700,26671,17.5
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","After-tax income","Both sexes",34865,36970,33845,36255,25233,28143,11.5
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","After-tax income","Males",16510,17470,16050,17155,30193,32817,8.7
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","After-tax income","Females",18355,19500,17800,19100,21723,24947,14.8
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","Employment income","Both sexes",34865,36970,22375,24885,25297,25942,2.5
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","Employment income","Males",16510,17470,11400,12310,30637,30976,1.1
+"913","Penticton","CA","British Columbia","59","",5.8,"00000","Employment income","Females",18355,19500,10975,12575,21101,22701,7.6
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","Total income","Both sexes",134320,163000,129960,158415,29650,34509,16.4
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","Total income","Males",64990,79040,63155,76900,37171,42337,13.9
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","Total income","Females",69330,83960,66805,81515,23807,28859,21.2
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","After-tax income","Both sexes",134320,163000,129925,158565,27021,30954,14.6
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","After-tax income","Males",64990,79040,63110,77015,33203,36991,11.4
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","After-tax income","Females",69330,83960,66815,81545,22483,26602,18.3
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","Employment income","Both sexes",134320,163000,95105,117745,28060,30112,7.3
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","Employment income","Males",64990,79040,49005,59710,35292,37463,6.2
+"915","Kelowna","CMA","British Columbia","59","",4.6,"00000","Employment income","Females",69330,83960,46095,58030,22994,25040,8.9
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","Total income","Both sexes",45360,51065,43555,49650,27633,32615,18.0
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","Total income","Males",21585,24420,20745,23750,37254,41086,10.3
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","Total income","Females",23775,26645,22810,25900,21868,27009,23.5
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","After-tax income","Both sexes",45360,51065,43560,49685,25543,29495,15.5
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","After-tax income","Males",21585,24420,20745,23780,33230,36016,8.4
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","After-tax income","Females",23775,26645,22810,25905,21003,25197,20.0
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","Employment income","Both sexes",45360,51065,30545,34795,26638,28002,5.1
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","Employment income","Males",21585,24420,15700,17535,35572,36057,1.4
+"918","Vernon","CA","British Columbia","59","",4.8,"00000","Employment income","Females",23775,26645,14845,17260,20320,22558,11.0
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","Total income","Both sexes",13145,14580,12680,14250,26863,31431,17.0
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","Total income","Males",6195,6815,5950,6675,35719,40343,12.9
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","Total income","Females",6950,7765,6730,7575,20905,25713,23.0
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","After-tax income","Both sexes",13145,14580,12680,14270,25021,28709,14.7
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","After-tax income","Males",6195,6815,5950,6690,32418,35390,9.2
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","After-tax income","Females",6950,7765,6730,7580,20223,24148,19.4
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","Employment income","Both sexes",13145,14580,8810,9810,25342,26167,3.3
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","Employment income","Males",6195,6815,4430,4865,34878,35281,1.2
+"920","Salmon Arm","CA","British Columbia","59","",5.1,"00000","Employment income","Females",6950,7765,4380,4950,19420,21099,8.6
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","Total income","Both sexes",76345,85015,73075,82265,30363,35642,17.4
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","Total income","Males",36965,41575,35625,40315,41127,46328,12.6
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","Total income","Females",39380,43450,37455,41945,22766,28490,25.1
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","After-tax income","Both sexes",76345,85015,73080,82350,27816,31935,14.8
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","After-tax income","Males",36965,41575,35625,40370,36207,40269,11.2
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","After-tax income","Females",39380,43450,37455,41980,21709,26303,21.2
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","Employment income","Both sexes",76345,85015,54810,62275,30094,32797,9.0
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","Employment income","Males",36965,41575,28170,31920,42001,44160,5.1
+"925","Kamloops","CA","British Columbia","59","",5.4,"00000","Employment income","Females",39380,43450,26635,30360,22590,25712,13.8
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","Total income","Both sexes",66070,80555,63255,77615,28504,31679,11.1
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","Total income","Males",31930,39100,30775,37810,38656,41259,6.7
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","Total income","Females",34140,41455,32475,39810,21666,24905,14.9
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","After-tax income","Both sexes",66070,80555,63260,77705,26176,28798,10.0
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","After-tax income","Males",31930,39100,30770,37870,34293,36328,5.9
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","After-tax income","Females",34140,41455,32485,39835,20925,23631,12.9
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","Employment income","Both sexes",66070,80555,45390,56565,29248,29370,0.4
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","Employment income","Males",31930,39100,23660,29375,38814,39368,1.4
+"930","Chilliwack","CA","British Columbia","59","",5.3,"00000","Employment income","Females",34140,41455,21730,27190,21261,22183,4.3
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","Total income","Both sexes",124235,143095,118560,137190,27614,30370,10.0
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","Total income","Males",60690,69870,58310,67115,36759,39336,7.0
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","Total income","Females",63540,73225,60255,70065,21459,24260,13.1
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","After-tax income","Both sexes",124235,143095,118530,137355,25652,27737,8.1
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","After-tax income","Males",60690,69870,58290,67265,32976,34507,4.6
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","After-tax income","Females",63540,73225,60240,70090,20704,23178,11.9
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","Employment income","Both sexes",124235,143095,90150,104680,29027,29555,1.8
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","Employment income","Males",60690,69870,47180,54015,38173,39501,3.5
+"932","Abbotsford - Mission","CMA","British Columbia","59","",4.3,"00000","Employment income","Females",63540,73225,42970,50670,21333,22041,3.3
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","Total income","Both sexes",1747160,2064585,1655960,1978490,29652,32612,10.0
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","Total income","Males",843905,998870,804890,957500,36339,38879,7.0
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","Total income","Females",903255,1065720,851075,1020990,24576,27793,13.1
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","After-tax income","Both sexes",1747160,2064585,1655185,1981210,27185,29422,8.2
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","After-tax income","Males",843905,998870,804400,959985,32611,34038,4.4
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","After-tax income","Females",903255,1065720,850785,1021220,23212,25878,11.5
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","Employment income","Both sexes",1747160,2064585,1240200,1487050,32676,33621,2.9
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","Employment income","Males",843905,998870,634430,752840,39303,40050,1.9
+"933","Vancouver","CMA","British Columbia","59","",4.4,"00000","Employment income","Females",903255,1065720,605775,734215,26924,28268,5.0
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","Total income","Both sexes",11965,15580,11475,15220,35584,39614,11.3
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","Total income","Males",6025,7875,5830,7695,45424,47943,5.5
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","Total income","Females",5940,7705,5645,7525,26472,32859,24.1
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","After-tax income","Both sexes",11965,15580,11450,15235,32124,34914,8.7
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","After-tax income","Males",6025,7875,5820,7710,39215,40943,4.4
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","After-tax income","Females",5940,7705,5635,7530,24985,30004,20.1
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","Employment income","Both sexes",11965,15580,9190,12840,35338,36262,2.6
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","Employment income","Males",6025,7875,4860,6680,45507,44333,-2.6
+"934","Squamish","CA","British Columbia","59","",6.2,"00100","Employment income","Females",5940,7705,4325,6160,27241,30261,11.1
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","Total income","Both sexes",275260,309500,265670,300255,33811,37481,10.9
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","Total income","Males",130220,148135,125760,143625,41323,43726,5.8
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","Total income","Females",145040,161365,139905,156630,28389,32870,15.8
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","After-tax income","Both sexes",275260,309500,265590,300620,30385,33302,9.6
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","After-tax income","Males",130220,148135,125735,143905,36370,37991,4.5
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","After-tax income","Females",145040,161365,139850,156715,26060,29775,14.3
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","Employment income","Both sexes",275260,309500,198720,226575,31194,32495,4.2
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","Employment income","Males",130220,148135,99090,112585,37360,38013,1.7
+"935","Victoria","CMA","British Columbia","59","",5.0,"20000","Employment income","Females",145040,161365,99630,113985,26161,28150,7.6
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","Total income","Both sexes",33570,36430,32045,35090,27372,30789,12.5
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","Total income","Males",16105,17500,15390,16860,37489,38405,2.4
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","Total income","Females",17470,18925,16660,18230,21261,25731,21.0
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","After-tax income","Both sexes",33570,36430,32010,35135,25235,28115,11.4
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","After-tax income","Males",16105,17500,15375,16895,33730,34124,1.2
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","After-tax income","Females",17470,18925,16630,18240,20564,24276,18.1
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","Employment income","Both sexes",33570,36430,22030,24215,26103,26432,1.3
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","Employment income","Males",16105,17500,11340,12300,36362,33102,-9.0
+"937","Duncan","CA","British Columbia","59","",5.6,"00000","Employment income","Females",17470,18925,10685,11910,19661,21770,10.7
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","Total income","Both sexes",76030,86875,72730,84090,28213,32352,14.7
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","Total income","Males",36645,42005,35150,40625,36095,39029,8.1
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","Total income","Females",39390,44870,37580,43465,23159,27459,18.6
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","After-tax income","Both sexes",76030,86875,72675,84170,26029,29249,12.4
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","After-tax income","Males",36645,42005,35105,40690,32367,34267,5.9
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","After-tax income","Females",39390,44870,37565,43485,21957,25600,16.6
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","Employment income","Both sexes",76030,86875,51900,60275,26102,28200,8.0
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","Employment income","Males",36645,42005,26400,30315,33327,33963,1.9
+"938","Nanaimo","CA","British Columbia","59","",4.9,"00000","Employment income","Females",39390,44870,25505,29965,21533,23983,11.4
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","Total income","Both sexes",22995,25535,22325,25055,28500,32500,14.0
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","Total income","Males",10740,11830,10435,11605,38972,41283,5.9
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","Total income","Females",12260,13705,11890,13450,21827,26541,21.6
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","After-tax income","Both sexes",22995,25535,22320,25080,26212,29302,11.8
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","After-tax income","Males",10740,11830,10435,11620,34608,36561,5.6
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","After-tax income","Females",12260,13705,11890,13465,20861,24764,18.7
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","Employment income","Both sexes",22995,25535,12445,14495,22231,19008,-14.5
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","Employment income","Males",10740,11830,6465,7350,27886,21722,-22.1
+"939","Parksville","CA","British Columbia","59","",4.8,"00000","Employment income","Females",12260,13705,5980,7150,17782,17231,-3.1
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","Total income","Both sexes",20845,20995,19765,20225,27784,30075,8.2
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","Total income","Males",10425,10395,9955,10045,39803,37888,-4.8
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","Total income","Females",10420,10595,9810,10185,20128,23798,18.2
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","After-tax income","Both sexes",20845,20995,19760,20245,25888,27486,6.2
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","After-tax income","Males",10425,10395,9955,10065,35158,33857,-3.7
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","After-tax income","Females",10420,10595,9810,10185,19343,22686,17.3
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","Employment income","Both sexes",20845,20995,13595,13780,24944,24533,-1.6
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","Employment income","Males",10425,10395,7430,7385,35514,29875,-15.9
+"940","Port Alberni","CA","British Columbia","59","",4.9,"00000","Employment income","Females",10420,10595,6165,6395,17431,21011,20.5
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","Total income","Both sexes",40310,45830,38600,44475,28843,32732,13.5
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","Total income","Males",19230,21725,18550,21105,39718,41978,5.7
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","Total income","Females",21080,24110,20045,23370,21626,26507,22.6
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","After-tax income","Both sexes",40310,45830,38585,44540,26484,29441,11.2
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","After-tax income","Males",19230,21725,18540,21135,35202,36976,5.0
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","After-tax income","Females",21080,24110,20045,23405,20654,24578,19.0
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","Employment income","Both sexes",40310,45830,26555,31100,24618,23483,-4.6
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","Employment income","Males",19230,21725,13550,15700,32456,28275,-12.9
+"943","Courtenay","CA","British Columbia","59","",4.0,"00000","Employment income","Females",21080,24110,13005,15400,19369,20235,4.5
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","Total income","Both sexes",28130,31300,26600,30185,28744,33218,15.6
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","Total income","Males",13985,15380,13365,14890,41211,42950,4.2
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","Total income","Females",14145,15920,13235,15300,21717,26309,21.1
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","After-tax income","Both sexes",28130,31300,26590,30215,26387,30012,13.7
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","After-tax income","Males",13985,15380,13360,14910,36211,37743,4.2
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","After-tax income","Females",14145,15920,13235,15305,20934,24648,17.7
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","Employment income","Both sexes",28130,31300,19880,21980,27784,27793,0.0
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","Employment income","Males",13985,15380,10565,11415,40569,37243,-8.2
+"944","Campbell River","CA","British Columbia","59","",4.5,"00000","Employment income","Females",14145,15920,9320,10570,19964,22343,11.9
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","Total income","Both sexes",13595,14180,12930,13775,27874,30563,9.6
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","Total income","Males",6640,6955,6435,6770,38830,38637,-0.5
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","Total income","Females",6955,7225,6495,7005,21412,24602,14.9
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","After-tax income","Both sexes",13595,14180,12910,13780,25975,27963,7.7
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","After-tax income","Males",6640,6955,6420,6775,34270,34293,0.1
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","After-tax income","Females",6955,7225,6490,7010,20370,23367,14.7
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","Employment income","Both sexes",13595,14180,8680,9485,26819,23296,-13.1
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","Employment income","Males",6640,6955,4665,5055,35508,26432,-25.6
+"945","Powell River","CA","British Columbia","59","",5.2,"00000","Employment income","Females",6955,7225,4010,4430,21181,20883,-1.4
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","Total income","Both sexes",15105,14790,14335,14335,29930,34659,15.8
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","Total income","Males",7555,7450,7310,7255,42575,48628,14.2
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","Total income","Females",7555,7340,7030,7075,22180,26323,18.7
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","After-tax income","Both sexes",15105,14790,14340,14350,27517,31308,13.8
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","After-tax income","Males",7555,7450,7310,7270,37520,42052,12.1
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","After-tax income","Females",7555,7340,7030,7080,21170,24759,17.0
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","Employment income","Both sexes",15105,14790,11175,10965,31325,34610,10.5
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","Employment income","Males",7555,7450,6010,5815,47790,52109,9.0
+"950","Williams Lake","CA","British Columbia","59","",5.5,"00100","Employment income","Females",7555,7340,5160,5155,21773,24739,13.6
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","Total income","Both sexes",18170,19215,17035,18455,29167,31417,7.7
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","Total income","Males",9070,9670,8650,9360,45245,45284,0.1
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","Total income","Females",9100,9540,8385,9095,21077,23486,11.4
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","After-tax income","Both sexes",18170,19215,17020,18475,26710,28719,7.5
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","After-tax income","Males",9070,9670,8650,9375,39536,39418,-0.3
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","After-tax income","Females",9100,9540,8370,9100,20277,22446,10.7
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","Employment income","Both sexes",18170,19215,12760,13480,33341,30427,-8.7
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","Employment income","Males",9070,9670,6930,7275,52154,49638,-4.8
+"952","Quesnel","CA","British Columbia","59","",4.5,"00000","Employment income","Females",9100,9540,5830,6210,20730,21539,3.9
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","Total income","Both sexes",10545,10215,9970,9830,29411,34315,16.7
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","Total income","Males",5185,5170,4930,5000,35416,41789,18.0
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","Total income","Females",5360,5045,5040,4830,26362,29318,11.2
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","After-tax income","Both sexes",10545,10215,9970,9835,26991,31014,14.9
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","After-tax income","Males",5185,5170,4925,5005,32158,36395,13.2
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","After-tax income","Females",5360,5045,5045,4835,24309,27115,11.5
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","Employment income","Both sexes",10545,10215,7650,7755,28415,33402,17.6
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","Employment income","Males",5185,5170,3875,4070,36264,42642,17.6
+"955","Prince Rupert","CA","British Columbia","59","",4.5,"00100","Employment income","Females",5360,5045,3775,3680,24598,27040,9.9
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","Total income","Both sexes",11915,12625,11310,12200,29463,36279,23.1
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","Total income","Males",5890,6315,5585,6125,38351,46639,21.6
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","Total income","Females",6020,6305,5725,6075,24725,29888,20.9
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","After-tax income","Both sexes",11915,12625,11305,12210,27180,32624,20.0
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","After-tax income","Males",5890,6315,5590,6130,35334,40239,13.9
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","After-tax income","Females",6020,6305,5720,6080,22962,27524,19.9
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","Employment income","Both sexes",11915,12625,8590,9560,30866,35176,14.0
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","Employment income","Males",5890,6315,4415,4970,41331,47221,14.3
+"965","Terrace","CA","British Columbia","59","",4.2,"00000","Employment income","Females",6020,6305,4175,4590,24973,27845,11.5
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","Total income","Both sexes",66500,70050,63580,67460,33288,38108,14.5
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","Total income","Males",33190,34905,31930,33700,47242,50190,6.2
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","Total income","Females",33305,35145,31645,33760,24008,29844,24.3
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","After-tax income","Both sexes",66500,70050,63545,67535,30061,33886,12.7
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","After-tax income","Males",33190,34905,31920,33760,40730,42994,5.6
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","After-tax income","Females",33305,35145,31620,33785,22659,27364,20.8
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","Employment income","Both sexes",66500,70050,51515,54085,34990,37123,6.1
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","Employment income","Males",33190,34905,27135,28235,49725,50457,1.5
+"970","Prince George","CA","British Columbia","59","",4.1,"00000","Employment income","Females",33305,35145,24380,25855,24379,28542,17.1
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","Total income","Both sexes",8615,9460,8350,9185,31795,40303,26.8
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","Total income","Males",4135,4655,4050,4530,43778,55782,27.4
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","Total income","Females",4480,4810,4305,4655,23993,31000,29.2
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","After-tax income","Both sexes",8615,9460,8345,9185,29062,35755,23.0
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","After-tax income","Males",4135,4655,4040,4530,38975,47680,22.3
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","After-tax income","Females",4480,4810,4305,4655,22821,28533,25.0
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","Employment income","Both sexes",8615,9460,6695,7600,33377,41037,22.9
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","Employment income","Males",4135,4655,3500,3945,43775,56759,29.7
+"975","Dawson Creek","CA","British Columbia","59","",6.3,"00100","Employment income","Females",4480,4810,3195,3655,24671,30029,21.7
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","Total income","Both sexes",19480,21930,18895,21235,38502,49672,29.0
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","Total income","Males",10130,11335,9920,11050,56097,71557,27.6
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","Total income","Females",9350,10585,8975,10185,24662,34338,39.2
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","After-tax income","Both sexes",19480,21930,18895,21255,34167,42967,25.8
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","After-tax income","Males",10130,11335,9920,11070,47371,58702,23.9
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","After-tax income","Females",9350,10585,8970,10190,23015,31145,35.3
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","Employment income","Both sexes",19480,21930,16615,18575,39261,49740,26.7
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","Employment income","Males",10130,11335,9205,10125,56051,70752,26.2
+"977","Fort St. John","CA","British Columbia","59","",4.6,"00000","Employment income","Females",9350,10585,7410,8450,24961,33448,34.0
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","Total income","Both sexes",18235,22660,17515,21965,40607,48956,20.6
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","Total income","Males",8910,11075,8525,10730,43974,53177,20.9
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","Total income","Females",9325,11580,8995,11240,37446,45574,21.7
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","After-tax income","Both sexes",18235,22660,17515,21970,36555,43760,19.7
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","After-tax income","Males",8910,11075,8520,10730,38564,46966,21.8
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","After-tax income","Females",9325,11580,8995,11240,33771,41216,22.0
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","Employment income","Both sexes",18235,22660,15225,18895,40352,46825,16.0
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","Employment income","Males",8910,11075,7540,9335,43169,50259,16.4
+"990","Whitehorse","CA","Yukon","60","",5.2,"00100","Employment income","Females",9325,11580,7685,9565,37632,43592,15.8
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","Total income","Both sexes",14320,15405,13900,14990,52872,67792,28.2
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","Total income","Males",7225,7750,7055,7560,63078,76199,20.8
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","Total income","Females",7095,7650,6845,7430,45656,60416,32.3
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","After-tax income","Both sexes",14320,15405,13875,14985,45386,57925,27.6
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","After-tax income","Males",7225,7750,7045,7555,53681,63783,18.8
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","After-tax income","Females",7095,7650,6835,7430,40276,52754,31.0
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","Employment income","Both sexes",14320,15405,12680,13660,55966,67630,20.8
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","Employment income","Males",7225,7750,6565,6995,64928,75741,16.7
+"995","Yellowknife","CA","Northwest Territories","61","",6.4,"00100","Employment income","Females",7095,7650,6110,6670,48917,60828,24.3
+
